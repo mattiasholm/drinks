@@ -3,7 +3,7 @@
 ## Ingredients:
 - 4 cl `gin`
 - 1,5 cl `lime juice`
-- 10 cl `tonic water`
+- 8 cl `tonic water`
 - 10 `ice cubes`
 
 ## Instructions
