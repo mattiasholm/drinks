@@ -4,7 +4,7 @@
 - 5 cl `Disaronno`
 - 3 cl `lemon juice`
 - 3 cl `simple syrup`
-- 2 cl `egg white`
+- 1 `egg white`
 - 8 `ice cubes`
 - 2 dashes of `Angostura Bitter`
 
