@@ -10,7 +10,7 @@
 - Add Stroh 80
 - Add sugar
 - Add cacao powder
-- Fill up with cranberry juice
+- Fill up with milk
 
 ## Served in:
 - Mug
