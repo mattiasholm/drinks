@@ -4,7 +4,7 @@
 - 6 cl `Southern Comfort`
 - 2 cl `lime juice`
 - 10 cl `cranberry juice`
-- 10 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions
 - Add Southern Comfort

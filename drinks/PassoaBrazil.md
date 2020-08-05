@@ -4,7 +4,7 @@
 - 6 cl `Passoã`
 - 2 cl `vodka`
 - 10 cl `cranberry juice`
-- 10 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions
 - Add Passoã

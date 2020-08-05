@@ -4,7 +4,7 @@
 - 4 cl `gin`
 - 1,5 cl `lime juice`
 - 8 cl `tonic water`
-- 10 `ice cubes`
+- 6 `ice cubes`
 
 ## Instructions
 - Add gin

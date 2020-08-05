@@ -5,7 +5,7 @@
 - 2 cl `Blue Curaçao`
 - 1 cl `lime juice`
 - 10 cl `7 Up`
-- 10 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions
 - Add vodka
