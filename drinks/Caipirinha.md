@@ -19,4 +19,4 @@
 - Tumbler glass
 
 ## Rating:
-- 4/5
+- 3/5
