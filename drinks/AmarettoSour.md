@@ -1,7 +1,7 @@
 # Amaretto Sour
 
 ## Ingredients:
-- 5 cl `Disaronno`
+- 5 cl `Amaretto`
 - 3 cl `lemon juice`
 - 3 cl `simple syrup`
 - 1 `egg white`
@@ -9,7 +9,7 @@
 - 2 dashes of `Angostura Bitter`
 
 ## Instructions
-- Add Disaronno
+- Add Amaretto
 - Add lemon juice
 - Add simple syrup
 - Add egg white

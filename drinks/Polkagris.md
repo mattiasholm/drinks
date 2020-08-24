@@ -1,4 +1,4 @@
-# Sweet Bite
+# Polkagris
 
 ## Ingredients:
 - 6 cl `Crème de Menthe`
