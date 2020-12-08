@@ -5,7 +5,7 @@
 - 12 cl `7 Up`
 - 12 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Amaretto
 - Add ice and stir
 - Fill up with 7 Up

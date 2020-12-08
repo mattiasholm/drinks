@@ -5,7 +5,7 @@
 - 15 cl `Coca-Cola`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Captain Morgan
 - Add ice and stir
 - Fill up with Coca-Cola

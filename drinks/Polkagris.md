@@ -6,7 +6,7 @@
 - 16 cl `milk`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Crème de Menthe
 - Add grenadine
 - Add ice and stir

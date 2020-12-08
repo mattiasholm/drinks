@@ -5,7 +5,7 @@
 - 15 cl `Coca-Cola`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Amaretto
 - Add ice and stir
 - Fill up with Coca-Cola

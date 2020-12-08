@@ -6,7 +6,7 @@
 - 8 cl `tonic water`
 - 6 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add gin
 - Add lime juice
 - Add ice and stir

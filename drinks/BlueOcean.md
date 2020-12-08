@@ -7,7 +7,7 @@
 - 10 cl `7 Up`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add white rum
 - Add Blue Curaçao
 - Add lemon juice

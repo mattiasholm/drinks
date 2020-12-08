@@ -8,7 +8,7 @@
 - 8 `ice cubes`
 - 2 dashes of `Angostura Bitter`
 
-## Instructions
+## Instructions:
 - Add Bols Pinapple Chipotle
 - Add lemon juice
 - Add simple syrup

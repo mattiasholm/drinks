@@ -6,7 +6,7 @@
 - 1 ml `cardamom`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Amaretto
 - Add milk
 - Add cardamom

@@ -5,7 +5,7 @@
 - 12 cl `cranberry juice`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Amaretto
 - Add ice and stir
 - Fill up with cranberry juice

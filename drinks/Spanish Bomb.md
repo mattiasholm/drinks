@@ -7,7 +7,7 @@
 - 8 cl `milk`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add vodka
 - Add Licor 43
 - Add orange juice

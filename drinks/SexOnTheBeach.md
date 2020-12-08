@@ -7,7 +7,7 @@
 - 8 cl `cranberry juice`
 - 16 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add vodka
 - Add Peachtree
 - Add ice and stir

@@ -6,7 +6,7 @@
 - 10 cl `7 Up`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Licor 43
 - Add lime juice
 - Add ice and stir

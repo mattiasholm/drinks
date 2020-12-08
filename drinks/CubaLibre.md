@@ -6,7 +6,7 @@
 - 12 cl `Coca-Cola`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add white rum
 - Add lime juice
 - Add ice and stir

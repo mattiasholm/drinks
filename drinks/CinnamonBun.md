@@ -8,7 +8,7 @@
 - 8 `ice cubes`
 - 2 dashes of `cinnamon`
 
-## Instructions
+## Instructions:
 - Add Fireball
 - Add Licor 43
 - Add milk

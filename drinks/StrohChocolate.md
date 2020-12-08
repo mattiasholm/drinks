@@ -7,15 +7,15 @@
 - 2 dl `hot milk`
 - 2 tbsp `whipped cream`
 
-## Instructions
+## Instructions:
 - Add Stroh 80
 - Add sugar
 - Add cacao powder
 - Fill up with hot milk
-- Add whipped cream
+- Add lightly whipped cream
 
 ## Served in:
-- Mug
+- Mug (preheated with hot water)
 
 ## Rating:
 - 5/5

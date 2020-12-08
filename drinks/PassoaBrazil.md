@@ -6,7 +6,7 @@
 - 10 cl `cranberry juice`
 - 8 `ice cubes`
 
-## Instructions
+## Instructions:
 - Add Passoã
 - Add vodka
 - Add ice and stir
