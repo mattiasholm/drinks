@@ -8,14 +8,14 @@
 - 2 tbsp `whipped cream`
 
 ## Instructions:
+- Heat up the milk, sugar and cacao powder
 - Add Stroh 80
-- Add sugar
-- Add cacao powder
-- Fill up with hot milk
+- Add hot chocolate
 - Add lightly whipped cream
+- Garnish with mini marshmallows
 
 ## Served in:
-- Mug (preheated with hot water)
+- Tea mug (preheated with hot water)
 
 ## Rating:
 - 5/5

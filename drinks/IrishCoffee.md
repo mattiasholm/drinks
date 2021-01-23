@@ -13,7 +13,7 @@
 - Add lightly whipped cream
 
 ## Served in:
-- Mug (preheated with hot water)
+- Coffee mug (preheated with hot water)
 
 ## Rating:
 - 5/5
