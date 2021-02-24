@@ -1,14 +1,16 @@
-# Original Collins
+# Elderflower Collins
 
 ## Ingredients:
-- 3 cl `genever`
+- 2 cl `genever`
+- 2 cl `Bols Elderflower`
 - 4 cl `lemon juice`
-- 2 cl `simple syrup (1:1)`
+- 1 cl `simple syrup (1:1)`
 - 10 cl `soda water`
 - 10 `ice cubes`
 
 ## Instructions:
 - Add genever
+- Add Bols Elderflower
 - Add lemon juice
 - Add simple syrup
 - Add ice and stir
@@ -19,4 +21,4 @@
 - Highball glass
 
 ## Rating:
-- 4/5
+- 5/5
