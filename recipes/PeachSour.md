@@ -1,7 +1,7 @@
-# Amaretto Sour
+# Peach Sour
 
 ## Ingredients:
-- 5 cl `Amaretto`
+- 5 cl `Peachtree`
 - 3 cl `lemon juice`
 - 3 cl `simple syrup (1:1)`
 - 2 cl `egg white`
@@ -9,7 +9,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Amaretto
+- Add Peachtree
 - Add lemon juice
 - Add simple syrup
 - Add egg white
@@ -21,4 +21,4 @@
 - Coupe glass
 
 ## Rating:
-- 5/5
+- 4/5

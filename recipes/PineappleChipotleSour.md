@@ -4,7 +4,7 @@
 - 5 cl `Bols Pinapple Chipotle`
 - 3 cl `lemon juice`
 - 3 cl `simple syrup (1:1)`
-- 0,5 `egg white`
+- 2 cl `egg white`
 - 2 dashes of `Angostura Bitter`
 - 8 `ice cubes`
 
