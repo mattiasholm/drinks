@@ -12,10 +12,11 @@
 - Add Licor 43
 - Add orange juice
 - Add milk
-- Add ice and dry shake for 10 seconds, then shake for another 10 seconds
+- Dry shake for 10 seconds
+- Add ice and shake for another 10 seconds
 
 ## Served in:
 - Highball glass
 
 ## Rating:
-- 5/5
+- 5/**5**

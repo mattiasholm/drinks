@@ -4,17 +4,18 @@
 - 5 cl `Amaretto`
 - 3 cl `lemon juice`
 - 3 cl `simple syrup (1:1)`
-- 1 `egg white`
-- 8 `ice cubes`
+- 0,5 `egg white`
 - 2 dashes of `Angostura Bitter`
+- 8 `ice cubes`
 
 ## Instructions:
 - Add Amaretto
 - Add lemon juice
 - Add simple syrup
 - Add egg white
-- Add ice and dry shake for 10 seconds, then shake for another 10 seconds
 - Add 2 dashes of Angostura Bitter
+- Dry shake for 10 seconds
+- Add ice and shake for another 10 seconds
 
 ## Served in:
 - Coupe glass

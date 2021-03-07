@@ -12,9 +12,9 @@
 - Add Fireball
 - Add Licor 43
 - Add milk
-- 
 - Add cardamom
-- Add ice and dry shake for 10 seconds, then shake for another 10 seconds
+- Dry shake for 10 seconds
+- Add ice and shake for another 10 seconds
 - Garnish with cinnamon
 
 ## Served in:

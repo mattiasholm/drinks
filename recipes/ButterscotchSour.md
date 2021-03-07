@@ -1,15 +1,15 @@
-# Pineapple Chipotle Sour
+# Butterscotch Sour
 
 ## Ingredients:
-- 5 cl `Bols Pinapple Chipotle`
+- 5 cl `Bols Butterscotch`
 - 3 cl `lemon juice`
-- 3 cl `simple syrup (1:1)`
+- 2 cl `simple syrup (1:1)`
 - 0,5 `egg white`
 - 2 dashes of `Angostura Bitter`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Bols Pinapple Chipotle
+- Add Bols Butterscotch
 - Add lemon juice
 - Add simple syrup
 - Add egg white
@@ -21,4 +21,4 @@
 - Coupe glass
 
 ## Rating:
-- 5/5
+- 4/5
