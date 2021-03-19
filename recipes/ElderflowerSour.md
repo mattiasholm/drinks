@@ -1,4 +1,4 @@
-# Passoã Sour
+# Elderflower Sour
 
 ## Ingredients:
 - 5 cl `Bols Elderflower`
