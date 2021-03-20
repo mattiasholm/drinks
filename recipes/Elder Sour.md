@@ -1,4 +1,4 @@
-# Elderflower Sour
+# Elder Sour
 
 ## Ingredients:
 - 5 cl `Bols Elderflower`
