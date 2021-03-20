@@ -9,7 +9,7 @@
 ## Instructions:
 - Cut off the ends of the lime and then cut it in half
 - Cut away the white pulp in the middle of the lime
-- Cut each half in 4 pieces 
+- Cut each half in 4 pieces  
 - Add sugar
 - Muddle the lime pieces to extract the juice and dissolve the sugar
 - Add crushed ice

@@ -10,7 +10,7 @@
 ## Instructions:
 - Cut off the ends of the lime and then cut it in half
 - Cut away the white pulp in the middle of the lime
-- Cut the lime in 4 pieces and add it
+- Cut each half in 4 pieces  
 - Add blueberries
 - Add sugar
 - Muddle the lime pieces and blueberries to extract the juice and dissolve the sugar
@@ -18,7 +18,7 @@
 - Add cachaça
 
 ## Served in:
-- Tumbler glass
+- Highball glass
 
 ## Rating:
 - 2/5
