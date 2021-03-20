@@ -17,4 +17,4 @@
 - Tumbler glass
 
 ## Rating:
-- 5/5
+- ★★★★★

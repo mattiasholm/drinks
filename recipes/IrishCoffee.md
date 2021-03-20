@@ -16,4 +16,4 @@
 - Coffee mug (preheated with hot water)
 
 ## Rating:
-- 5/5
+- ★★★★★

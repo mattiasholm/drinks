@@ -19,4 +19,4 @@
 - Hurricane glass
 
 ## Rating:
-- 5/5
+- ★★★★★
