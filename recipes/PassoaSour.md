@@ -13,7 +13,7 @@
 - Add lemon juice
 - Add simple syrup
 - Add egg white
-- Add 2 dashes of Angostura Bitter
+- Add Angostura Bitter
 - Dry shake for 10 seconds
 - Add ice and shake for another 10 seconds
 
