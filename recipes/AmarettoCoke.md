@@ -1,4 +1,4 @@
-# Amaretto & Coke
+# Amaretto & Coke <span style="color:gold">★★★★</span>☆
 
 ## Ingredients:
 - 4 cl `Amaretto`
@@ -16,3 +16,9 @@
 
 ## Rating:
 - ★★★★☆
+
+## Rating:
+- <span style="color:gold">★★★★</span>☆
+
+## Rating:
+<span style="color:gold">★★★★</span>☆
