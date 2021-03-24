@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `cachaça`
-- 1 pcs `lime`
+- 1 `lime`
 - 2 tbsp `cane sugar`
 - 16 `ice cubes`
 

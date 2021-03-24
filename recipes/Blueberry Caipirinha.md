@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `cachaça`
-- 1 pcs `lime`
+- 1 `lime`
 - 2 tbsp `cane sugar`
 - 1 dl `blueberries`
 - 12 `ice cubes`
