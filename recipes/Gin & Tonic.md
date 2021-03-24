@@ -13,7 +13,7 @@
 - Fill up with tonic water
 
 ## Served in:
-- Tumbler glass
+- Copa glass
 
 ## Rating:
 - ★★★★★
