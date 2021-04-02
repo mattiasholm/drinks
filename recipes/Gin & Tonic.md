@@ -1,10 +1,10 @@
 # Gin & Tonic
 
 ## Ingredients:
-- 4 cl `gin`
-- 8 cl `tonic water`
+- 5 cl `gin`
+- 10 cl `tonic water`
 - 2 lime wedges
-- 6 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions:
 - Add gin
