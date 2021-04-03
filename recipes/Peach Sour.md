@@ -14,8 +14,9 @@
 - Add simple syrup
 - Add egg white
 - Add Angostura Bitter
-- Dry shake for 10 seconds
-- Add ice and shake for another 10 seconds
+- Dry shake for 30 seconds
+- Add ice and shake for 10 seconds
+- Double strain
 
 ## Served in:
 - Coupe glass

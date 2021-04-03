@@ -13,8 +13,9 @@
 - Add Licor 43
 - Add milk
 - Add cardamom
-- Dry shake for 10 seconds
-- Add ice and shake for another 10 seconds
+- Dry shake for 30 seconds
+- Add ice and shake for 10 seconds
+- Double strain
 - Garnish with cinnamon
 
 ## Served in:
