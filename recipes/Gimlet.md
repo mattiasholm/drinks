@@ -17,4 +17,4 @@
 - Martini glass
 
 ## Rating:
-- ★★★★★
+- ★★★★☆
