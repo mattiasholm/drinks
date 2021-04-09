@@ -9,7 +9,7 @@
 ## Instructions:
 - Add gin
 - Add Rose's Lime Juice Cordial
-- Add ice and stir for 60 seconds
+- Add ice and stir for 2 minutes
 - Double strain
 - Add squeezed lime wedge
 
