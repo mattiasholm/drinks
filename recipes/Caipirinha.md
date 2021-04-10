@@ -12,7 +12,7 @@
 - Cut each half in 4 pieces  
 - Add sugar
 - Muddle the lime pieces to extract the juice and dissolve the sugar
-- Add crushed ice
+- Add crushed ice and stir
 - Add cachaça
 
 ## Served in:

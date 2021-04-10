@@ -14,7 +14,7 @@
 - Add blueberries
 - Add sugar
 - Muddle the lime pieces and blueberries to extract the juice and dissolve the sugar
-- Add crushed ice
+- Add crushed ice and stir
 - Add cachaça
 
 ## Served in:
