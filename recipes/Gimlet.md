@@ -9,7 +9,7 @@
 ## Instructions:
 - Add gin
 - Add Rose's Lime Juice Cordial
-- Add ice and stir for 2 minutes
+- Add ice and shake for 10 seconds
 - Double strain
 - Add squeezed lime wedge
 
@@ -17,4 +17,4 @@
 - Martini glass
 
 ## Rating:
-- ★★★★☆
+- ★★★★★
