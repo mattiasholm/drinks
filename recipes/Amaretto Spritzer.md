@@ -3,7 +3,7 @@
 ## Ingredients:
 - 6 cl `Amaretto`
 - 12 cl `7 Up`
-- 12 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions:
 - Add Amaretto

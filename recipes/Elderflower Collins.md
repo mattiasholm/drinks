@@ -6,7 +6,7 @@
 - 4 cl `lemon juice`
 - 1 cl `simple syrup (1:1)`
 - 10 cl `soda water`
-- 10 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions:
 - Add genever

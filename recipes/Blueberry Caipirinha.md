@@ -5,7 +5,7 @@
 - 1 `lime`
 - 2 tbsp `cane sugar`
 - 1 dl `blueberries`
-- 12 `ice cubes`
+- 16 `ice cubes`
 
 ## Instructions:
 - Cut off the ends of the lime and then cut it in half
