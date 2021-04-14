@@ -11,7 +11,6 @@
 - Add vodka
 - Add ice and stir
 - Fill up with cranberry juice
-- Garnish with lime wedges
 
 ## Served in:
 - Highball glass

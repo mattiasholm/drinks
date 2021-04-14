@@ -9,7 +9,6 @@
 - Add Southern Comfort
 - Add ice and stir
 - Fill up with Coca-Cola
-- Garnish with lime wedges
 
 ## Served in:
 - Highball glass

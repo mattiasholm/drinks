@@ -13,7 +13,7 @@
 - Add lemon juice
 - Add ice and stir
 - Fill up with 7 Up
-- Garnish with lemon wedges
+- Garnish with lemon slice
 
 ## Served in:
 - Highball glass

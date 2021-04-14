@@ -13,7 +13,7 @@
 - Add simple syrup
 - Add ice and stir
 - Fill up with soda water
-- Garnish with lemon wedges
+- Garnish with lemon slice
 
 ## Served in:
 - Highball glass

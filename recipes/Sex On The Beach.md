@@ -13,7 +13,6 @@
 - Add ice and stir
 - Add orange juice
 - Add cranberry juice
-- Garnish with orange wedge
 
 ## Served in:
 - Hurricane glass
