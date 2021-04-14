@@ -5,7 +5,7 @@
 - 3 cl `Peachtree`
 - 8 cl `orange juice`
 - 8 cl `cranberry juice`
-- 16 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions:
 - Add vodka

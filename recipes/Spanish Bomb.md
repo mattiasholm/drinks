@@ -5,7 +5,7 @@
 - 2 cl `Licor 43`
 - 8 cl `orange juice`
 - 8 cl `milk`
-- 8 `ice cubes`
+- 16 `ice cubes`
 
 ## Instructions:
 - Add vodka

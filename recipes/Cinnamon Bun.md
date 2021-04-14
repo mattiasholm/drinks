@@ -5,8 +5,8 @@
 - 2 cl `Licor 43`
 - 8 cl `milk`
 - 1 ml `cardamom`
-- 8 `ice cubes`
 - 2 dashes of `cinnamon`
+- 8 `ice cubes`
 
 ## Instructions:
 - Add Fireball
