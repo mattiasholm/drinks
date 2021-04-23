@@ -1,8 +1,8 @@
 # Passoã Sour
 
 ## Ingredients:
-- 6 cl `Passoã`
-- 4 cl `lemon juice`
+- 5 cl `Passoã`
+- 3 cl `lemon juice`
 - 2 cl `simple syrup (1:1)`
 - 2 cl `egg white`
 - 2 dashes of `Angostura Bitter`
