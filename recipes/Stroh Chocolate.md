@@ -4,8 +4,8 @@
 - 3 cl `Stroh 80`
 - 1 tbsp `sugar`
 - 1 tbsp `cacao powder`
-- 2 dl `milk`
-- 2 tbsp `cream`
+- 20 cl `milk`
+- 3 cl `cream`
 
 ## Instructions:
 - Heat up the milk, sugar and cacao powder

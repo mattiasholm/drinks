@@ -3,8 +3,8 @@
 ## Ingredients:
 - 4 cl `Irish whiskey`
 - 2 tsp `brown sugar`
-- 1,5 dl `coffee`
-- 2 tbsp `cream`
+- 15 cl `coffee`
+- 3 cl `cream`
 
 ## Instructions:
 - Add Irish whiskey
