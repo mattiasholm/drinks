@@ -15,7 +15,7 @@
 - Double strain
 
 ## Served in:
-- Coupe glass
+- Old Fashioned glass
 
 ## Rating:
 - ★★★★★
