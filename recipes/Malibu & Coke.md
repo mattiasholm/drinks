@@ -1,0 +1,17 @@
+# Malibu & Coke
+
+## Ingredients:
+- 4 cl `Malibu`
+- 15 cl `Coca-Cola`
+- 8 `ice cubes`
+
+## Instructions:
+- Add Malibu
+- Add ice and stir
+- Fill up with Coca-Cola
+
+## Served in:
+- Highball glass
+
+## Rating:
+- ★★★★☆
