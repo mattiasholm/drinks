@@ -1,9 +1,9 @@
 # Toasted Almond
 
 ## Ingredients:
-- 6 cl `Amaretto` <!-- - 5 cl `Amaretto` -->
-- 6 cl `Kahlúa` <!-- - 5 cl `Kahlúa` -->
-- 6 cl `cream` <!-- - 8 cl `cream` -->
+- 5 cl `Amaretto`
+- 5 cl `Kahlúa`
+- 8 cl `cream`
 - 8 `ice cubes`
 
 ## Instructions:
