@@ -1,7 +1,7 @@
 # Solero
 
 ## Ingredients:
-- 5 cl `Licor 43` <!-- - 4 cl `Licor 43` -->
+- 4 cl `Licor 43`
 - 6 cl `passion fruit juice`
 - 8 cl `milk`
 - 8 `ice cubes`
