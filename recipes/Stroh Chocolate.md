@@ -15,7 +15,7 @@
 - Garnish with mini marshmallows
 
 ## Served in:
-- Tea mug (preheated with hot water)
+- Tea mug
 
 ## Rating:
 - ★★★★★

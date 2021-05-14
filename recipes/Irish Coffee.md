@@ -9,11 +9,11 @@
 ## Instructions:
 - Add Irish whiskey
 - Add brown sugar
-- Fill up with hot coffee
+- Fill up with coffee
 - Add lightly whipped cream
 
 ## Served in:
-- Coffee mug (preheated with hot water)
+- Coffee mug
 
 ## Rating:
 - ★★★★★
