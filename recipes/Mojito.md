@@ -5,7 +5,7 @@
 - 3 cl `lime juice`
 - 3 cl `raw sugar simple syrup (1:1)`
 - 10 `mint leaves`
-- 10 cl `soda water`
+- 8 cl `soda water`
 - 16 `ice cubes`
 
 ## Instructions:
