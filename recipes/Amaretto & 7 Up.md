@@ -1,4 +1,4 @@
-# Amaretto Spritzer
+# Amaretto & 7 Up
 
 ## Ingredients:
 - 4 cl `Amaretto`

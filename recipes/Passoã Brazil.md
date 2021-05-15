@@ -1,7 +1,7 @@
 # Passoã Brazil
 
 ## Ingredients:
-- 6 cl `Passoã`
+- 6 cl `Passoã` <!-- 4 cl `Passoã` -->
 - 2 cl `vodka`
 - 10 cl `cranberry juice`
 - 8 `ice cubes`
