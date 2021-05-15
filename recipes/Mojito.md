@@ -4,8 +4,8 @@
 - 4 cl `white rum`
 - 3 cl `lime juice`
 - 3 cl `raw sugar simple syrup (1:1)`
-- 10 `mint leaves` <!-- 15 `mint leaves` - smakade ju ingenting nu med 10!!!-->
-- 10 cl `soda water` <!-- 8 cl `soda water` - blev för blaskigt och mycket sodasak med 10!!!-->
+- 15 `mint leaves`
+- 8 cl `soda water`
 - 16 `ice cubes`
 
 ## Instructions:
