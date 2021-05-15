@@ -3,8 +3,8 @@
 ## Ingredients:
 - 6 cl `Peachtree`
 - 3 cl `lime juice`
-- 20 `cilantro leaves`
 - 10 cl `tonic water`
+- 20 `cilantro leaves`
 - 16 `ice cubes`
 
 ## Instructions:

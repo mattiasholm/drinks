@@ -13,7 +13,6 @@
 - Dry shake for 30 seconds
 - Add ice and shake for 10 seconds
 - Double strain
-- Garnish with cardamom
 
 ## Served in:
 - Coupe glass

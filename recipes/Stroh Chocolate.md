@@ -12,7 +12,6 @@
 - Add Stroh 80
 - Add hot chocolate
 - Add lightly whipped cream
-- Garnish with mini marshmallows
 
 ## Served in:
 - Tea mug

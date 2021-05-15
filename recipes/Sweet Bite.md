@@ -11,7 +11,6 @@
 - Add lime juice
 - Add ice and stir
 - Fill up with 7 Up
-- Garnish with lime wedges
 
 ## Served in:
 - Highball glass

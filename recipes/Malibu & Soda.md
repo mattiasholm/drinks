@@ -1,19 +1,19 @@
-# Cointreau & Tonic
+# Malibu & Soda
 
 ## Ingredients:
-- 5 cl `Cointreau`
-- 10 cl `tonic water`
+- 6 cl `Malibu`
+- 10 cl `soda water`
 - 2 `lime wedges`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Cointreau
+- Add Malibu
 - Add ice and stir
 - Add squeezed lime wedges
-- Fill up with tonic water
+- Fill up with soda water
 
 ## Served in:
-- Copa glass
+- Highball glass
 
 ## Rating:
-- ★★★★☆
+- ★★★☆☆

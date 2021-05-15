@@ -13,7 +13,6 @@
 - Add simple syrup
 - Add ice and stir
 - Fill up with soda water
-- Garnish with lemon slice
 
 ## Served in:
 - Copa glass

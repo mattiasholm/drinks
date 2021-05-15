@@ -4,8 +4,8 @@
 - 4 cl `white rum`
 - 3 cl `lime juice`
 - 3 cl `raw sugar simple syrup (1:1)`
-- 15 `mint leaves`
 - 8 cl `soda water`
+- 15 `mint leaves`
 - 16 `ice cubes`
 
 ## Instructions:
