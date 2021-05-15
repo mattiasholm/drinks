@@ -1,7 +1,7 @@
 # Amaretto Spritzer
 
 ## Ingredients:
-- 6 cl `Amaretto`
+- 4 cl `Amaretto`
 - 12 cl `7 Up`
 - 8 `ice cubes`
 
