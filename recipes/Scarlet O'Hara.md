@@ -3,7 +3,7 @@
 ## Ingredients:
 - 6 cl `Southern Comfort`
 - 2 cl `lime juice`
-- 10 cl `cranberry juice`
+- 10 cl `cranberry juice` <!-- 12 cl `cranberry juice` -->
 - 8 `ice cubes`
 
 ## Instructions:
