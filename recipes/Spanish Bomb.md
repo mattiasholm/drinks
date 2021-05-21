@@ -15,6 +15,7 @@
 - Dry shake for 30 seconds
 - Add ice and shake for 10 seconds
 - Double strain
+- Add ice and stir
 
 ## Served in:
 - Highball glass
