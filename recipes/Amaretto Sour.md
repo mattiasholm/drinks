@@ -3,9 +3,9 @@
 ## Ingredients:
 - 5 cl `Amaretto`
 - 3 cl `lemon juice`
-- 3 cl `simple syrup (1:1)`
+- 3 cl `simple syrup`
 - 2 cl `egg white`
-- 2 dashes of `Angostura Bitter`
+- 2 dashes `Angostura Bitter`
 - 8 `ice cubes`
 
 ## Instructions:

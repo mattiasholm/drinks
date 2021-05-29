@@ -3,7 +3,7 @@
 ## Ingredients:
 - 5 cl `gin`
 - 3 cl `lemon juice`
-- 2 cl `simple syrup (1:1)`
+- 2 cl `simple syrup`
 - 10 cl `soda water`
 - 8 `ice cubes`
 

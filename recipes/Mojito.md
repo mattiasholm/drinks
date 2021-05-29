@@ -3,7 +3,7 @@
 ## Ingredients:
 - 4 cl `white rum`
 - 3 cl `lime juice`
-- 3 cl `raw sugar simple syrup (1:1)`
+- 3 cl `raw sugar simple syrup`
 - 8 cl `soda water`
 - 15 `mint leaves`
 - 16 `ice cubes`
