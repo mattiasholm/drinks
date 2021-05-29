@@ -11,7 +11,7 @@
 - Add gin
 - Add lemon juice
 - Add simple syrup
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with soda water
 
 ## Served in:

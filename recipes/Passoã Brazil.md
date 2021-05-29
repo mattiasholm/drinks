@@ -9,7 +9,7 @@
 ## Instructions:
 - Add Passoã
 - Add vodka
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with cranberry juice
 
 ## Served in:

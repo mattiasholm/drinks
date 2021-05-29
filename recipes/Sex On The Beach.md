@@ -10,7 +10,7 @@
 ## Instructions:
 - Add vodka
 - Add Peachtree
-- Add ice and stir
+- Add ice cubes and stir
 - Add orange juice
 - Add cranberry juice
 

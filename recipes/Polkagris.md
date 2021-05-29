@@ -9,7 +9,7 @@
 ## Instructions:
 - Add Minttu Peppermint
 - Add grenadine
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with milk
 
 ## Served in:

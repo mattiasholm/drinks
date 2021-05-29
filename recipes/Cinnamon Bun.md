@@ -13,7 +13,7 @@
 - Add milk
 - Add cardamom
 - Dry shake for 30 seconds
-- Add ice and shake for 10 seconds
+- Add ice cubes and shake for 10 seconds
 - Double strain
 
 ## Served in:

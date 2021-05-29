@@ -11,7 +11,7 @@
 - Add vodka
 - Add grenadine
 - Add lime juice
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with 7 Up
 
 ## Served in:

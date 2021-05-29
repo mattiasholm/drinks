@@ -9,7 +9,7 @@
 ## Instructions:
 - Add white rum
 - Add lime juice
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with Coca-Cola
 
 ## Served in:

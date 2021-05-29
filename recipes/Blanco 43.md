@@ -7,7 +7,7 @@
 
 ## Instructions:
 - Add Licor 43
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with milk
 
 ## Served in:

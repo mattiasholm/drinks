@@ -8,7 +8,7 @@
 
 ## Instructions:
 - Add Malibu
-- Add ice and stir
+- Add ice cubes and stir
 - Add squeezed lime wedges
 - Fill up with soda water
 

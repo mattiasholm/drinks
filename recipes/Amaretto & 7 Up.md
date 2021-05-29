@@ -7,7 +7,7 @@
 
 ## Instructions:
 - Add Amaretto
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with 7 Up
 
 ## Served in:

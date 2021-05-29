@@ -7,7 +7,7 @@
 
 ## Instructions:
 - Add Captain Morgan
-- Add ice and stir
+- Add ice cubes and stir
 - Fill up with Coca-Cola
 
 ## Served in:

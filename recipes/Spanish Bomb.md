@@ -13,9 +13,9 @@
 - Add orange juice
 - Add milk
 - Dry shake for 30 seconds
-- Add ice and shake for 10 seconds
+- Add ice cubes and shake for 10 seconds
 - Double strain
-- Add ice and stir
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass
