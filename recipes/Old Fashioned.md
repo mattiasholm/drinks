@@ -4,7 +4,7 @@
 - 4 cl `bourbon`
 - 1 cl `raw sugar simple syrup`
 - 2 dashes `Angostura Bitter`
-- 1 orange twist
+- 1 `orange twist`
 - 8 `ice cubes`
 - 1 `ice ball`
 
