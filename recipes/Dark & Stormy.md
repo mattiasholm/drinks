@@ -1,7 +1,7 @@
 # Dark & Stormy
 
 ## Ingredients:
-- 4 cl `dark rum`
+- 5 cl `dark rum`
 - 10 cl `ginger beer`
 - 2 `lime wedges`
 - 2 dashes `Angostura Bitter`
