@@ -1,7 +1,7 @@
-# Whiskey Sour
+# Malibu Sour
 
 ## Ingredients:
-- 5 cl `bourbon`
+- 5 cl `Malibu`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 2 cl `egg white`
@@ -9,7 +9,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Add bourbon
+- Add Malibu
 - Add lemon juice
 - Add simple syrup
 - Add egg white
@@ -22,4 +22,4 @@
 - Coupe glass
 
 ## Rating:
-- ★★★☆☆
+- ★★★★☆
