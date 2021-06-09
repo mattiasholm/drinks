@@ -15,7 +15,7 @@
 - Add squeezed lime wedge
 
 ## Served in:
-- Martini glass
+- Coupe glass
 
 ## Rating:
 - ★★★★☆
