@@ -1,13 +1,13 @@
 # Polkagris
 
 ## Ingredients:
-- 6 cl `Minttu Peppermint`
+- 4 cl `Minttu`
 - 1 cl `grenadine`
 - 16 cl `milk`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Minttu Peppermint
+- Add Minttu
 - Add grenadine
 - Add ice cubes and stir
 - Fill up with milk
