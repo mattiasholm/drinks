@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `Licor 43`
-- 16 cl `milk`
+- 16 cl `milk` <!-- - 15 cl `milk` -->
 - 8 `ice cubes`
 
 ## Instructions:

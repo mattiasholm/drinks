@@ -3,7 +3,7 @@
 ## Ingredients:
 - 4 cl `Minttu`
 - 1 cl `grenadine`
-- 16 cl `milk`
+- 16 cl `milk` <!-- - 15 cl `milk` -->
 - 8 `ice cubes`
 
 ## Instructions:
