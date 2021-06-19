@@ -1,10 +1,11 @@
 # Toasted Almond
 
 ## Ingredients:
-- 5 cl `Amaretto`
-- 5 cl `Kahlúa`
-- 8 cl `cream`
+- 2 cl `Amaretto`
+- 2 cl `Kahlúa`
+- 4 cl `cream`
 - 8 `ice cubes`
+- 1 `ice ball`
 
 ## Instructions:
 - Add Amaretto
@@ -13,6 +14,7 @@
 - Dry shake for 30 seconds
 - Add ice cubes and shake for 10 seconds
 - Double strain
+- Add ice ball
 
 ## Served in:
 - Old Fashioned glass
