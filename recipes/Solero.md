@@ -4,7 +4,7 @@
 - 4 cl `Licor 43`
 - 6 cl `passion fruit juice`
 - 8 cl `milk`
-- 8 `ice cubes`
+- 16 `ice cubes`
 
 ## Instructions:
 - Add Licor 43
@@ -13,9 +13,10 @@
 - Dry shake for 30 seconds
 - Add ice cubes and shake for 10 seconds
 - Double strain
+- Add ice cubes and stir
 
 ## Served in:
-- Old Fashioned glass
+- Highball glass
 
 ## Rating:
 - ★★★★★
