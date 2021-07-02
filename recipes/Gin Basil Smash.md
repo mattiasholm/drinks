@@ -15,7 +15,7 @@
 - Add gin
 
 ## Served in:
-- Copa glass
+- Old Fashioned glass
 
 ## Rating:
 - ★★★☆☆

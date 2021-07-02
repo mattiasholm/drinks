@@ -17,7 +17,7 @@
 - Fill up with tonic water
 
 ## Served in:
-- Highball glass
+- Old Fashioned glass
 
 ## Rating:
 - ★★★☆☆

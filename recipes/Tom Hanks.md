@@ -1,8 +1,8 @@
 # Tom Hanks
 
 ## Ingredients:
-- 6 cl `Peachtree`
-- 3 cl `lime juice`
+- 6 cl `Peachtree` <!-- - 5 cl `Peachtree` -->
+- 3 cl `lime juice` <!-- - 2 `lime wedges` -->
 - 10 cl `tonic water`
 - 20 `cilantro leaves`
 - 16 `ice cubes`

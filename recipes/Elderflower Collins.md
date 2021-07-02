@@ -17,7 +17,7 @@
 - Fill up with soda water
 
 ## Served in:
-- Copa glass
+- Highball glass
 
 ## Rating:
 - ★★★★☆
