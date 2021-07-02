@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `Malibu`
-- 15 cl `Coca-Cola`
+- 15 cl `Coca-Cola` <!-- - 12 cl `Coca-Cola` -->
 - 8 `ice cubes`
 
 ## Instructions:

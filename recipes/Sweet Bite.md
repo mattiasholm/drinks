@@ -3,7 +3,7 @@
 ## Ingredients:
 - 6 cl `Licor 43`
 - 3 cl `lime juice`
-- 10 cl `7 Up`
+- 10 cl `7 Up` <!-- - 12 cl `7 Up` -->
 - 8 `ice cubes`
 
 ## Instructions:
