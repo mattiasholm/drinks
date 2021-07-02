@@ -1,4 +1,4 @@
-# Malibu & Soda
+# Malibu Soda
 
 ## Ingredients:
 - 6 cl `Malibu`
