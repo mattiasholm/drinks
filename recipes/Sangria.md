@@ -14,9 +14,9 @@
 - Add vodka
 - Add 7 Up
 - Add orange juice
-- Add ice cubes and stir
 - Add sliced oranges
 - Add sliced apples
+- Add ice cubes and stir
 
 ## Served in:
 - Pitcher
