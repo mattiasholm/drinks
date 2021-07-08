@@ -1,7 +1,7 @@
 # Amaretto Sour
 
 ## Ingredients:
-- 5 cl `Amaretto`
+- 5 cl `Disaronno `
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 2 cl `egg white`
@@ -9,7 +9,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Amaretto
+- Add Disaronno
 - Add lemon juice
 - Add simple syrup
 - Add egg white

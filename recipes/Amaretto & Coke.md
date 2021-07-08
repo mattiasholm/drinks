@@ -1,12 +1,12 @@
 # Amaretto & Coke
 
 ## Ingredients:
-- 4 cl `Amaretto`
+- 4 cl `Disaronno`
 - 15 cl `Coca-Cola` <!-- - 12 cl `Coca-Cola` -->
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Amaretto
+- Add Disaronno
 - Add ice cubes and stir
 - Fill up with Coca-Cola
 

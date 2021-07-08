@@ -1,13 +1,13 @@
 # Semla
 
 ## Ingredients:
-- 4 cl `Amaretto`
+- 4 cl `Disaronno `
 - 6 cl `milk` <!-- - 6 cl `cream` VS 3 cl `milk` + 3 cl `cream` -->
 - 1 ml `cardamom`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Amaretto
+- Add Disaronno
 - Add milk
 - Add cardamom
 - Dry shake for 30 seconds
