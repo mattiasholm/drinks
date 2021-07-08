@@ -10,7 +10,7 @@
 ## Instructions:
 - Add vodka
 - Add Kahlúa
-- Add ice cubes and stir for 2 minutes <!-- - Add ice cubes and stir -->
+- Add ice cubes and stir gently for 2 minutes <!-- - Add ice cubes and stir -->
 - Double strain
 - Add cream
 - Add ice ball
