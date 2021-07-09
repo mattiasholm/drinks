@@ -1,7 +1,7 @@
 # Semla
 
 ## Ingredients:
-- 4 cl `Disaronno `
+- 4 cl `Disaronno`
 - 6 cl `milk` <!-- - 6 cl `cream` VS 3 cl `milk` + 3 cl `cream` -->
 - 1 ml `cardamom`
 - 8 `ice cubes`

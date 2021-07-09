@@ -1,7 +1,7 @@
 # Amaretto Sour
 
 ## Ingredients:
-- 5 cl `Disaronno `
+- 5 cl `Disaronno`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 2 cl `egg white`

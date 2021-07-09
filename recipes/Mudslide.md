@@ -1,18 +1,17 @@
-# Toasted Almond
+# Mudslide
 
 ## Ingredients:
-- 2 cl `Disaronno`
+- 4 cl `Baileys`
 - 2 cl `Kahlúa`
-- 4 cl `cream`
+- 2 cl `vodka`
 - 8 `ice cubes`
 - 1 `ice ball`
 
 ## Instructions:
-- Add Disaronno
+- Add Baileys
 - Add Kahlúa
-- Add cream
-- Dry shake for 30 seconds
-- Add ice cubes and shake for 10 seconds
+- Add vodka
+- Add ice cubes and stir
 - Double strain
 - Add ice ball
 
@@ -20,4 +19,4 @@
 - Old Fashioned glass
 
 ## Rating:
-- ★★★★★
+- ★★★★☆
