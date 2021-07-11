@@ -11,7 +11,8 @@
 - Add Baileys
 - Add Kahlúa
 - Add vodka
-- Add ice cubes and stir
+- Dry shake for 30 seconds
+- Add ice cubes and shake for 10 seconds
 - Double strain
 - Add ice ball
 
@@ -19,4 +20,4 @@
 - Old Fashioned glass
 
 ## Rating:
-- ★★★★☆
+- ★★★★★
