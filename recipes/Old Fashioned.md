@@ -12,7 +12,7 @@
 - Add bourbon
 - Add raw sugar simple syrup
 - Add Angostura Bitter
-- Add ice cubes and stir gently for 2 minutes
+- Add ice cubes and stir for 2 minutes
 - Double strain
 - Add ice ball
 - Add orange twist
