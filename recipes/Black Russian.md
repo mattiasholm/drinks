@@ -3,12 +3,12 @@
 ## Ingredients:
 - 3 cl `Kahlúa`
 - 3 cl `vodka`
-- 8 `ice cubes`
+- 1 `ice ball`
 
 ## Instructions:
 - Add Kahlúa
 - Add vodka
-- Add ice cubes and stir
+- Add ice ball and stir
 
 ## Served in:
 - Old Fashioned glass
