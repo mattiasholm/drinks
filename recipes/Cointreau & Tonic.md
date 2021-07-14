@@ -4,11 +4,11 @@
 - 5 cl `Cointreau`
 - 10 cl `tonic water`
 - 2 `lime wedges`
-- 8 `ice cubes`
+- 1 `ice ball`
 
 ## Instructions:
 - Add Cointreau
-- Add ice cubes and stir
+- Add ice ball and stir
 - Add squeezed lime wedges
 - Fill up with tonic water
 
