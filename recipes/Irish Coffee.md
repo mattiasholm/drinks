@@ -3,13 +3,13 @@
 ## Ingredients:
 - 4 cl `Irish whiskey`
 - 2 tsp `brown sugar`
-- 15 cl `coffee`
-- 3 cl `cream`
+- 15 cl `hot coffee`
+- 3 cl `whipped cream`
 
 ## Instructions:
 - Add Irish whiskey
 - Add brown sugar
-- Fill up with coffee
+- Fill up with hot coffee
 - Add lightly whipped cream
 
 ## Served in:
