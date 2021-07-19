@@ -2,8 +2,8 @@
 
 ## Ingredients:
 - 4 cl `gin`
-- 2 cl `Rose's Lime Juice Cordial`
-- 1 `lime wedge`
+- 2 cl `Rose's Lime Juice Cordial` <!-- - 2 cl `lime juice` -->
+- 1 `lime wedge` <!-- - 1 cl `simple syrup` -->
 - 8 `ice cubes`
 
 ## Instructions:

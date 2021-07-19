@@ -1,4 +1,4 @@
-# White Leprechaun
+# White Irishman
 
 ## Ingredients:
 - 2 cl `Kahlúa`
