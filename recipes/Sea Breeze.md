@@ -1,16 +1,16 @@
-# Malibu Soda
+# Sea Breeze
 
 ## Ingredients:
-- 5 cl `Malibu`
-- 10 cl `soda water`
-- 2 `lime wedges`
+- 4 cl `vodka`
+- 8 cl `cranberry juice`
+- 4 cl `grapefruit juice`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Malibu
+- Add vodka
 - Add ice cubes and stir
-- Add squeezed lime wedges
-- Fill up with soda water
+- Add cranberry juice
+- Add grapefruit juice
 
 ## Served in:
 - Highball glass

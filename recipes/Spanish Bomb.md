@@ -1,8 +1,8 @@
 # Spanish Bomb
 
 ## Ingredients:
-- 2 cl `Licor 43`
-- 2 cl `vodka`
+- 2 cl `Licor 43` <!-- - 4 cl `Licor 43` -->
+- 2 cl `vodka` <!-- - 0 cl `vodka` -->
 - 8 cl `orange juice`
 - 8 cl `milk`
 - 16 `ice cubes`
