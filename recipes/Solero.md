@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `Licor 43`
-- 6 cl `passion fruit juice` <!-- - 8 cl `passion fruit juice` -->
+- 8 cl `passion fruit juice`
 - 8 cl `milk`
 - 16 `ice cubes`
 
