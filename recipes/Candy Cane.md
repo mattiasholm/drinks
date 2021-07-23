@@ -1,4 +1,4 @@
-# Polkagris
+# Candy Cane
 
 ## Ingredients:
 - 4 cl `Minttu`
