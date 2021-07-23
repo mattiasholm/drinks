@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 6 cl `Passoã` <!-- 4 cl `Passoã` -->
-- 2 cl `vodka`
+- 2 cl `vodka` <!-- - 0 cl `vodka` -->
 - 10 cl `cranberry juice` <!-- 12 cl `cranberry juice` -->
 - 8 `ice cubes`
 
