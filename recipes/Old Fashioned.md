@@ -3,7 +3,7 @@
 ## Ingredients:
 - 4 cl `bourbon`
 - 1 cl `raw sugar simple syrup`
-- 2 dashes `Angostura Bitter`
+- 2 dashes `Angostura Aromatic Bitters`
 - 1 `orange twist`
 - 8 `ice cubes`
 - 1 `ice ball`
@@ -11,7 +11,7 @@
 ## Instructions:
 - Add bourbon
 - Add raw sugar simple syrup
-- Add Angostura Bitter
+- Add Angostura Aromatic Bitters
 - Add ice cubes and stir for 2 minutes
 - Double strain
 - Add ice ball

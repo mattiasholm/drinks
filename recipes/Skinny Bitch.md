@@ -3,13 +3,14 @@
 ## Ingredients:
 - 5 cl `vodka`
 - 10 cl `soda water`
-- 4 `lime wedges`
+- 4 `lime wedges` <!-- - 2 cl `lime juice` -->
 - 8 `ice cubes`
 
 ## Instructions:
 - Add vodka
 - Add ice cubes and stir
 - Add squeezed lime wedges
+<!-- - Add lime juice -->
 - Fill up with soda water
 
 ## Served in:

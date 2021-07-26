@@ -5,7 +5,7 @@
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 2 cl `egg white`
-- 2 dashes `Angostura Bitter`
+- 2 dashes `Angostura Aromatic Bitters`
 - 8 `ice cubes`
 
 ## Instructions:
@@ -13,7 +13,7 @@
 - Add lemon juice
 - Add simple syrup
 - Add egg white
-- Add Angostura Bitter
+- Add Angostura Aromatic Bitters
 - Dry shake for 30 seconds
 - Add ice cubes and shake for 10 seconds
 - Double strain
