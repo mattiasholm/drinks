@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `vodka`
-- 12 cl `cranberry juice`
+- 10 cl `cranberry juice`
 - 8 `ice cubes`
 
 ## Instructions:
@@ -14,4 +14,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★☆☆
+- ★★★★☆
