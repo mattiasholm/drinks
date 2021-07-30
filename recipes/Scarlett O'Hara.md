@@ -2,8 +2,8 @@
 
 ## Ingredients:
 - 4 cl `Southern Comfort`
-- 2 cl `lime juice`
-- 12 cl `cranberry juice`
+- 1 cl `lime juice`
+- 10 cl `cranberry juice`
 - 8 `ice cubes`
 
 ## Instructions:
@@ -16,4 +16,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★★★
+- ★★★★☆
