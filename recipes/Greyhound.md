@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `vodka`
-- 12 cl `grapefruit juice` <!-- - 10 cl `grapefruit juice` -->
+- 10 cl `grapefruit juice`
 - 8 `ice cubes`
 
 ## Instructions:
