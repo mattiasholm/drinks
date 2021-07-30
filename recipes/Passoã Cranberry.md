@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `Passoã`
-- 12 cl `cranberry juice`
+- 10 cl `cranberry juice`
 - 8 `ice cubes`
 
 ## Instructions:
