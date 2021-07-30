@@ -8,9 +8,9 @@
 
 ## Instructions:
 - Add Irish whiskey <!-- - Add bourbon -->
-- Add ice cubes and stir
 - Add squeezed lime wedges
-- Fill up with ginger beer
+- Add ice cubes and stir
+- Add ginger beer
 
 ## Served in:
 - Highball glass

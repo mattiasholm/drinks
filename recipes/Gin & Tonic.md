@@ -10,7 +10,7 @@
 - Add gin
 - Add ice ball and stir
 - Add squeezed lime wedges
-- Fill up with tonic water
+- Add tonic water
 
 ## Served in:
 - Copa glass

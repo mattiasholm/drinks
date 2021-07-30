@@ -12,7 +12,7 @@
 - Add lemon juice
 - Add simple syrup
 - Add ice cubes and stir
-- Fill up with soda water
+- Add soda water
 
 ## Served in:
 - Highball glass

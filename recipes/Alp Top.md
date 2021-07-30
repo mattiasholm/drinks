@@ -14,7 +14,7 @@
 - Add Bols Blue Curaçao
 - Add lemon juice
 - Add crushed ice and stir
-- Fill up with tonic water
+- Add tonic water
 
 ## Served in:
 - Old Fashioned glass

@@ -9,7 +9,7 @@
 ## Instructions:
 - Add Irish whiskey
 - Add brown sugar
-- Fill up with hot coffee
+- Add hot coffee
 - Add lightly whipped cream
 
 ## Served in:

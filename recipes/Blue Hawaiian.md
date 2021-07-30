@@ -10,7 +10,7 @@
 - Add Malibu
 - Add Bols Blue Curaçao
 - Add crushed ice and stir
-- Fill up with pineapple juice
+- Add pineapple juice
 
 ## Served in:
 - Hurricane glass

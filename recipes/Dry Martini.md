@@ -11,7 +11,7 @@
 - Add dry vermouth
 - Add ice cubes and stir for 2 minutes
 - Double strain
-- Add rinsed olives <!-- - Add lemon twist -->
+- Add olives <!-- - Add lemon twist -->
 
 ## Served in:
 - Martini glass

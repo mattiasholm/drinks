@@ -10,7 +10,7 @@
 - Add Licor 43
 - Add grenadine
 - Add ice cubes and stir
-- Fill up with milk
+- Add milk
 
 ## Served in:
 - Highball glass

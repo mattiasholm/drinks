@@ -6,7 +6,7 @@
 
 ## Instructions:
 - Add Baileys
-- Fill up with hot coffee
+- Add hot coffee
 
 ## Served in:
 - Coffee mug

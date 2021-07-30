@@ -8,7 +8,7 @@
 ## Instructions:
 - Add Passoã
 - Add ice cubes and stir
-- Fill up with cranberry juice
+- Add cranberry juice
 
 ## Served in:
 - Highball glass

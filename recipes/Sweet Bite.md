@@ -10,7 +10,7 @@
 - Add Licor 43
 - Add lime juice
 - Add ice cubes and stir
-- Fill up with 7 Up
+- Add 7 Up
 
 ## Served in:
 - Highball glass

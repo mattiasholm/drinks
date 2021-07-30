@@ -7,7 +7,7 @@
 
 ## Instructions:
 - Add Stroh 80
-- Fill up with hot chocolate
+- Add hot chocolate
 - Add lightly whipped cream
 
 ## Served in:

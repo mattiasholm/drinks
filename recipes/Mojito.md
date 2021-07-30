@@ -14,7 +14,7 @@
 - Add lime juice
 - Add white rum
 - Add crushed ice and stir
-- Fill up with soda water
+- Add soda water
 
 
 ## Served in:

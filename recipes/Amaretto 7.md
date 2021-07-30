@@ -1,17 +1,17 @@
-# Malibu & 7 Up
+# Amaretto 7
 
 ## Ingredients:
-- 4 cl `Malibu`
+- 4 cl `Disaronno`
 - 12 cl `7 Up`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Malibu
+- Add Disaronno
 - Add ice cubes and stir
-- Fill up with 7 Up
+- Add 7 Up
 
 ## Served in:
 - Highball glass
 
 ## Rating:
-- ★★★☆☆
+- ★★★★☆

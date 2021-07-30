@@ -1,21 +1,21 @@
-# Dark & Stormy
+# New England Sour
 
 ## Ingredients:
-- 5 cl `dark rum`
-- 10 cl `ginger beer`
-- 2 `lime wedges`
+- 4 cl `vodka`
+- 1 cl `maple syrup`
+- 8 cl `grapefruit juice`
 - 2 dashes `Angostura Aromatic Bitters`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add dark rum
-- Add squeezed lime wedges
+- Add vodka
+- Add maple syrup
 - Add Angostura Aromatic Bitters
 - Add ice cubes and stir
-- Add ginger beer
+- Add grapefruit juice
 
 ## Served in:
-- Highball glass
+- Old Fashioned glass
 
 ## Rating:
 - ★★★☆☆

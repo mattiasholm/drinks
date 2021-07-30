@@ -13,7 +13,7 @@
 - Add olive brine
 - Add ice cubes and stir for 2 minutes
 - Double strain
-- Add rinsed olives
+- Add olives
 
 ## Served in:
 - Martini glass

@@ -12,7 +12,7 @@
 - Add Kahlúa
 - Add Disaronno
 - Add ice cubes and stir
-- Fill up with milk
+- Add milk
 
 ## Served in:
 - Highball glass

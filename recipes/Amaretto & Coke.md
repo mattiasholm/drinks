@@ -8,7 +8,7 @@
 ## Instructions:
 - Add Disaronno
 - Add ice cubes and stir
-- Fill up with Coca-Cola
+- Add Coca-Cola
 
 ## Served in:
 - Highball glass
