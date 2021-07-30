@@ -1,8 +1,8 @@
 # Amaretto Cranberry
 
 ## Ingredients:
-- 5 cl `Disaronno` <!-- - 4 cl `Disaronno` -->
-- 12 cl `cranberry juice`
+- 4 cl `Disaronno`
+- 10 cl `cranberry juice`
 - 8 `ice cubes`
 
 ## Instructions:
@@ -14,4 +14,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★★★
+- ★★★★☆
