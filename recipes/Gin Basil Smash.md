@@ -8,9 +8,9 @@
 - 16 `ice cubes` <!-- - 8 `ice cubes` -->
 
 ## Instructions:
-- Add lemon juice
 - Add simple syrup
 - Muddle the basil leaves to release the flavors
+- Add lemon juice
 - Add crushed ice and stir <!-- - Add ice cubes and stir -->
 - Add gin
 

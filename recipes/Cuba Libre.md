@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `white rum`
-- 2 cl `lime juice` <!-- - 4 `lime wedges` --> <!-- - 0.5 `lime` -->  <!-- - 1/2 `lime` --> <!-- - 2 `lime wedges` -->
+- 2 cl `lime juice` <!-- - 4 `lime wedges` --> <!-- - 0.5 `lime` -->  <!-- - 1/2 `lime` -->
 - 12 cl `Coca-Cola`
 <!-- - 2 dashes `Angostura Aromatic Bitters` -->
 - 8 `ice cubes`

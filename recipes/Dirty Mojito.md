@@ -1,7 +1,7 @@
-# Mojito
+# Dirty Mojito
 
 ## Ingredients:
-- 4 cl `white rum`
+- 4 cl `dark rum`
 - 3 cl `lime juice`
 - 3 cl `raw sugar simple syrup`
 - 8 cl `soda water`
@@ -12,7 +12,7 @@
 - Add raw sugar simple syrup
 - Muddle the mint leaves to release the flavors
 - Add lime juice
-- Add white rum
+- Add dark rum
 - Add crushed ice and stir
 - Add soda water
 

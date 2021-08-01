@@ -17,7 +17,7 @@
 - Add ice cubes and stir
 
 ## Served in:
-- Pitcher
+- Copa de Balon glass
 
 ## Rating:
 - ★★★★☆

@@ -12,7 +12,7 @@
 - Add vodka
 - Add raw sugar simple syrup
 - Add Angostura Aromatic Bitters
-- Add ice cubes and stir for 2 minutes
+- Add ice cubes and stir for 2 minutes <!-- - Add ice cubes and stir for 60 seconds -->
 - Double strain
 - Add ice ball
 - Add orange twist

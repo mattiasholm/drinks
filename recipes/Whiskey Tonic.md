@@ -13,7 +13,7 @@
 - Add tonic water
 
 ## Served in:
-- Copa glass
+- Copa de Balon glass
 
 ## Rating:
 - ★★☆☆☆
