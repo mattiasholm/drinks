@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `Disaronno`
-- 6 cl `milk` <!-- - 4 cl `cream` -->
+- 6 cl `milk` <!-- - 8 cl `milk` -->
 - 1 ml `cardamom`
 - 8 `ice cubes`
 

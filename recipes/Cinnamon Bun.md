@@ -3,7 +3,7 @@
 ## Ingredients:
 - 3 cl `Fireball` <!-- - 2 cl `Fireball` -->
 - 2 cl `Licor 43`
-- 8 cl `milk` <!-- - 4 cl `cream` -->
+- 8 cl `milk`
 - 1 ml `cardamom`
 - 8 `ice cubes`
 
