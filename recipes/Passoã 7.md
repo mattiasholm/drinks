@@ -1,4 +1,4 @@
-# Passoã Passion
+# Passoã 7
 
 ## Ingredients:
 - 4 cl `Passoã`
