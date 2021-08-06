@@ -12,7 +12,7 @@
 - Add dry vermouth
 - Add olive brine
 - Add ice cubes and stir for 2 minutes <!-- - Add ice cubes and stir for 60 seconds -->
-- Double strain <!--  --> <!-- - Strain --> <!-- - Strain with julep strainer  -->
+- Strain
 - Add olives
 
 ## Served in:

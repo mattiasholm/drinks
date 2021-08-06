@@ -27,4 +27,4 @@
 - Hurricane glass
 
 ## Rating:
-<!-- - ★★★☆☆ -->
+- ★★★★★
