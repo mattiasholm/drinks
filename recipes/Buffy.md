@@ -6,7 +6,7 @@
 - 1 cl `lime juice`
 - 1 cl `simple syrup`
 - 2 cl `passion fruit juice`
-- 8 cl `orange juice` <!-- - 10 cl `orange juice` -->
+- 8 cl `orange juice`
 - 24 `ice cubes`
 
 ## Instructions:
@@ -25,4 +25,4 @@
 - Hurricane glass
 
 ## Rating:
-<!-- - ★★★☆☆ -->
+- ★★★★☆
