@@ -9,11 +9,11 @@
 - 1 `ice ball`
 
 ## Instructions:
+- Add Angostura Aromatic Bitters
 - Add vodka
 - Add raw sugar simple syrup
-- Add Angostura Aromatic Bitters
 - Add ice cubes and stir for 2 minutes <!-- - Add ice cubes and stir for 60 seconds -->
-- Double strain
+- Double strain <!--  --> <!-- - Strain --> <!-- - Strain with julep strainer  -->
 - Add ice ball
 - Add orange twist
 

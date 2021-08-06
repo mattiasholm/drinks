@@ -9,11 +9,11 @@
 - 8 `ice cubes`
 
 ## Instructions:
+- Add Angostura Aromatic Bitters
 - Add Southern Comfort
 - Add lemon juice
 - Add simple syrup
 - Add egg white
-- Add Angostura Aromatic Bitters
 - Dry shake for 30 seconds
 - Add ice cubes and shake for 10 seconds
 - Double strain

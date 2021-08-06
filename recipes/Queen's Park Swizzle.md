@@ -9,11 +9,11 @@
 - 16 `ice cubes`
 
 ## Instructions:
+- Add Angostura Aromatic Bitters
 - Add raw sugar simple syrup
 - Muddle the mint leaves to release the flavors
 - Add lime juice
 - Add dark rum
-- Add Angostura Aromatic Bitters
 - Add crushed ice and stir
 
 ## Served in:

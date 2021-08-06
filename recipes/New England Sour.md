@@ -8,9 +8,9 @@
 - 8 `ice cubes`
 
 ## Instructions:
+- Add Angostura Aromatic Bitters
 - Add vodka
 - Add maple syrup
-- Add Angostura Aromatic Bitters
 - Add ice cubes and stir
 - Add grapefruit juice
 

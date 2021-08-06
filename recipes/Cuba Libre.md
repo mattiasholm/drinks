@@ -8,13 +8,13 @@
 - 8 `ice cubes`
 
 ## Instructions:
+<!-- - Add Angostura Aromatic Bitters -->
 <!-- - Cut off the ends of the lime and slice it lengthwise -->
 <!-- - Cut away the pith and slice each half in quarters -->
 <!-- - Muddle the lime to extract the juice -->
 <!-- - Muddle the lime to extract the juice and release the flavors -->
 - Add white rum
 - Add lime juice <!-- - Add squeezed lime wedges -->
-<!-- - Add Angostura Aromatic Bitters -->
 - Add ice cubes and stir
 - Add Coca-Cola
 
