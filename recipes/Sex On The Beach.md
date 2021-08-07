@@ -5,12 +5,12 @@
 - 3 cl `vodka`
 - 8 cl `orange juice`
 - 8 cl `cranberry juice`
-- 8 `ice cubes`
+- 16 `ice cubes`
 
 ## Instructions:
 - Add Peachtree
 - Add vodka
-- Add ice cubes and stir
+- Add crushed ice and stir
 - Add orange juice
 - Add cranberry juice
 
