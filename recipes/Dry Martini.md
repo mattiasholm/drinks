@@ -9,7 +9,7 @@
 ## Instructions:
 - Add gin
 - Add dry vermouth
-- Add ice cubes and stir for 45 seconds <!-- - Add ice cubes and stir for 30 seconds -->
+- Add ice cubes and stir for 30 seconds
 - Strain
 - Add olives <!-- - Add lemon peel -->
 

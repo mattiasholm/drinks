@@ -10,9 +10,9 @@
 
 ## Instructions:
 - Add Angostura Aromatic Bitters
-- Add bourbon
 - Add raw sugar simple syrup
-- Add ice cubes and stir for 45 seconds <!-- - Add ice cubes and stir for 30 seconds -->
+- Add bourbon
+- Add ice cubes and stir for 30 seconds
 - Strain
 - Add ice ball
 - Add orange peel
