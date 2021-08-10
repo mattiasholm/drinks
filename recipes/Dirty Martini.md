@@ -11,7 +11,7 @@
 - Add gin
 - Add dry vermouth
 - Add olive brine
-- Add ice cubes and stir for 2 minutes <!-- - Add ice cubes and stir for 60 seconds -->
+- Add ice cubes and stir for 45 seconds <!-- - Add ice cubes and stir for 30 seconds -->
 - Strain
 - Add olives
 

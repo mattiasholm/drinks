@@ -1,14 +1,16 @@
-# Toasted Almond
+# Buttered Toffee
 
 ## Ingredients:
-- 2 cl `Kahlúa`
-- 2 cl `Disaronno`
-- 4 cl `cream`
+- 2 cl `Bols Butterscotch`
+- 2 cl `Baileys`
+- 1 cl `Disaronno`
+- 3 cl `cream`
 - 8 `ice cubes`
 - 1 `ice ball`
 
 ## Instructions:
-- Add Kahlúa
+- Add Bols Butterscotch
+- Add Baileys
 - Add Disaronno
 - Add cream
 - Dry shake for 30 seconds
@@ -20,4 +22,4 @@
 - Old Fashioned glass
 
 ## Rating:
-- ★★★★★
+- ★★★★☆

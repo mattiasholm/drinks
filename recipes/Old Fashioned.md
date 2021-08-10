@@ -4,7 +4,7 @@
 - 4 cl `bourbon`
 - 1 cl `raw sugar simple syrup`
 - 2 dashes `Angostura Aromatic Bitters`
-- 1 `orange twist`
+- 1 `orange peel`
 - 8 `ice cubes`
 - 1 `ice ball`
 
@@ -12,10 +12,10 @@
 - Add Angostura Aromatic Bitters
 - Add bourbon
 - Add raw sugar simple syrup
-- Add ice cubes and stir for 2 minutes <!-- - Add ice cubes and stir for 60 seconds -->
+- Add ice cubes and stir for 45 seconds <!-- - Add ice cubes and stir for 30 seconds -->
 - Strain
 - Add ice ball
-- Add orange twist
+- Add orange peel
 
 ## Served in:
 - Old Fashioned glass
