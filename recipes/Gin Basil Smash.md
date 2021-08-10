@@ -5,13 +5,13 @@
 - 2 cl `lemon juice` <!-- - 3 cl `lemon juice` -->
 - 2 cl `simple syrup` <!-- - 2 cl `simple syrup` --> <!-- - 1 cl `simple syrup` -->
 - 10 `basil leaves`
-- 16 `ice cubes` <!-- - 8 `ice cubes` -->
+- 16 `ice cubes`
 
 ## Instructions:
 - Add simple syrup
 - Muddle the basil leaves to release the flavors
 - Add lemon juice
-- Add crushed ice and stir <!-- - Add ice cubes and stir -->
+- Add crushed ice and stir
 - Add gin
 
 ## Served in:
