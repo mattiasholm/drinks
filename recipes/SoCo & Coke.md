@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 4 cl `Southern Comfort`
-- 15 cl `Coca-Cola` <!-- - 12 cl `Coca-Cola` -->
+- 12 cl `Coca-Cola`
 - 8 `ice cubes`
 
 ## Instructions:

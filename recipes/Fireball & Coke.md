@@ -1,12 +1,12 @@
-# Captain & Coke
+# Fireball & Coke
 
 ## Ingredients:
-- 4 cl `Captain Morgan`
+- 4 cl `Fireball`
 - 12 cl `Coca-Cola`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Captain Morgan
+- Add Fireball
 - Add ice cubes and stir
 - Add Coca-Cola
 
@@ -14,4 +14,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★★☆
+- ★★★☆☆
