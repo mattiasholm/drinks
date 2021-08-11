@@ -8,8 +8,9 @@
 - 16 `ice cubes`
 
 ## Instructions:
+- Rub basil leaves around the glass
 - Add simple syrup
-- Muddle the basil leaves to release the flavors
+- Muddle the basil leaves
 - Add lemon juice
 - Add crushed ice and stir
 - Add gin

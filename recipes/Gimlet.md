@@ -7,13 +7,14 @@
 - 8 `ice cubes`
 
 ## Instructions:
+- Rub lime peel around the glass <!-- -->
 - Add gin
 - Add Rose's Lime Juice Cordial <!-- - Add lime juice -->
 <!-- - Add simple syrup -->
 - Dry shake for 30 seconds
 - Add ice cubes and shake for 10 seconds
 - Double strain
-- Add squeezed lime wedge <!--  -->
+- Squeeze and add lime wedge <!-- -->
 
 ## Served in:
 - Coupe glass

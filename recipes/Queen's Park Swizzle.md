@@ -9,9 +9,10 @@
 - 16 `ice cubes`
 
 ## Instructions:
+- Rub mint leaves around the glass
 - Add Angostura Aromatic Bitters
 - Add raw sugar simple syrup
-- Muddle the mint leaves to release the flavors
+- Muddle the mint leaves
 - Add lime juice
 - Add dark rum
 - Add crushed ice and stir

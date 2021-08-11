@@ -8,8 +8,9 @@
 - 16 `ice cubes`
 
 ## Instructions:
+- Rub cilantro leaves around the glass
 - Add lime juice
-- Muddle the cilantro leaves to release the flavors
+- Muddle the cilantro leaves
 - Add Peachtree
 - Add crushed ice and stir
 - Add tonic water

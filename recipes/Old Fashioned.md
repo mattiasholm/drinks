@@ -9,13 +9,14 @@
 - 1 `ice ball`
 
 ## Instructions:
+- Rub orange peel around the glass
 - Add Angostura Aromatic Bitters
 - Add raw sugar simple syrup
 - Add bourbon
 - Add ice cubes and stir for 30 seconds
 - Strain
 - Add ice ball
-- Add orange peel
+- Squeeze and add orange peel
 
 ## Served in:
 - Old Fashioned glass

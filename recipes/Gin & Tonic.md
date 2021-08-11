@@ -7,9 +7,10 @@
 - 1 `ice ball`
 
 ## Instructions:
+- Rub lime peel around the glass
 - Add gin
 - Add ice ball and stir
-- Add squeezed lime wedges
+- Squeeze and add lime wedges
 - Add tonic water
 
 ## Served in:

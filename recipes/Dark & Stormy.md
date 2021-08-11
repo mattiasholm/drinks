@@ -8,9 +8,10 @@
 - 8 `ice cubes`
 
 ## Instructions:
+- Rub lime peel around the glass
 - Add Angostura Aromatic Bitters
 - Add dark rum
-- Add squeezed lime wedges
+- Squeeze and add lime wedges
 - Add ice cubes and stir
 - Add ginger beer
 
