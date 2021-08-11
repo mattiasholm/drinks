@@ -1,7 +1,7 @@
-# Cuba Libre
+# Cubata
 
 ## Ingredients:
-- 4 cl `white rum`
+- 4 cl `dark rum`
 - 1 cl `lime juice`
 - 12 cl `Coca-Cola`
 - 2 dashes `Angostura Aromatic Bitters`
@@ -9,7 +9,7 @@
 
 ## Instructions:
 - Add Angostura Aromatic Bitters
-- Add white rum
+- Add dark rum
 - Add lime juice
 - Add ice cubes and stir
 - Add Coca-Cola
