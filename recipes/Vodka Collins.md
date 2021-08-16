@@ -18,4 +18,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★★☆
+- ★★★★★
