@@ -8,7 +8,7 @@
 ## Instructions:
 - Add Kahlúa
 - Add vodka
-- Add ice ball and stir
+- Add ice ball
 
 ## Served in:
 - Old Fashioned glass

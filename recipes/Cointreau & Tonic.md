@@ -4,12 +4,12 @@
 - 5 cl `Cointreau`
 - 10 cl `tonic water`
 - 2 `lime wedges`
-- 1 `ice ball`
+- 8 `ice cubes`
 
 ## Instructions:
 - Rub lime peel around the glass
 - Add Cointreau
-- Add ice ball and stir
+- Add ice cubes and stir
 - Squeeze and add lime wedges
 - Add tonic water
 
