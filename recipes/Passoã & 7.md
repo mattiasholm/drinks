@@ -2,9 +2,8 @@
 
 ## Ingredients:
 - 4 cl `Passoã`
-- 2 cl `vodka` <!-- - 0 cl `vodka` -->
 - 2 cl `lime juice`
-- 10 cl `7 Up` <!-- - 12 cl `7 Up` -->
+- 12 cl `7 Up`
 - 8 `ice cubes`
 
 ## Instructions:
