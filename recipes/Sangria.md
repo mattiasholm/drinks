@@ -6,7 +6,7 @@
 - 25 cl `orange juice`
 - 2 `oranges`
 - 2 `apples`
-- 32 `ice cubes` <!-- - 8 `ice cubes` -->
+- 8 `ice cubes`
 
 ## Instructions:
 - Add red wine
@@ -17,7 +17,7 @@
 - Add ice cubes and stir
 
 ## Served in:
-- Pitcher <!-- - Copa de Balon glass -->
+- Copa de Balon glass
 
 ## Rating:
 - ★★★★☆

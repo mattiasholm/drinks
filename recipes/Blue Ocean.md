@@ -3,15 +3,15 @@
 ## Ingredients:
 - 4 cl `white rum`
 - 2 cl `Bols Blue Curaçao`
-- 1 cl `lemon juice` <!-- - 1 cl `lime juice` -->
-- 10 cl `7 Up` <!-- - 12 cl `7 Up` -->
-- 16 `ice cubes`
+- 1 cl `lime juice`
+- 12 cl `7 Up`
+- 8 `ice cubes`
 
 ## Instructions:
 - Add white rum
 - Add Bols Blue Curaçao
-- Add lemon juice
-- Add crushed ice and stir
+- Add lime juice
+- Add ice cubes and stir
 - Add 7 Up
 
 ## Served in:
