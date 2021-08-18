@@ -9,8 +9,8 @@
 ## Instructions:
 - Rub lemon peel around the glass
 - Add limoncello
-- Add ice cubes and stir
 - Squeeze and add lemon wedge
+- Add ice cubes and stir
 - Add tonic water
 
 ## Served in:

@@ -9,8 +9,8 @@
 ## Instructions:
 - Rub lime peel around the glass
 - Add Irish whiskey <!-- - Add bourbon -->
-- Add ice cubes and stir
 - Squeeze and add lime wedges
+- Add ice cubes and stir
 - Add tonic water
 
 ## Served in:
