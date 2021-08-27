@@ -15,7 +15,7 @@
 - Add 7 Up
 
 ## Served in:
-- Hurricane glass
+- Highball glass
 
 ## Rating:
 - ★★★☆☆
