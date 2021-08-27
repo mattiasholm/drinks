@@ -7,7 +7,7 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Rub mint leaves around the glass
+- Rub the glass with mint leaves
 - Add raw sugar simple syrup
 - Muddle the mint leaves
 - Add bourbon

@@ -7,7 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub lime peel around the glass
+- Rub the glass with lime peel
 - Add Malibu
 - Squeeze and add lime wedges
 - Add ice cubes and stir

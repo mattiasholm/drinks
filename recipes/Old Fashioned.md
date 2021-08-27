@@ -9,7 +9,7 @@
 - 1 `ice ball`
 
 ## Instructions:
-- Rub orange peel around the glass
+- Rub the glass with orange peel
 - Add Angostura Aromatic Bitters
 - Add raw sugar simple syrup
 - Add bourbon

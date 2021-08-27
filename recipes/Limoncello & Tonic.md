@@ -7,7 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub lemon peel around the glass
+- Rub the glass with lemon peel
 - Add limoncello
 - Squeeze and add lemon wedge
 - Add ice cubes and stir

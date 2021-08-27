@@ -8,7 +8,7 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Rub cilantro leaves around the glass
+- Rub the glass with cilantro leaves
 - Add lime juice
 - Muddle the cilantro leaves
 - Add Peachtree

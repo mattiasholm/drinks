@@ -8,7 +8,7 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Rub basil leaves around the glass
+- Rub the glass with basil leaves
 - Add simple syrup
 - Muddle the basil leaves
 - Add lemon juice

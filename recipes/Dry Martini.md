@@ -7,7 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub lemon peel around the glass
+- Rub the glass with lemon peel
 - Add gin
 - Add dry vermouth
 - Add ice cubes and stir for 30 seconds

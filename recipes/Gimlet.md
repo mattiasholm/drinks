@@ -7,7 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub lime peel around the glass <!-- -->
+- Rub the glass with lime peel <!-- -->
 - Add gin
 - Add Rose's Lime Juice Cordial <!-- - Add lime juice -->
 <!-- - Add simple syrup -->
