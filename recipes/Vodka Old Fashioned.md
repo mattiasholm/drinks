@@ -1,7 +1,7 @@
 # Vodka Old Fashioned
 
 ## Ingredients:
-- 4 cl `vodka`
+- 5 cl `vodka`
 - 1 cl `raw sugar simple syrup`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `orange peel`

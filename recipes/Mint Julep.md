@@ -1,7 +1,7 @@
 # Mint Julep
 
 ## Ingredients:
-- 4 cl `bourbon`
+- 5 cl `bourbon`
 - 1 cl `raw sugar simple syrup`
 - 15 `mint leaves`
 - 16 `ice cubes`
