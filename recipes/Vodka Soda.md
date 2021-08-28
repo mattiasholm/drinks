@@ -1,4 +1,4 @@
-# Skinny Bitch
+# Vodka Soda
 
 ## Ingredients:
 - 5 cl `vodka`
