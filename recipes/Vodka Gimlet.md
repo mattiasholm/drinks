@@ -7,7 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Add gin
+- Add vodka
 - Add lime juice
 - Add simple syrup
 - Dry shake for 30 seconds
