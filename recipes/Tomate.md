@@ -1,16 +1,14 @@
 # Tomate
 
 ## Ingredients:
-- 4 cl `Pernod` <!-- - 5 cl `Pernod` -->
-- 1 cl `grenadine` <!-- - 2 cl `grenadine` -->
-- 2 cl `water` <!-- - 0 cl `water` --> <!-- - 3 cl `water` -->
+- 5 cl `Pernod`
+- 1 cl `grenadine`
 - 8 `ice cubes`
 - 1 `ice ball`
 
 ## Instructions:
-- Add Pernod
 - Add grenadine
-- Add water
+- Add Pernod
 - Add ice cubes and stir for 30 seconds
 - Strain
 - Add ice ball
