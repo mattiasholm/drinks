@@ -10,8 +10,8 @@
 - Rub the glass with lemon peel
 - Add limoncello
 - Squeeze and add lime wedges
-- Add ice cubes and stir
 - Add tonic water
+- Add ice cubes and stir
 
 ## Served in:
 - Copa de Balon glass

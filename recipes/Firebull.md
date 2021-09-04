@@ -7,8 +7,8 @@
 
 ## Instructions:
 - Add Fireball
-- Add ice cubes and stir
 - Add Red Bull
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

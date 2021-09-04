@@ -10,8 +10,8 @@
 - Add Passoã
 - Add vodka
 - Add lime juice
-- Add ice cubes and stir
 - Add 7 Up
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

@@ -9,8 +9,8 @@
 ## Instructions:
 - Add Malibu
 - Add Bols Blue Curaçao
-- Add crushed ice and stir
 - Add pineapple juice
+- Add crushed ice and stir
 
 ## Served in:
 - Hurricane glass

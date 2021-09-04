@@ -12,8 +12,8 @@
 - Rub the glass with lime peel
 - Add raw sugar
 - Muddle the lime
-- Add crushed ice and stir
 - Add cachaça
+- Add crushed ice and stir
 
 ## Served in:
 - Highball glass

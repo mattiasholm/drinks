@@ -10,8 +10,8 @@
 ## Instructions:
 - Add vodka
 - Add Bols Banana
-- Add ice cubes and stir
 - Add orange juice
+- Add ice cubes and stir
 - Add grenadine
 
 ## Served in:

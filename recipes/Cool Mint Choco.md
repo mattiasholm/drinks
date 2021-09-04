@@ -7,8 +7,8 @@
 
 ## Instructions:
 - Add Minttu
-- Add ice cubes and stir
 - Add chocolate milk
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

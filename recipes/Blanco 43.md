@@ -7,8 +7,8 @@
 
 ## Instructions:
 - Add Licor 43
-- Add ice cubes and stir
 - Add milk
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

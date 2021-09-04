@@ -10,9 +10,9 @@
 ## Instructions:
 - Add Peachtree
 - Add vodka
-- Add crushed ice and stir <!-- - Add ice cubes and stir -->
 - Add orange juice
 - Add cranberry juice
+- Add crushed ice and stir <!-- - Add ice cubes and stir -->
 
 ## Served in:
 - Hurricane glass <!-- - Highball glass -->

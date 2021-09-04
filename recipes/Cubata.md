@@ -11,8 +11,8 @@
 - Add Angostura Aromatic Bitters
 - Add dark rum
 - Add lime juice
-- Add ice cubes and stir
 - Add Coca-Cola
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

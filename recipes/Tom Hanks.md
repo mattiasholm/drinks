@@ -12,8 +12,8 @@
 - Add lime juice
 - Muddle the cilantro leaves
 - Add Peachtree
-- Add crushed ice and stir
 - Add tonic water
+- Add crushed ice and stir
 
 ## Served in:
 - Copa de Balon glass

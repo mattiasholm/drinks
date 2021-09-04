@@ -12,8 +12,8 @@
 - Add Angostura Aromatic Bitters
 - Add dark rum
 - Squeeze and add lime wedges
-- Add ice cubes and stir
 - Add ginger beer
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

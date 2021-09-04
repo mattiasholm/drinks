@@ -10,8 +10,8 @@
 - Rub the glass with lime peel
 - Add Irish whiskey <!-- - Add bourbon -->
 - Squeeze and add lime wedges
-- Add ice cubes and stir
 - Add ginger beer
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

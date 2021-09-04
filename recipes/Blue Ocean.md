@@ -11,8 +11,8 @@
 - Add white rum
 - Add Bols Blue Curaçao
 - Add lime juice
-- Add ice cubes and stir
 - Add 7 Up
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

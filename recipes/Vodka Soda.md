@@ -9,8 +9,8 @@
 ## Instructions:
 - Add vodka
 - Add lime juice
-- Add ice cubes and stir
 - Add soda water
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

@@ -11,8 +11,8 @@
 - Add Angostura Aromatic Bitters
 - Add vodka
 - Add maple syrup
-- Add ice cubes and stir
 - Add grapefruit juice
+- Add ice cubes and stir
 
 ## Served in:
 - Old Fashioned glass

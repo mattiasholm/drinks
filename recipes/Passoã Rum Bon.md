@@ -9,8 +9,8 @@
 ## Instructions:
 - Add Passoã
 - Add dark rum
-- Add ice cubes and stir
 - Add orange juice
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

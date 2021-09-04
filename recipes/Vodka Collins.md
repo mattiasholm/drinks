@@ -11,8 +11,8 @@
 - Add vodka
 - Add lemon juice
 - Add simple syrup
-- Add ice cubes and stir
 - Add soda water
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

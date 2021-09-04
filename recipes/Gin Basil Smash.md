@@ -12,8 +12,8 @@
 - Add simple syrup
 - Muddle the basil leaves
 - Add lemon juice
-- Add crushed ice and stir
 - Add gin
+- Add crushed ice and stir
 
 ## Served in:
 - Old Fashioned glass

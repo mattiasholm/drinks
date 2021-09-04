@@ -7,8 +7,8 @@
 
 ## Instructions:
 - Add Disaronno
-- Add ice cubes and stir
 - Add milk
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

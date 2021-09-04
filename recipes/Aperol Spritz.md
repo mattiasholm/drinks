@@ -8,9 +8,9 @@
 
 ## Instructions:
 - Add Aperol
-- Add ice cubes and stir
 - Add Prosecco
 - Add soda water
+- Add ice cubes and stir
 
 ## Served in:
 - Copa de Balon glass

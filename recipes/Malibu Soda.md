@@ -7,8 +7,8 @@
 
 ## Instructions:
 - Add Malibu
-- Add ice cubes and stir
 - Add soda water
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

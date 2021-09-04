@@ -10,9 +10,9 @@
 ## Instructions:
 - Add white rum
 - Add dark rum
-- Add ice cubes and stir
 - Add orange juice
 - Add Red Bull
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass

@@ -14,8 +14,8 @@
 - Muddle the mint leaves
 - Add lime juice
 - Add dark rum
-- Add crushed ice and stir
 - Add soda water
+- Add crushed ice and stir
 
 ## Served in:
 - Highball glass

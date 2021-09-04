@@ -7,8 +7,8 @@
 
 ## Instructions:
 - Add vodka
-- Add ice cubes and stir
 - Add grapefruit juice
+- Add ice cubes and stir
 
 ## Served in:
 - Highball glass
