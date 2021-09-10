@@ -8,7 +8,7 @@
 ## Instructions:
 - Add Stroh 80
 - Add hot chocolate
-- Add lightly whipped cream
+- Add whipped cream
 
 ## Served in:
 - Tea mug

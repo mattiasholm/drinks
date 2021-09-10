@@ -10,7 +10,7 @@
 - Add Irish whiskey
 - Add brown sugar
 - Add hot coffee
-- Add lightly whipped cream
+- Add whipped cream
 
 ## Served in:
 - Coffee mug
