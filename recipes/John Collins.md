@@ -1,14 +1,14 @@
-# Vodka Collins
+# John Collins
 
 ## Ingredients:
-- 5 cl `vodka`
+- 5 cl `bourbon`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 10 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add vodka
+- Add bourbon
 - Add lemon juice
 - Add simple syrup
 - Add soda water
@@ -18,4 +18,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★★★ <!-- - ★★★★☆ -->
+- ★★★★☆
