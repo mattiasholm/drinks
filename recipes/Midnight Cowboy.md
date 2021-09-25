@@ -1,16 +1,18 @@
-# Vodka Collins
+# Midnight Cowboy
 
 ## Ingredients:
-- 5 cl `vodka`
+- 5 cl `bourbon`
+- 1 cl `Southern Comfort`
 - 3 cl `lemon juice`
-- 2 cl `simple syrup`
+- 1 cl `grenadine`
 - 10 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add vodka
+- Add bourbon
+- Add Southern Comfort
 - Add lemon juice
-- Add simple syrup
+- Add grenadine
 - Add soda water
 - Add ice cubes and stir
 
@@ -18,4 +20,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★★☆
+- ★★☆☆☆
