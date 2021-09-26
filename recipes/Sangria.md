@@ -6,7 +6,7 @@
 - 25 cl `orange juice`
 - 2 `oranges`
 - 2 `apples`
-- 8 `ice cubes`
+- 32 `ice cubes`
 
 ## Instructions:
 - Add red wine
