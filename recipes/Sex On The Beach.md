@@ -5,17 +5,17 @@
 - 3 cl `vodka` <!-- - 2 cl `vodka` -->
 - 8 cl `orange juice` <!-- - 6 cl `orange juice` -->
 - 8 cl `cranberry juice` <!-- - 6 cl `cranberry juice` -->
-- 8 `ice cubes` <!-- - 16 `ice cubes` -->
+- 8 `ice cubes`
 
 ## Instructions:
 - Add Peachtree
 - Add vodka
 - Add orange juice
 - Add cranberry juice
-- Add ice cubes and stir <!-- - Add crushed ice and stir -->
+- Add ice cubes and stir
 
 ## Served in:
-- Highball glass <!-- - Hurricane glass -->
+- Highball glass
 
 ## Rating:
 - ★★★★★

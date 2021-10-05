@@ -16,7 +16,7 @@
 - Add olives
 
 ## Served in:
-- Martini glass
+- Coupe glass
 
 ## Rating:
 - ★☆☆☆☆

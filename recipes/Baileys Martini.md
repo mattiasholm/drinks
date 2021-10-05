@@ -13,7 +13,7 @@
 - Double strain
 
 ## Served in:
-- Martini glass
+- Coupe glass
 
 ## Rating:
 - ★★★★☆

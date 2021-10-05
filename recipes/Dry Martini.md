@@ -15,7 +15,7 @@
 - Squeeze and add lemon peel
 
 ## Served in:
-- Martini glass
+- Coupe glass
 
 ## Rating:
 - ★★☆☆☆
