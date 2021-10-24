@@ -1,13 +1,13 @@
-# Bourbon Alexander
+# Alexander
 
 ## Ingredients:
-- 3 cl `bourbon`
+- 3 cl `gin`
 - 3 cl `Bols Cacao White`
 - 3 cl `cream`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add bourbon
+- Add gin
 - Add Bols Cacao White
 - Add cream
 - Dry shake for 30 seconds
@@ -18,4 +18,4 @@
 - Coupe glass
 
 ## Rating:
-- ★★★★☆
+- ★★★☆☆
