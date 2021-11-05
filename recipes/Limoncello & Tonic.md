@@ -7,7 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub the glass with lemon peel
+- Rub the glass with lime peel
 - Add limoncello
 - Squeeze and add lime wedges
 - Add tonic water

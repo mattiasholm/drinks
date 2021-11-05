@@ -5,7 +5,7 @@
 - 3 cl `lime juice`
 - 10 cl `tonic water`
 - 20 `cilantro leaves`
-- 16 `ice cubes`
+- 8 `ice cubes`
 
 ## Instructions:
 - Rub the glass with cilantro leaves
@@ -13,7 +13,7 @@
 - Muddle the cilantro leaves
 - Add Peachtree
 - Add tonic water
-- Add crushed ice and stir
+- Add ice cubes and stir
 
 ## Served in:
 - Copa de Balon glass
