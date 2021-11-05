@@ -25,7 +25,7 @@
 
 ## Ingredients:
 - 5 cl `gin`
-- 1/2 `lemon`
+- ½ `lemon`
 - 2 cl `simple syrup`
 - 10 `basil leaves`
 - 16 `ice cubes`
