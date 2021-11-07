@@ -1,4 +1,4 @@
-# Whiskey Hot Chocolate
+# Bourbon Hot Chocolate
 
 ## Ingredients:
 - 4 cl `bourbon`
