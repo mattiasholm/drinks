@@ -1,7 +1,7 @@
 # Dirty Martini
 
 ## Ingredients:
-- 5 cl `gin`
+- 5 cl `gin` <!-- - 4 cl `gin` -->
 - 1 cl `dry vermouth`
 - 1 cl `olive brine`
 - 3 `olives`
