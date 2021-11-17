@@ -4,7 +4,7 @@
 - 5 cl `Kahlúa`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
-- 2 cl `egg white`
+- ½ `egg white`
 - 2 dashes `Angostura Aromatic Bitters`
 - 8 `ice cubes`
 
