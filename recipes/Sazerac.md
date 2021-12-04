@@ -1,7 +1,7 @@
 # Sazerac
 
 ## Ingredients:
-- 5 cl `bourbon` <!-- - 5 cl `rye whiskey` -->
+- 5 cl `rye whiskey`
 - 1 cl `raw sugar simple syrup`
 - 2 dashes `Angostura Aromatic Bitters` <!-- - 2 dashes `Peychaud's Bitters` -->
 - 1 bar spoon `absinthe`
@@ -13,7 +13,7 @@
 - Rinse the glass with absinthe
 - Add Angostura Aromatic Bitters <!-- - Add Peychaud's Bitters -->
 - Add raw sugar simple syrup
-- Add bourbon <!-- - Add rye whiskey -->
+- Add rye whiskey
 - Add ice cubes and stir for 30 seconds
 - Strain
 - Squeeze and add lemon peel
