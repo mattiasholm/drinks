@@ -8,9 +8,8 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub the glass with cilantro leaves
 - Add lime juice
-- Muddle the cilantro leaves
+- Smack and muddle cilantro leaves
 - Add Peachtree
 - Add tonic water
 - Add ice cubes and stir

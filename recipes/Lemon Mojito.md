@@ -9,9 +9,8 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Rub the glass with mint leaves
 - Add raw sugar simple syrup
-- Muddle the mint leaves
+- Smack and muddle mint leaves
 - Add lemon juice
 - Add white rum
 - Add soda water

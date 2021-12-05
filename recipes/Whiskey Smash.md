@@ -10,11 +10,10 @@
 ## Instructions:
 - Cut off the ends of the lemon and slice it lengthwise
 - Cut away the pith and slice the half in quarters
-- Rub the glass with mint leaves
 - Muddle the lemon
 - Add simple syrup
 - Add bourbon
-- Add mint leaves
+- Smack and add mint leaves
 - Dry shake for 30 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain

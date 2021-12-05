@@ -8,11 +8,10 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub the glass with mint leaves
 - Add gin
 - Add lime juice
 - Add simple syrup
-- Add mint leaves
+- Smack and add mint leaves
 - Dry shake for 30 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
