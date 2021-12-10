@@ -2,18 +2,18 @@
 
 ## Ingredients:
 - 75 cl `red wine`
-- 50 cl `7 Up`
 - 25 cl `orange juice`
-- 2 `oranges`
-- 2 `apples`
+- 50 cl `7 Up`
+- 1 `orange`
+- 1 `apple`
 - 8 `ice cubes`
 
 ## Instructions:
+- Add sliced orange
+- Add sliced apple
 - Add red wine
-- Add 7 Up
 - Add orange juice
-- Add sliced oranges
-- Add sliced apples
+- Add 7 Up
 - Add ice cubes and stir
 
 ## Served in:
