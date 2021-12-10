@@ -1,7 +1,7 @@
 # Manhattan
 
 ## Ingredients:
-- 4 cl `bourbon`
+- 4 cl `rye whiskey`
 - 2 cl `sweet vermouth`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `orange peel`
@@ -10,7 +10,7 @@
 ## Instructions:
 - Rub the glass with orange peel
 - Add Angostura Aromatic Bitters
-- Add bourbon
+- Add rye whiskey
 - Add sweet vermouth
 - Add ice cubes and stir for 30 seconds
 - Strain
@@ -20,4 +20,4 @@
 - Coupe glass
 
 ## Rating:
-- ★☆☆☆☆
+- ★★★☆☆
