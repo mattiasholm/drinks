@@ -9,7 +9,7 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Muddle the grapes
+- Muddle grapes
 - Add gin
 - Add Campari
 - Add lemon juice

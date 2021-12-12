@@ -7,11 +7,9 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Cut off the ends of the lime and slice it lengthwise
-- Cut away the pith and slice each half in quarters
 - Rub the glass with lime peel
 - Add raw sugar
-- Muddle the lime
+- Muddle lime
 - Add cachaça
 - Add crushed ice and stir
 

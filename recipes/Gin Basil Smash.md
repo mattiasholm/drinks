@@ -8,9 +8,7 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Cut off the ends of the lemon and slice it lengthwise
-- Cut away the pith and slice the half in quarters
-- Muddle the lemon
+- Muddle lemon
 - Add simple syrup
 - Add gin
 - Smack and add basil leaves

@@ -9,8 +9,8 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Add sliced orange
-- Add sliced apple
+- Add orange
+- Add apple
 - Add red wine
 - Add orange juice
 - Add 7 Up
