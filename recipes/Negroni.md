@@ -4,12 +4,14 @@
 - 2 cl `gin`
 - 2 cl `Campari`
 - 2 cl `sweet vermouth`
+- 2 dashes `Angostura Orange Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`
 - 1 `ice ball`
 
 ## Instructions:
 - Rub the glass with orange peel
+- Add Angostura Orange Bitters
 - Add gin
 - Add Campari
 - Add sweet vermouth
@@ -22,4 +24,4 @@
 - Old Fashioned glass
 
 ## Rating:
-- ★★☆☆☆
+- ★★★☆☆
