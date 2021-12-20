@@ -2,13 +2,13 @@
 
 ## Ingredients:
 - 6 cl `Aperol`
-- 9 cl `Prosecco`
+- 9 cl `sparkling wine`
 - 3 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:
 - Add Aperol
-- Add Prosecco
+- Add sparkling wine
 - Add soda water
 - Add ice cubes and stir
 

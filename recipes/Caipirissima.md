@@ -7,7 +7,6 @@
 - 16 `ice cubes`
 
 ## Instructions:
-- Rub the glass with lime peel
 - Add raw sugar
 - Muddle lime
 - Add white rum

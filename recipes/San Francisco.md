@@ -1,10 +1,10 @@
 # San Francisco
 
 ## Ingredients:
-- 4 cl `vodka`
-- 2 cl `Bols Banana`
+- 4 cl `vodka` <!-- - 2 cl `vodka` --> <!-- - 3 cl `vodka` -->
+- 2 cl `Bols Banana` <!-- - 3 cl `Bols Banana` -->
 - 2 cl `grenadine` <!-- - 1 cl `grenadine` -->
-- 15 cl `orange juice` <!-- - 12 cl `orange juice` -->
+- 12 cl `orange juice` <!-- - 10 cl `orange juice`
 - 8 `ice cubes`
 
 ## Instructions:
