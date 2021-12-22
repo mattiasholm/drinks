@@ -3,7 +3,7 @@
 ## Ingredients:
 - 3 cl `Stroh 80`
 - 20 cl `hot chocolate`
-- 3 cl `whipped cream`
+- 5 cl `whipped cream`
 
 ## Instructions:
 - Add Stroh 80
@@ -11,7 +11,7 @@
 - Add whipped cream
 
 ## Served in:
-- Tea mug
+- Wine glass
 
 ## Rating:
 - ★★★★★

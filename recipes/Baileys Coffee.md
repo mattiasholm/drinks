@@ -9,7 +9,7 @@
 - Add hot coffee
 
 ## Served in:
-- Coffee mug
+- Wine glass
 
 ## Rating:
 - ★★★★☆

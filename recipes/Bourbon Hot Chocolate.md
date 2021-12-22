@@ -3,7 +3,7 @@
 ## Ingredients:
 - 4 cl `bourbon`
 - 20 cl `hot chocolate`
-- 3 cl `whipped cream`
+- 5 cl `whipped cream`
 
 ## Instructions:
 - Add bourbon
@@ -11,7 +11,7 @@
 - Add whipped cream
 
 ## Served in:
-- Tea mug
+- Wine glass
 
 ## Rating:
 - ★★★★☆
