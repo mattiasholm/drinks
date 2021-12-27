@@ -7,6 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
+- Rub the glass with lime peel
 - Add Licor 43
 - Squeeze and add lime wedges
 - Add tonic water

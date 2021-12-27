@@ -7,6 +7,7 @@
 - 8 `ice cubes`
 
 ## Instructions:
+- Rub the glass with lime peel
 - Add dark rum
 - Squeeze and add lime wedges
 - Add tonic water
