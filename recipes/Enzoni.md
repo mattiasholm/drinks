@@ -14,7 +14,7 @@
 - Add Campari
 - Add lemon juice
 - Add simple syrup
-- Dry shake for 30 seconds
+- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add ice cubes and stir

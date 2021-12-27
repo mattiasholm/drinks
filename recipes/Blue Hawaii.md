@@ -14,7 +14,7 @@
 - Add lime juice
 - Add simple syrup
 - Add pineapple juice
-- Dry shake for 30 seconds
+- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add crushed ice and stir

@@ -11,7 +11,7 @@
 - Add Baileys
 - Add Kahlúa
 - Add vodka
-- Dry shake for 30 seconds
+- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add ice ball

@@ -9,7 +9,7 @@
 ## Instructions:
 - Add Baileys
 - Add Irish whiskey
-- Dry shake for 30 seconds
+- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add ice ball

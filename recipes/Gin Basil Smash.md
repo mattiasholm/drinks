@@ -12,7 +12,7 @@
 - Add simple syrup
 - Add gin
 - Smack and add basil leaves
-- Dry shake for 30 seconds
+- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add ice cubes and stir
