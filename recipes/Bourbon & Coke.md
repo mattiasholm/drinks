@@ -1,4 +1,4 @@
-# Whiskey & Coke
+# Bourbon & Coke
 
 ## Ingredients:
 - 4 cl `bourbon`
