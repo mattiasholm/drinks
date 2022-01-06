@@ -7,7 +7,6 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub the glass with lime peel
 - Add Irish whiskey <!-- - Add bourbon -->
 - Squeeze and add lime wedges
 - Add tonic water

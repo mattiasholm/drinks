@@ -8,7 +8,6 @@
 - 8 `ice cubes`
 
 ## Instructions:
-<!-- - Rub the glass with lime peel -->
 - Add lime juice <!-- - Squeeze and add lime wedges -->
 - Smack and muddle cilantro leaves
 - Add Peachtree
