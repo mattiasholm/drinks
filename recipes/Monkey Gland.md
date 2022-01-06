@@ -1,13 +1,15 @@
-# Santiago
+# Monkey Gland
 
 ## Ingredients:
-- 5 cl `white rum`
+- 5 cl `gin`
 - 5 cl `orange juice`
 - 1 cl `grenadine`
+- 1 bar spoon `absinthe`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add white rum
+- Rinse the glass with absinthe
+- Add gin
 - Add orange juice
 - Add grenadine
 - Dry shake for 15 seconds
@@ -18,4 +20,4 @@
 - Coupe glass
 
 ## Rating:
-- ★★★☆☆
+- ★★★★☆
