@@ -1,13 +1,13 @@
 # Whiskey Tonic
 
 ## Ingredients:
-- 5 cl `Irish whiskey` <!-- - 5 cl `bourbon` -->
+- 5 cl `bourbon`
 - 10 cl `tonic water`
 - 2 `lime wedges`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Irish whiskey <!-- - Add bourbon -->
+- Add bourbon
 - Squeeze and add lime wedges
 - Add tonic water
 - Add ice cubes and stir
@@ -16,4 +16,4 @@
 - Copa de Balon glass
 
 ## Rating:
-- ★★☆☆☆
+- ★★★☆☆
