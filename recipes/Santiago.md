@@ -2,14 +2,14 @@
 
 ## Ingredients:
 - 5 cl `white rum`
-- 5 cl `orange juice`
 - 1 cl `grenadine`
+- 5 cl `orange juice`
 - 8 `ice cubes`
 
 ## Instructions:
 - Add white rum
-- Add orange juice
 - Add grenadine
+- Add orange juice
 - Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
