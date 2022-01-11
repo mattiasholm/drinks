@@ -6,16 +6,16 @@
 - 2 cl `sweet vermouth`
 - 1 `orange peel`
 - 8 `ice cubes`
-- 1 `ice ball`
+- 1 `clear ice cube`
 
 ## Instructions:
 - Rub the glass with orange peel
+- Add clear ice cube
 - Add bourbon
 - Add Campari
 - Add sweet vermouth
 - Add ice cubes and stir for 30 seconds
 - Strain
-- Add ice ball
 - Squeeze and add orange peel
 
 ## Served in:
