@@ -2,12 +2,12 @@
 
 ## Ingredients:
 - 5 cl `bourbon`
-- 1 cl `raw sugar simple syrup`
+- 1 cl `demerara syrup`
 - 15 `mint leaves`
 - 16 `ice cubes`
 
 ## Instructions:
-- Add raw sugar simple syrup
+- Add demerara syrup
 - Smack and muddle mint leaves
 - Add bourbon
 - Add crushed ice

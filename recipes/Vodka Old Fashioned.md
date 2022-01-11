@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 5 cl `vodka`
-- 1 cl `raw sugar simple syrup`
+- 1 cl `demerara syrup`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`
@@ -12,7 +12,7 @@
 - Rub the glass with orange peel
 - Add clear ice cube
 - Add Angostura Aromatic Bitters
-- Add raw sugar simple syrup
+- Add demerara syrup
 - Add vodka
 - Add ice cubes and stir for 30 seconds
 - Strain

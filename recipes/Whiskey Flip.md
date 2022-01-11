@@ -2,14 +2,14 @@
 
 ## Ingredients:
 - 5 cl `bourbon`
-- 1 cl `raw sugar simple syrup` <!-- - 1 cl `simple syrup` -->
+- 2 cl `simple syrup` <!-- - 1 cl `simple syrup` -->
 - 1 `egg`
 - 2 dashes `Angostura Aromatic Bitters` <!--  -->
 - 8 `ice cubes`
 
 ## Instructions:
 - Add Angostura Aromatic Bitters <!--  -->
-- Add raw sugar simple syrup <!-- - Add simple syrup -->
+- Add simple syrup
 - Add bourbon
 - Add egg
 - Dry shake for 15 seconds
@@ -20,4 +20,4 @@
 - Coupe glass
 
 ## Rating:
-- ★★★☆☆
+- ★★★★☆

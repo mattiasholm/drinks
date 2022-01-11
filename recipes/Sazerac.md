@@ -2,7 +2,7 @@
 
 ## Ingredients:
 - 5 cl `rye whiskey`
-- 1 cl `raw sugar simple syrup`
+- 1 cl `demerara syrup`
 - 2 dashes `Peychaud's Bitters`
 - 1 bar spoon `absinthe`
 - 1 `lemon peel`
@@ -12,7 +12,7 @@
 - Rub the glass with lemon peel
 - Rinse the glass with absinthe
 - Add Peychaud's Bitters
-- Add raw sugar simple syrup
+- Add demerara syrup
 - Add rye whiskey
 - Add ice cubes and stir for 30 seconds
 - Strain
