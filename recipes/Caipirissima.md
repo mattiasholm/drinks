@@ -10,7 +10,7 @@
 - Add raw sugar
 - Muddle lime
 - Add white rum
-- Add crushed ice and stir
+- Add crushed ice
 
 ## Served in:
 - Highball glass

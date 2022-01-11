@@ -14,7 +14,7 @@
 - Add lemon juice
 - Add grenadine
 - Add soda water
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

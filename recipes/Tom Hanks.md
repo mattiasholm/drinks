@@ -12,7 +12,7 @@
 - Smack and muddle cilantro leaves
 - Add Peachtree
 - Add tonic water
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Copa de Balon glass

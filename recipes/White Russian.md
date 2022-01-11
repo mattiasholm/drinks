@@ -9,7 +9,7 @@
 ## Instructions:
 - Add Kahlúa
 - Add vodka
-- Add ice cubes and stir
+- Add ice cubes
 - Add cream
 
 ## Served in:

@@ -12,7 +12,7 @@
 - Add Southern Comfort
 - Add Bols Blue Curaçao
 - Add Red Bull
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

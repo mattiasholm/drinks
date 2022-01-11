@@ -10,7 +10,7 @@
 - Add raw sugar simple syrup
 - Smack and muddle mint leaves
 - Add bourbon
-- Add crushed ice and stir
+- Add crushed ice
 
 ## Served in:
 - Old Fashioned glass

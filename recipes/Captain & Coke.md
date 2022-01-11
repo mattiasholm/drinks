@@ -8,7 +8,7 @@
 ## Instructions:
 - Add Captain Morgan
 - Add Coca-Cola
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

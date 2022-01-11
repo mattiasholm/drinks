@@ -12,7 +12,7 @@
 - Add vodka
 - Add maple syrup
 - Add grapefruit juice
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Old Fashioned glass

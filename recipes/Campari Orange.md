@@ -8,7 +8,7 @@
 ## Instructions:
 - Add Campari
 - Add orange juice
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

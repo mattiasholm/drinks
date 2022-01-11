@@ -21,7 +21,7 @@
 - Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
-- Add crushed ice and stir
+- Add crushed ice
 
 ## Served in:
 - Hurricane glass

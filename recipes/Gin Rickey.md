@@ -10,7 +10,7 @@
 - Add gin
 - Add lime juice
 - Add soda water
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

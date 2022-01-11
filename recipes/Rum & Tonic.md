@@ -10,7 +10,7 @@
 - Add dark rum
 - Squeeze and add lime wedges
 - Add tonic water
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Copa de Balon glass

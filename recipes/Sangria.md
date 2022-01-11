@@ -14,7 +14,7 @@
 - Add red wine
 - Add orange juice
 - Add 7 Up
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Copa de Balon glass

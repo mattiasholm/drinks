@@ -12,7 +12,7 @@
 - Add dark rum
 - Add orange juice
 - Add Red Bull
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

@@ -12,7 +12,7 @@
 - Add dark rum
 - Add lime juice
 - Add ginger beer
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

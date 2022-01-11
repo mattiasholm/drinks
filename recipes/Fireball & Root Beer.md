@@ -8,7 +8,7 @@
 ## Instructions:
 - Add Fireball
 - Add root beer
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

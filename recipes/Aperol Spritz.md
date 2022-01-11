@@ -10,7 +10,7 @@
 - Add Aperol
 - Add sparkling wine
 - Add soda water
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Copa de Balon glass

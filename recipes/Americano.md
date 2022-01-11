@@ -10,7 +10,7 @@
 - Add Campari
 - Add sweet vermouth
 - Add soda water
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

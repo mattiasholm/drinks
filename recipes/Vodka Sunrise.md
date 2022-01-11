@@ -9,7 +9,7 @@
 ## Instructions:
 - Add vodka
 - Add orange juice
-- Add ice cubes and stir
+- Add ice cubes
 - Add grenadine
 
 ## Served in:

@@ -14,7 +14,7 @@
 - Add lemon juice
 - Add white rum
 - Add soda water
-- Add crushed ice and stir
+- Add crushed ice
 
 ## Served in:
 - Highball glass

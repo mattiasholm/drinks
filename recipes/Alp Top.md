@@ -12,7 +12,7 @@
 - Add Peachtree
 - Add Bols Blue Curaçao
 - Add tonic water
-- Add crushed ice and stir
+- Add crushed ice
 
 ## Served in:
 - Old Fashioned glass

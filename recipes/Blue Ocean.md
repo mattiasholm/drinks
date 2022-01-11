@@ -12,7 +12,7 @@
 - Add Bols Blue Curaçao
 - Add lemon juice
 - Add 7 Up
-- Add ice cubes and stir
+- Add ice cubes
 
 ## Served in:
 - Highball glass

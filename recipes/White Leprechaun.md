@@ -9,7 +9,7 @@
 ## Instructions:
 - Add Kahlúa
 - Add Irish whiskey
-- Add ice cubes and stir
+- Add ice cubes
 - Add cream
 
 ## Served in:

@@ -14,7 +14,7 @@
 - Smack and muddle mint leaves
 - Add lime juice
 - Add dark rum
-- Add crushed ice and stir
+- Add crushed ice
 
 ## Served in:
 - Highball glass
