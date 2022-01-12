@@ -12,7 +12,7 @@
 - Add ice cubes
 - Add cream
 
-## Served in:
+## Glassware:
 - Old Fashioned glass
 
 ## Rating:

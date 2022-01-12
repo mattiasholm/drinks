@@ -12,7 +12,7 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Served in:
+## Glassware:
 - Coupe glass
 
 ## Rating:

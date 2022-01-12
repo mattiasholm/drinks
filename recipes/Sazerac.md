@@ -18,7 +18,7 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Served in:
+## Glassware:
 - Old Fashioned glass
 
 ## Rating:

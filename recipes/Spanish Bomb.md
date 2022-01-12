@@ -15,7 +15,7 @@
 - Double strain
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

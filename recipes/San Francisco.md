@@ -14,7 +14,7 @@
 - Add ice cubes
 - Add grenadine
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

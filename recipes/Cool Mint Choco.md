@@ -10,7 +10,7 @@
 - Add chocolate milk
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

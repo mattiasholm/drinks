@@ -18,7 +18,7 @@
 - Double strain
 - Add soda water
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

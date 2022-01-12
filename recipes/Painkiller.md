@@ -19,7 +19,7 @@
 - Double strain
 - Add crushed ice
 
-## Served in:
+## Glassware:
 - Hurricane glass
 
 ## Rating:

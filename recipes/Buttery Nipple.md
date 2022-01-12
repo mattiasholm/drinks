@@ -8,7 +8,7 @@
 - Add Bols Butterscotch
 - Add Baileys
 
-## Served in:
+## Glassware:
 - Shot glass
 
 ## Rating:

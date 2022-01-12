@@ -10,7 +10,7 @@
 - Add cranberry juice
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

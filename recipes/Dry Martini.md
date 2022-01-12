@@ -16,7 +16,7 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Served in:
+## Glassware:
 - Coupe glass
 
 ## Rating:

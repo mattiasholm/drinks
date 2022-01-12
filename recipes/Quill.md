@@ -20,7 +20,7 @@
 - Strain
 - Squeeze and add orange peel
 
-## Served in:
+## Glassware:
 - Old Fashioned glass
 
 ## Rating:

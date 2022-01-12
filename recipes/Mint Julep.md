@@ -12,7 +12,7 @@
 - Add bourbon
 - Add crushed ice
 
-## Served in:
+## Glassware:
 - Old Fashioned glass
 
 ## Rating:

@@ -10,7 +10,7 @@
 - Add root beer
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

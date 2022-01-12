@@ -16,7 +16,7 @@
 - Add soda water
 - Add crushed ice
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

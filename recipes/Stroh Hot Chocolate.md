@@ -10,7 +10,7 @@
 - Add hot chocolate
 - Add whipped cream
 
-## Served in:
+## Glassware:
 - Wine glass
 
 ## Rating:

@@ -12,7 +12,7 @@
 - Add tonic water
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Copa de Balon glass
 
 ## Rating:

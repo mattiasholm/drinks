@@ -16,7 +16,7 @@
 - Strain
 - Squeeze and add orange peel
 
-## Served in:
+## Glassware:
 - Coupe glass
 
 ## Rating:

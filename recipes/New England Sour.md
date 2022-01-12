@@ -14,7 +14,7 @@
 - Add grapefruit juice
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Old Fashioned glass
 
 ## Rating:

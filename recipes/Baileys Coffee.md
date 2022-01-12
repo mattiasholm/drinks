@@ -8,7 +8,7 @@
 - Add Baileys
 - Add hot coffee
 
-## Served in:
+## Glassware:
 - Wine glass
 
 ## Rating:

@@ -15,7 +15,7 @@
 - Strain
 - Add olives
 
-## Served in:
+## Glassware:
 - Coupe glass
 
 ## Rating:

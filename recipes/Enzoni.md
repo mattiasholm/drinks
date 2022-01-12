@@ -19,7 +19,7 @@
 - Double strain
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Old Fashioned glass
 
 ## Rating:

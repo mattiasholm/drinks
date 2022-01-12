@@ -16,7 +16,7 @@
 - Add 7 Up
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Copa de Balon glass
 
 ## Rating:

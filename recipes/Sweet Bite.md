@@ -12,7 +12,7 @@
 - Add 7 Up
 - Add ice cubes
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:

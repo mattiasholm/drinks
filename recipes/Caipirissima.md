@@ -12,7 +12,7 @@
 - Add white rum
 - Add crushed ice
 
-## Served in:
+## Glassware:
 - Highball glass
 
 ## Rating:
