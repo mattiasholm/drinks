@@ -2,14 +2,14 @@
 
 ## Ingredients:
 - 4 cl `Peachtree` <!-- - 5 cl `Peachtree` -->
-- 2 cl `lime juice` <!-- - 2 `lime wedges` -->
+- 2 cl `lime juice`
 - 10 cl `tonic water`
 - 20 `cilantro leaves`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add lime juice <!-- - Squeeze and add lime wedges -->
-- Smack and muddle cilantro leaves
+- Add lime juice
+- Muddle cilantro leaves
 - Add Peachtree
 - Add tonic water
 - Add ice cubes

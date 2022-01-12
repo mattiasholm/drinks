@@ -10,7 +10,7 @@
 
 ## Instructions:
 - Add simple syrup
-- Smack and muddle mint leaves
+- Muddle mint leaves
 - Add lime juice
 - Add gin
 - Add ginger beer

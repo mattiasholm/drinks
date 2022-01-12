@@ -10,7 +10,7 @@
 
 ## Instructions:
 - Add demerara syrup
-- Smack and muddle mint leaves
+- Muddle mint leaves
 - Add lime juice
 - Add dark rum
 - Add soda water

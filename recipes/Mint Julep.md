@@ -8,7 +8,7 @@
 
 ## Instructions:
 - Add demerara syrup
-- Smack and muddle mint leaves
+- Muddle mint leaves
 - Add bourbon
 - Add crushed ice
 
