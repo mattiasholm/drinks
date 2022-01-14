@@ -5,11 +5,9 @@
 - 2 cl `Baileys`
 - 1 cl `Disaronno`
 - 3 cl `cream`
-- 8 `ice cubes`
-- 1 `clear ice cube`
+- 16 `ice cubes`
 
 ## Instructions:
-- Add clear ice cube
 - Add Bols Butterscotch
 - Add Baileys
 - Add Disaronno
@@ -17,6 +15,7 @@
 - Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
+- Add ice cubes
 
 ## Glassware:
 - Old Fashioned glass
