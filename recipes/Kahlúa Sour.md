@@ -5,11 +5,9 @@
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - ½ `egg white`
-- 2 dashes `Angostura Aromatic Bitters`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Angostura Aromatic Bitters
 - Add Kahlúa
 - Add lemon juice
 - Add simple syrup
