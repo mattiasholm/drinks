@@ -4,7 +4,7 @@
 - 4 cl `gin`
 - 2 cl `Cointreau`
 - 2 cl `lemon juice`
-- 1 cl `simple syrup` <!--  --> <!-- - 1 bar spoon `simple syrup` --> <!-- - 2 cl `simple syrup` -->
+- 1 cl `simple syrup` <!--  --> <!-- - 1 bar spoon `simple syrup` -->
 - ½ `egg white`
 - 8 `ice cubes`
 
