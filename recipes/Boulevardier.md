@@ -9,7 +9,6 @@
 - 1 `clear ice cube`
 
 ## Instructions:
-- Rub the glass with orange peel
 - Add clear ice cube
 - Add bourbon
 - Add Campari

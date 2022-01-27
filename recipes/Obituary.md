@@ -8,7 +8,6 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub the glass with lemon peel
 - Rinse the glass with absinthe
 - Add gin
 - Add dry vermouth

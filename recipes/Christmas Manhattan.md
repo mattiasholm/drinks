@@ -8,7 +8,6 @@
 - 8 `ice cubes`
 
 ## Instructions:
-- Rub the glass with orange peel
 - Add Angostura Aromatic Bitters
 - Add rye whiskey
 - Add mulled wine

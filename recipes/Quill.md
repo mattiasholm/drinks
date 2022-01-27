@@ -10,7 +10,6 @@
 - 1 `clear ice cube`
 
 ## Instructions:
-- Rub the glass with orange peel
 - Rinse the glass with absinthe
 - Add clear ice cube
 - Add gin
