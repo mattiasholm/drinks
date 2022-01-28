@@ -14,7 +14,7 @@
 - Muddle mint leaves
 - Add lime juice
 - Add dark rum
-- Add crushed ice
+- Add crushed ice and swizzle
 
 ## Glassware:
 - Highball glass

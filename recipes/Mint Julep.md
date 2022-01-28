@@ -10,7 +10,7 @@
 - Add demerara syrup
 - Muddle mint leaves
 - Add bourbon
-- Add crushed ice
+- Add crushed ice and swizzle
 
 ## Glassware:
 - Old Fashioned glass
