@@ -1,9 +1,9 @@
 # Vodka Gimlet
 
 ## Ingredients:
-- 4 cl `vodka`
-- 2 cl `lime juice`
-- 1 cl `simple syrup`
+- 5 cl `vodka`
+- 3 cl `lime juice`
+- 2 cl `simple syrup`
 - 8 `ice cubes`
 
 ## Instructions:

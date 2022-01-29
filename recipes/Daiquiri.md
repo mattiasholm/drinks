@@ -1,9 +1,9 @@
 # Daiquiri
 
 ## Ingredients:
-- 4 cl `white rum`
-- 2 cl `lime juice`
-- 1 cl `simple syrup`
+- 5 cl `white rum`
+- 3 cl `lime juice`
+- 2 cl `simple syrup`
 - 8 `ice cubes`
 
 ## Instructions:

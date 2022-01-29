@@ -1,9 +1,9 @@
 # Gimlet
 
 ## Ingredients:
-- 4 cl `gin` <!-- - 5 cl `gin` -->
-- 2 cl `lime juice` <!-- - 3 cl `lime juice` -->
-- 1 cl `simple syrup`<!-- - 2 cl `simple syrup` -->
+- 5 cl `gin`
+- 3 cl `lime juice`
+- 2 cl `simple syrup`
 - 8 `ice cubes`
 
 ## Instructions:
@@ -18,4 +18,4 @@
 - Coupe glass
 
 ## Rating:
-- ★★★★☆
+- ★★★★★

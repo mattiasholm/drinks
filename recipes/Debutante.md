@@ -1,9 +1,9 @@
 # Debutante
 
 ## Ingredients:
-- 4 cl `gin`
-- 2 cl `lime juice`
-- 1 cl `grenadine`
+- 5 cl `gin`
+- 3 cl `lime juice`
+- 2 cl `grenadine`
 - 8 `ice cubes`
 
 ## Instructions:
