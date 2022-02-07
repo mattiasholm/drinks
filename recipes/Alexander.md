@@ -4,6 +4,7 @@
 - 3 cl `gin`
 - 3 cl `Bols Cacao White`
 - 3 cl `cream`
+- 1 pinch `nutmeg`
 - 8 `ice cubes`
 
 ## Instructions:
@@ -13,6 +14,7 @@
 - Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
+- Add nutmeg
 
 ## Glassware:
 - Coupe glass

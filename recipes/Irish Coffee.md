@@ -2,15 +2,17 @@
 
 ## Ingredients:
 - 4 cl `Irish whiskey`
-- 2 tsp `brown sugar`
 - 15 cl `hot coffee`
+- 2 tsp `brown sugar`
 - 5 cl `whipped cream`
+- 1 pinch `nutmeg`
 
 ## Instructions:
-- Add Irish whiskey
 - Add brown sugar
 - Add hot coffee
+- Add Irish whiskey
 - Add whipped cream
+- Add nutmeg
 
 ## Glassware:
 - Wine glass
