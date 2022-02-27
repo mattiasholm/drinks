@@ -4,7 +4,6 @@
 - 3 cl `bourbon`
 - 3 cl `Bols Cacao White`
 - 3 cl `cream`
-- 1 pinch `nutmeg`
 - 8 `ice cubes`
 
 ## Instructions:
