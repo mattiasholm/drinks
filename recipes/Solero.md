@@ -10,7 +10,6 @@
 - Add Licor 43
 - Add passion fruit juice
 - Add milk
-- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add ice cubes

@@ -10,7 +10,6 @@
 - Add gin
 - Add lime juice
 - Add simple syrup
-- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 

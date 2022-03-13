@@ -12,7 +12,6 @@
 - Add orange juice
 - Add lemon juice
 - Add grenadine
-- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 

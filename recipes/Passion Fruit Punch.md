@@ -12,7 +12,6 @@
 - Add lime juice
 - Add simple syrup
 - Add passion fruit juice
-- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add crushed ice

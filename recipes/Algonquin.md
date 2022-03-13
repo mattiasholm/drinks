@@ -10,7 +10,6 @@
 - Add rye whiskey
 - Add dry vermouth
 - Add pineapple juice
-- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
