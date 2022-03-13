@@ -17,7 +17,7 @@
 - Add ice cubes
 
 ## Glassware:
-- Copa de Balon glass
+- Copa glass
 
 ## Rating:
 - ★★★★☆
