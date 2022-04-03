@@ -3,11 +3,11 @@
 ## Ingredients:
 - 4 cl `Irish whiskey`
 - 15 cl `hot coffee`
-- 2 tsp `brown sugar`
+- 2 tsp `demerara sugar` <!-- - 1 tsp `demerara sugar` -->
 - 5 cl `whipped cream`
 
 ## Instructions:
-- Add brown sugar
+- Add demerara sugar
 - Add hot coffee
 - Add Irish whiskey
 - Add whipped cream

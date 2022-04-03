@@ -1,7 +1,7 @@
 # Boulevardier
 
 ## Ingredients:
-- 3 cl `bourbon`
+- 3 cl `bourbon` <!-- - 2 cl `bourbon` -->
 - 2 cl `Campari`
 - 2 cl `sweet vermouth`
 - 1 `orange peel`
