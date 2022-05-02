@@ -1,4 +1,4 @@
-# Comfort Collins
+# SoCo & 7
 
 ## Ingredients:
 - 4 cl `Southern Comfort`
