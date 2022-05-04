@@ -1,12 +1,12 @@
-# Minttukaakao
+# Verte Chaud
 
 ## Ingredients:
-- 4 cl `Minttu`
+- 4 cl `Chartreuse`
 - 20 cl `hot chocolate`
 - 5 cl `whipped cream`
 
 ## Instructions:
-- Add Minttu
+- Add Chartreuse
 - Add hot chocolate
 - Add whipped cream
 
