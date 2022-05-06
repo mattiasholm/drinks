@@ -23,4 +23,4 @@
 - Coupe glass
 
 ## Rating:
-- ★★★★☆
+- ★★★☆☆
