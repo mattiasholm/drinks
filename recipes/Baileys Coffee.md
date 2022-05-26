@@ -2,11 +2,11 @@
 
 ## Ingredients:
 - 6 cl `Baileys`
-- 20 cl `hot coffee`
+- 20 cl `coffee`
 
 ## Instructions:
 - Add Baileys
-- Add hot coffee
+- Add coffee
 
 ## Glassware:
 - Wine glass
