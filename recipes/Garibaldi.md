@@ -1,4 +1,4 @@
-# Campari Orange
+# Garibaldi
 
 ## Ingredients:
 - 4 cl `Campari`
