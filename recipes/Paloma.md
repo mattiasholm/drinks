@@ -1,7 +1,7 @@
 # Paloma
 
 ## Ingredients:
-- 5 cl `tequila`
+- 4 cl `tequila`
 - 1 cl `lime juice`
 - 10 cl `grapefruit soda`
 - 8 `ice cubes`
