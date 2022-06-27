@@ -4,7 +4,7 @@
 - 5 cl `vodka`
 - 1 cl `demerara syrup`
 - 2 dashes `Angostura Aromatic Bitters`
-- 1 `lemon peel`
+- 1 `orange peel`
 - 8 `ice cubes`
 - 1 `clear ice cube`
 
@@ -15,7 +15,7 @@
 - Add vodka
 - Add ice cubes and stir for 30 seconds
 - Strain
-- Squeeze and add lemon peel
+- Squeeze and add orange peel
 
 ## Glassware:
 - Old Fashioned glass
