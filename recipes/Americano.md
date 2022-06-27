@@ -1,8 +1,8 @@
 # Americano
 
 ## Ingredients:
-- 3 cl `Campari`
-- 3 cl `sweet vermouth`
+- 3 cl `Campari` <!-- - 2 cl `Campari` -->
+- 3 cl `sweet vermouth` <!-- - 2 cl `sweet vermouth` -->
 - 10 cl `soda water`
 - 8 `ice cubes`
 
