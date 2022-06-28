@@ -2,8 +2,8 @@
 
 ## Ingredients:
 - 4 cl `gin`
-- 1 cl `dry vermouth`
-- 1 cl `olive brine`
+- 1 cl `dry vermouth` <!-- - 2 cl `dry vermouth` -->
+- 1 cl `olive brine` <!-- - 1 bar spoon `olive brine` -->
 - 3 `olives`
 - 8 `ice cubes`
 
