@@ -1,14 +1,14 @@
-# Kahlúa Sour
+# Coffee Sour
 
 ## Ingredients:
-- 5 cl `Kahlúa`
+- 5 cl `coffee liqueur`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - ½ `egg white`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Kahlúa
+- Add coffee liqueur
 - Add lemon juice
 - Add simple syrup
 - Add egg white

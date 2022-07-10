@@ -1,12 +1,12 @@
 # Black Russian
 
 ## Ingredients:
-- 3 cl `Kahlúa`
+- 3 cl `coffee liqueur`
 - 3 cl `vodka`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Kahlúa
+- Add coffee liqueur
 - Add vodka
 - Add ice cubes
 

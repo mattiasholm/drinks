@@ -2,14 +2,14 @@
 
 ## Ingredients:
 - 2 cl `Baileys`
-- 2 cl `Kahlúa`
+- 2 cl `coffee liqueur`
 - 2 cl `Disaronno`
 - 15 cl `milk`
 - 8 `ice cubes`
 
 ## Instructions:
 - Add Baileys
-- Add Kahlúa
+- Add coffee liqueur
 - Add Disaronno
 - Add milk
 - Add ice cubes

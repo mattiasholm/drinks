@@ -2,13 +2,13 @@
 
 ## Ingredients:
 - 4 cl `Baileys`
-- 2 cl `Kahlúa`
+- 2 cl `coffee liqueur`
 - 2 cl `vodka`
 - 16 `ice cubes`
 
 ## Instructions:
 - Add Baileys
-- Add Kahlúa
+- Add coffee liqueur
 - Add vodka
 - Add ice cubes and shake for 15 seconds
 - Double strain
