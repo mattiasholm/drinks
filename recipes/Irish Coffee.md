@@ -4,7 +4,7 @@
 - 2 cl `Irish whiskey`
 - 10 cl `coffee`
 - 1 tsp `demerara sugar`
-- 3 cl `whipped cream`
+- 5 cl `whipped cream`
 
 ## Instructions:
 - Add demerara sugar

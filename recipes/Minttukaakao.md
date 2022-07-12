@@ -3,7 +3,7 @@
 ## Ingredients:
 - 2 cl `Minttu`
 - 10 cl `hot chocolate`
-- 3 cl `whipped cream`
+- 5 cl `whipped cream`
 
 ## Instructions:
 - Add Minttu

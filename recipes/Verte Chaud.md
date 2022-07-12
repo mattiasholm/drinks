@@ -3,7 +3,7 @@
 ## Ingredients:
 - 2 cl `Chartreuse`
 - 10 cl `hot chocolate`
-- 3 cl `whipped cream`
+- 5 cl `whipped cream`
 
 ## Instructions:
 - Add Chartreuse
