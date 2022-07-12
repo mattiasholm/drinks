@@ -1,9 +1,9 @@
 # Minttukaakao
 
 ## Ingredients:
-- 4 cl `Minttu`
-- 20 cl `hot chocolate`
-- 5 cl `whipped cream`
+- 2 cl `Minttu`
+- 10 cl `hot chocolate`
+- 3 cl `whipped cream`
 
 ## Instructions:
 - Add Minttu
@@ -11,7 +11,7 @@
 - Add whipped cream
 
 ## Glassware:
-- Wine glass
+- Irish Coffee glass
 
 ## Rating:
 - ★★★★☆

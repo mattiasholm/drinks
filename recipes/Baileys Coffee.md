@@ -1,15 +1,15 @@
 # Baileys Coffee
 
 ## Ingredients:
-- 6 cl `Baileys`
-- 20 cl `coffee`
+- 4 cl `Baileys`
+- 10 cl `coffee`
 
 ## Instructions:
 - Add Baileys
 - Add coffee
 
 ## Glassware:
-- Wine glass
+- Irish Coffee glass
 
 ## Rating:
 - ★★★★☆

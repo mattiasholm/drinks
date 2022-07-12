@@ -1,9 +1,9 @@
 # Stroh Hot Chocolate
 
 ## Ingredients:
-- 4 cl `Stroh`
-- 20 cl `hot chocolate`
-- 5 cl `whipped cream`
+- 2 cl `Stroh`
+- 10 cl `hot chocolate`
+- 3 cl `whipped cream`
 
 ## Instructions:
 - Add Stroh
@@ -11,7 +11,7 @@
 - Add whipped cream
 
 ## Glassware:
-- Wine glass
+- Irish Coffee glass
 
 ## Rating:
 - ★★★★☆
