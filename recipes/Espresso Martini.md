@@ -1,17 +1,20 @@
-# Black Russian
+# Espresso Martini
 
 ## Ingredients:
 - 3 cl `vodka`
 - 3 cl `coffee liqueur`
+- 3 cl `espresso`
 - 8 `ice cubes`
 
 ## Instructions:
 - Add vodka
 - Add coffee liqueur
-- Add ice cubes
+- Add espresso
+- Add ice cubes and shake for 15 seconds
+- Double strain
 
 ## Glassware:
-- Old Fashioned glass
+- Coupe glass
 
 ## Rating:
 - ★★★☆☆
