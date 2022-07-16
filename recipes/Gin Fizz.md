@@ -5,7 +5,7 @@
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - ½ `egg white`
-- 8 cl `soda water` <!-- - 5 cl `soda water` --> <!-- - 4 cl `soda water` --> <!-- - 3 cl `soda water` -->
+- 5 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:
@@ -19,7 +19,7 @@
 - Add soda water
 
 ## Glassware:
-- Highball glass <!-- - Old Fashioned glass -->
+- Old Fashioned glass
 
 ## Rating:
 - ★★★☆☆
