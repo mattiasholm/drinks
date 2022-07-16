@@ -11,8 +11,8 @@
 ## Instructions:
 - Rinse the glass with absinthe
 - Add Peychaud's Bitters
-- Add demerara syrup
 - Add rye whiskey
+- Add demerara syrup
 - Add ice cubes and stir for 30 seconds
 - Strain
 - Squeeze and add lemon peel

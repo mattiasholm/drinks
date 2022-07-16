@@ -9,8 +9,8 @@
 
 ## Instructions:
 - Muddle lemon
-- Add simple syrup
 - Add gin
+- Add simple syrup
 - Add basil leaves
 - Add ice cubes and shake for 15 seconds
 - Double strain

@@ -12,8 +12,8 @@
 - Add Angostura Aromatic Bitters
 - Add demerara syrup
 - Muddle mint leaves
-- Add lime juice
 - Add dark rum
+- Add lime juice
 - Add crushed ice
 
 ## Glassware:

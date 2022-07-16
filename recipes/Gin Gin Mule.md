@@ -11,8 +11,8 @@
 ## Instructions:
 - Add simple syrup
 - Muddle mint leaves
-- Add lime juice
 - Add gin
+- Add lime juice
 - Add ginger beer
 - Add ice cubes
 

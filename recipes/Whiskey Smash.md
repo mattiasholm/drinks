@@ -9,8 +9,8 @@
 
 ## Instructions:
 - Muddle lemon
-- Add simple syrup
 - Add bourbon
+- Add simple syrup
 - Add mint leaves
 - Add ice cubes and shake for 15 seconds
 - Double strain

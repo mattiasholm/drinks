@@ -11,8 +11,8 @@
 ## Instructions:
 - Add clear ice cube
 - Add Angostura Aromatic Bitters
-- Add maple syrup
 - Add bourbon
+- Add maple syrup
 - Add ice cubes and stir for 30 seconds
 - Strain
 - Squeeze and add orange peel

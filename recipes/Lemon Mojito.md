@@ -11,8 +11,8 @@
 ## Instructions:
 - Add demerara syrup
 - Muddle mint leaves
-- Add lemon juice
 - Add white rum
+- Add lemon juice
 - Add soda water
 - Add crushed ice
 

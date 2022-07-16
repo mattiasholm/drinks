@@ -11,8 +11,8 @@
 ## Instructions:
 - Add clear ice cube
 - Add Angostura Aromatic Bitters
-- Add demerara syrup
 - Add gin
+- Add demerara syrup
 - Add ice cubes and stir for 30 seconds
 - Strain
 - Squeeze and add orange peel
