@@ -1,4 +1,4 @@
-# Cointreau & Tonic
+# Cointreau Tonic
 
 ## Ingredients:
 - 5 cl `Cointreau`
