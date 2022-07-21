@@ -2,14 +2,14 @@
 
 ## Ingredients:
 - 6 cl `Aperol`
-- 9 cl `sparkling wine`
 - 3 cl `soda water`
+- 9 cl `sparkling wine`
 - 8 `ice cubes`
 
 ## Instructions:
 - Add Aperol
-- Add sparkling wine
 - Add soda water
+- Add sparkling wine
 - Add ice cubes
 
 ## Glassware:
