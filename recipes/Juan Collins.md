@@ -1,16 +1,16 @@
-# Vodka Collins
+# Juan Collins
 
 ## Ingredients:
-- 5 cl `vodka`
+- 5 cl `tequila`
 - 3 cl `lemon juice`
-- 2 cl `simple syrup`
+- 2 cl `agave syrup`
 - 8 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add vodka
+- Add tequila
 - Add lemon juice
-- Add simple syrup
+- Add agave syrup
 - Add soda water
 - Add ice cubes
 
@@ -18,4 +18,4 @@
 - Highball glass
 
 ## Rating:
-- ★★★★☆
+- ★★★☆☆

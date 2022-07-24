@@ -5,7 +5,7 @@
 - 2 cl `violet liqueur`
 - 3 cl `lemon juice`
 - 1 cl `simple syrup`
-- 10 cl `soda water`
+- 8 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:

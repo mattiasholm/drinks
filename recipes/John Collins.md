@@ -4,7 +4,7 @@
 - 5 cl `bourbon`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
-- 10 cl `soda water`
+- 8 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:

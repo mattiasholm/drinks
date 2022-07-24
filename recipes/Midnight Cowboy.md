@@ -5,7 +5,7 @@
 - 1 cl `Southern Comfort`
 - 3 cl `lemon juice`
 - 1 cl `grenadine`
-- 10 cl `soda water`
+- 8 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:
