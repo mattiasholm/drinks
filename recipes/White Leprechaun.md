@@ -1,9 +1,9 @@
 # White Leprechaun
 
 ## Ingredients:
-- 2 cl `Irish whiskey`
-- 2 cl `coffee liqueur`
-- 2 cl `cream`
+- 3 cl `Irish whiskey`
+- 3 cl `coffee liqueur`
+- 3 cl `cream`
 - 8 `ice cubes`
 
 ## Instructions:
