@@ -3,7 +3,7 @@
 ## Ingredients:
 - 4 cl `tequila`
 - 1 cl `lime juice`
-- 6 cl `grapefruit juice`
+- 5 cl `grapefruit juice`
 - 2 cl `agave syrup`
 - 5 cl `soda water`
 - 8 `ice cubes`
