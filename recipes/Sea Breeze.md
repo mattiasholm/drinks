@@ -2,8 +2,8 @@
 
 ## Ingredients:
 - 4 cl `vodka`
-- 2 cl `grapefruit juice`
-- 8 cl `cranberry juice`
+- 4 cl `grapefruit juice`
+- 6 cl `cranberry juice`
 - 8 `ice cubes`
 
 ## Instructions:
