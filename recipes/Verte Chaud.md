@@ -1,8 +1,8 @@
 # Verte Chaud
 
 ## Ingredients:
-- 2 cl `Chartreuse`
-- 10 cl `hot chocolate`
+- 4 cl `Chartreuse`
+- 20 cl `hot chocolate`
 - 5 cl `whipped cream`
 
 ## Instructions:

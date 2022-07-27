@@ -1,8 +1,8 @@
 # Baileys Coffee
 
 ## Ingredients:
-- 4 cl `Baileys`
-- 10 cl `coffee`
+- 6 cl `Baileys`
+- 20 cl `coffee`
 
 ## Instructions:
 - Add Baileys

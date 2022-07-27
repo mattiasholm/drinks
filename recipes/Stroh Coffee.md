@@ -1,9 +1,9 @@
 # Stroh Coffee
 
 ## Ingredients:
-- 2 cl `Stroh`
-- 10 cl `coffee`
-- 1 tsp `demerara sugar`
+- 4 cl `Stroh`
+- 20 cl `coffee`
+- 2 tsp `demerara sugar`
 - 5 cl `whipped cream`
 
 ## Instructions:

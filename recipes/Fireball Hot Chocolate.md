@@ -1,8 +1,8 @@
 # Fireball Hot Chocolate
 
 ## Ingredients:
-- 2 cl `Fireball`
-- 10 cl `hot chocolate`
+- 4 cl `Fireball`
+- 20 cl `hot chocolate`
 - 5 cl `whipped cream`
 
 ## Instructions:

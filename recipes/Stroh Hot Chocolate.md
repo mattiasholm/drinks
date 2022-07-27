@@ -1,8 +1,8 @@
 # Stroh Hot Chocolate
 
 ## Ingredients:
-- 2 cl `Stroh`
-- 10 cl `hot chocolate`
+- 4 cl `Stroh`
+- 20 cl `hot chocolate`
 - 5 cl `whipped cream`
 
 ## Instructions:
