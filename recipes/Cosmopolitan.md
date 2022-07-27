@@ -4,7 +4,7 @@
 - 4 cl `vodka`
 - 2 cl `Cointreau`
 - 1 cl `lime juice`
-- 4 cl `cranberry juice`
+- 3 cl `cranberry juice`
 - 8 `ice cubes`
 
 ## Instructions:
