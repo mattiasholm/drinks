@@ -3,7 +3,7 @@
 ## Ingredients:
 - 4 cl `vodka`
 - 2 cl `Cointreau`
-- 1 cl `lime juice`
+- 2 cl `lime juice`
 - 3 cl `cranberry juice`
 - 8 `ice cubes`
 
@@ -19,4 +19,4 @@
 - Coupe glass
 
 ## Rating:
-- ★★★☆☆
+- ★★★★☆
