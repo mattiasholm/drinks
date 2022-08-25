@@ -6,9 +6,9 @@
 - 1 cl `white rum`
 - 1 cl `gin`
 - 1 cl `Cointreau`
-- 3 cl `lemon juice` <!-- - 2 cl `lemon juice` --> - <!-- - 1 cl `lemon juice` -->
-- 2 cl `simple syrup` <!-- - 1 cl `simple syrup` -->
-- 10 cl `Coca-Cola` <!-- - 8 cl `Coca-Cola` --> <!-- - 12 cl `Coca-Cola` -->
+- 2 cl `lemon juice`
+- 2 cl `simple syrup`
+- 8 cl `Coca-Cola`
 - 8 `ice cubes`
 
 ## Instructions:
