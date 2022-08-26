@@ -1,19 +1,19 @@
-# Chartreuse Tonic
+# Chartreuse Mule
 
 ## Ingredients:
 - 3 cl `Chartreuse`
-- 10 cl `tonic water`
-- 2 `lime wedges`
+- 1 cl `lime juice`
+- 10 cl `ginger beer`
 - 8 `ice cubes`
 
 ## Instructions:
 - Add Chartreuse
-- Squeeze and add lime wedges
-- Add tonic water
+- Add lime juice
+- Add ginger beer
 - Add ice cubes
 
 ## Glassware:
-- Copa glass
+- Highball glass
 
 ## Rating:
 - ★★★☆☆
