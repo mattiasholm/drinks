@@ -3,7 +3,7 @@
 ## Ingredients:
 - 3 cl `Campari`
 - 3 cl `sweet vermouth`
-- 5 cl `soda water`
+- 6 cl `soda water`
 - 8 `ice cubes`
 
 ## Instructions:
