@@ -3,14 +3,14 @@
 ## Ingredients:
 - 2 cl `Bols Butterscotch`
 - 2 cl `Baileys`
-- 1 cl `Disaronno`
+- 1 cl `amaretto`
 - 3 cl `cream`
 - 16 `ice cubes`
 
 ## Instructions:
 - Add Bols Butterscotch
 - Add Baileys
-- Add Disaronno
+- Add amaretto
 - Add cream
 - Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds

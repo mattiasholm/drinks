@@ -1,12 +1,12 @@
 # Amaretto Milk
 
 ## Ingredients:
-- 4 cl `Disaronno`
+- 4 cl `amaretto`
 - 15 cl `milk`
 - 8 `ice cubes`
 
 ## Instructions:
-- Add Disaronno
+- Add amaretto
 - Add milk
 - Add ice cubes
 
