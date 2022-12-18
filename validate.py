@@ -11,27 +11,40 @@ print(f'Number of drinks: {len(files)}\n')
 for file in files:
     file_name = os.path.splitext(file)[0]
     content = open(os.path.join(path, file)).readlines()
+    header = content[0]
+    rating = content[-1]
 
-    name = content[0].replace('# ', '').strip('\n')
-    rating = content[-1].replace('- ', '')
-
-    if file_name != name:
-        print(f"WARNING: '{name}' has an incorrect filename.")
-
-    if not re.match('^★[★☆]{4}$', rating):
-        print(f"WARNING: '{name}' has an incorrect rating.")
-
-    if re.search('<!--', str(content)):
-        print(f"WARNING: '{name}' contains comments.")
+    if header != f'# {file_name}\n':
+        level = 'WARNING'
+        message = 'Incorrect name header'
+        print(f'{level:<15} {file_name:<30} {message}')
 
     if not '## Ingredients\n' in content:
-        print(f"WARNING: '{name}' has no ingredients section.")
+        level = 'WARNING'
+        message = 'Incorrect ingredients header'
+        print(f'{level:<15} {file_name:<30} {message}')
 
     if not '## Instructions\n' in content:
-        print(f"WARNING: '{name}' has no instructions section.")
+        level = 'WARNING'
+        message = 'Incorrect instructions header'
+        print(f'{level:<15} {file_name:<30} {message}')
 
     if not '## Glassware\n' in content:
-        print(f"WARNING: '{name}' has no glassware section.")
+        level = 'WARNING'
+        message = 'Incorrect glassware header'
+        print(f'{level:<15} {file_name:<30} {message}')
 
     if not '## Rating\n' in content:
-        print(f"WARNING: '{name}' has no rating section.")
+        level = 'WARNING'
+        message = 'Incorrect rating header'
+        print(f'{level:<15} {file_name:<30} {message}')
+
+    if not re.match('^- ★[★☆]{4}$', rating):
+        level = 'WARNING'
+        message = 'Incorrect rating'
+        print(f'{level:<15} {file_name:<30} {message}')
+
+    if re.search('<!--', str(content)):
+        level = 'INFO'
+        message = 'Contains comments'
+        print(f'{level:<15} {file_name:<30} {message}')
