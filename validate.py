@@ -16,21 +16,22 @@ for file in files:
     rating = content[-1].replace('- ', '')
 
     if file_name != name:
-        print(f"WARNING: Filename '{file_name}' does not match '{name}'.")
+        print(f"WARNING: '{name}' has an incorrect filename.")
 
-    regex = '^★[★☆]{4}$'
+    if not re.match('^★[★☆]{4}$', rating):
+        print(f"WARNING: '{name}' has an incorrect rating.")
 
-    if not re.match(regex, rating):
-        print(f"WARNING: Rating for '{name}' does not match regex '{regex}'.")
+    if re.search('<!--', str(content)):
+        print(f"WARNING: '{name}' contains comments.")
 
-    if not '## Ingredients:\n' in content:
-        print(f"WARNING: Ingredients section missing from '{name}'")
+    if not '## Ingredients\n' in content:
+        print(f"WARNING: '{name}' has no ingredients section.")
 
-    if not '## Instructions:\n' in content:
-        print(f"WARNING: Instructions section missing from '{name}'")
+    if not '## Instructions\n' in content:
+        print(f"WARNING: '{name}' has no instructions section.")
 
-    if not '## Glassware:\n' in content:
-        print(f"WARNING: Glassware section missing from '{name}'")
+    if not '## Glassware\n' in content:
+        print(f"WARNING: '{name}' has no glassware section.")
 
-    if not '## Rating:\n' in content:
-        print(f"WARNING: Rating section missing from '{name}'")
+    if not '## Rating\n' in content:
+        print(f"WARNING: '{name}' has no rating section.")
