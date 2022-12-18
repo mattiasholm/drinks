@@ -1,13 +1,13 @@
 # Milano Torino
 
-## Ingredients:
+## Ingredients
 - 3 cl `Campari`
 - 3 cl `sweet vermouth`
 - 1 `orange peel`
 - 8 `ice cubes`
 - 1 `clear ice cube`
 
-## Instructions:
+## Instructions
 - Add clear ice cube
 - Add Campari
 - Add sweet vermouth
@@ -15,8 +15,8 @@
 - Strain
 - Squeeze and add orange peel
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★☆

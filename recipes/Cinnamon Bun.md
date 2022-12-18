@@ -1,13 +1,13 @@
 # Cinnamon Bun
 
-## Ingredients:
+## Ingredients
 - 2 cl `Fireball`
 - 2 cl `Licor 43`
 - 8 cl `milk`
 - 1 ml `cardamom`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Fireball
 - Add Licor 43
 - Add milk
@@ -15,8 +15,8 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★☆☆☆

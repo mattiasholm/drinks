@@ -1,17 +1,17 @@
 # Gin & Coke
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 12 cl `Coca-Cola`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add Coca-Cola
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★☆☆☆

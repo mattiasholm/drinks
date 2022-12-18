@@ -1,19 +1,19 @@
 # Coffee Tonic
 
-## Ingredients:
+## Ingredients
 - 5 cl `coffee liqueur`
 - 10 cl `tonic water`
 - 2 `lime wedges`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add coffee liqueur
 - Squeeze and add lime wedges
 - Add tonic water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Copa glass
 
-## Rating:
+## Rating
 - ★★★★☆

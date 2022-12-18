@@ -1,6 +1,6 @@
 # Gin Gin Mule
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 1 cl `lime juice`
 - 1 cl `simple syrup`
@@ -8,7 +8,7 @@
 - 15 `mint leaves`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add simple syrup
 - Muddle mint leaves
 - Add gin
@@ -16,8 +16,8 @@
 - Add ginger beer
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★★

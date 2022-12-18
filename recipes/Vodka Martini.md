@@ -1,13 +1,13 @@
 # Vodka Martini
 
-## Ingredients:
+## Ingredients
 - 4 cl `vodka`
 - 2 cl `dry vermouth`
 - 2 dashes `Angostura Orange Bitters`
 - 1 `lemon peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Orange Bitters
 - Add vodka
 - Add dry vermouth
@@ -15,8 +15,8 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

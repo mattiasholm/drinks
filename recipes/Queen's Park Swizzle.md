@@ -1,6 +1,6 @@
 # Queen's Park Swizzle
 
-## Ingredients:
+## Ingredients
 - 4 cl `dark rum`
 - 2 cl `lime juice`
 - 2 cl `demerara syrup`
@@ -8,7 +8,7 @@
 - 15 `mint leaves`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Aromatic Bitters
 - Add demerara syrup
 - Muddle mint leaves
@@ -16,8 +16,8 @@
 - Add lime juice
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★★

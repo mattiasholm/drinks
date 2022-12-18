@@ -1,15 +1,15 @@
 # Mimosa
 
-## Ingredients:
+## Ingredients
 - 6 cl `orange juice`
 - 6 cl `sparkling wine`
 
-## Instructions:
+## Instructions
 - Add orange juice
 - Add sparkling wine
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

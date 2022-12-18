@@ -1,12 +1,12 @@
 # Velvet Hammer
 
-## Ingredients:
+## Ingredients
 - 3 cl `Cointreau`
 - 3 cl `coffee liqueur`
 - 3 cl `cream`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Cointreau
 - Add coffee liqueur
 - Add cream
@@ -14,8 +14,8 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★★☆

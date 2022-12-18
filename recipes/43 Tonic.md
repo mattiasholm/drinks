@@ -1,19 +1,19 @@
 # 43 Tonic
 
-## Ingredients:
+## Ingredients
 - 5 cl `Licor 43`
 - 10 cl `tonic water`
 - 2 `lime wedges`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Licor 43
 - Squeeze and add lime wedges
 - Add tonic water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Copa glass
 
-## Rating:
+## Rating
 - ★★★☆☆

@@ -1,17 +1,17 @@
 # Garibaldi
 
-## Ingredients:
+## Ingredients
 - 4 cl `Campari`
 - 10 cl `orange juice`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Campari
 - Add orange juice
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

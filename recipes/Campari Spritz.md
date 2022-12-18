@@ -1,19 +1,19 @@
 # Campari Spritz
 
-## Ingredients:
+## Ingredients
 - 6 cl `Campari`
 - 3 cl `soda water`
 - 9 cl `sparkling wine`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Campari
 - Add soda water
 - Add sparkling wine
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Copa glass
 
-## Rating:
+## Rating
 - ★★☆☆☆

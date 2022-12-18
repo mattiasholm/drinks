@@ -1,6 +1,6 @@
 # Bijou
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 2 cl `sweet vermouth`
 - 1 cl `Chartreuse`
@@ -8,7 +8,7 @@
 - 1 `maraschino cherry`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Orange Bitters
 - Add gin
 - Add sweet vermouth
@@ -17,8 +17,8 @@
 - Strain
 - Add maraschino cherry
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★☆☆☆

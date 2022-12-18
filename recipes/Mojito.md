@@ -1,6 +1,6 @@
 # Mojito
 
-## Ingredients:
+## Ingredients
 - 4 cl `white rum`
 - 3 cl `lime juice`
 - 3 cl `demerara syrup`
@@ -8,7 +8,7 @@
 - 15 `mint leaves`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add demerara syrup
 - Muddle mint leaves
 - Add white rum
@@ -16,8 +16,8 @@
 - Add soda water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★★

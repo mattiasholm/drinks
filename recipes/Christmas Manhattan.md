@@ -1,13 +1,13 @@
 # Christmas Manhattan
 
-## Ingredients:
+## Ingredients
 - 4 cl `rye whiskey`
 - 2 cl `mulled wine`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Aromatic Bitters
 - Add rye whiskey
 - Add mulled wine
@@ -15,8 +15,8 @@
 - Strain
 - Squeeze and add orange peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

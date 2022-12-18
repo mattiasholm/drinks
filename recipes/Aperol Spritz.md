@@ -1,19 +1,19 @@
 # Aperol Spritz
 
-## Ingredients:
+## Ingredients
 - 6 cl `Aperol`
 - 3 cl `soda water`
 - 9 cl `sparkling wine`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Aperol
 - Add soda water
 - Add sparkling wine
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Copa glass
 
-## Rating:
+## Rating
 - ★★★★☆

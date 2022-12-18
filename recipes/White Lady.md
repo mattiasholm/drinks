@@ -1,6 +1,6 @@
 # White Lady
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 2 cl `Cointreau`
 - 2 cl `lemon juice`
@@ -8,7 +8,7 @@
 - ½ `egg white`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add Cointreau
 - Add lemon juice
@@ -18,8 +18,8 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

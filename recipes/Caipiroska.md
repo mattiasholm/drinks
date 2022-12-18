@@ -1,19 +1,19 @@
 # Caipiroska
 
-## Ingredients:
+## Ingredients
 - 4 cl `vodka`
 - 1 `lime`
 - 1 tbsp `demerara sugar`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add demerara sugar
 - Muddle lime
 - Add vodka
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

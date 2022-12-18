@@ -1,6 +1,6 @@
 # Mary Pickford
 
-## Ingredients:
+## Ingredients
 - 4 cl `white rum`
 - 1 cl `maraschino liqueur`
 - 1 cl `lime juice`
@@ -9,7 +9,7 @@
 - 1 `maraschino cherry`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add white rum
 - Add maraschino liqueur
 - Add lime juice
@@ -19,8 +19,8 @@
 - Double strain
 - Add maraschino cherry
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

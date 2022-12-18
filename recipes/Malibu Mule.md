@@ -1,19 +1,19 @@
 # Malibu Mule
 
-## Ingredients:
+## Ingredients
 - 5 cl `Malibu`
 - 1 cl `lime juice`
 - 10 cl `ginger beer`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Malibu
 - Add lime juice
 - Add ginger beer
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

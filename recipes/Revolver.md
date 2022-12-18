@@ -1,13 +1,13 @@
 # Revolver
 
-## Ingredients:
+## Ingredients
 - 4 cl `bourbon`
 - 2 cl `coffee liqueur`
 - 2 dashes `Angostura Orange Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Orange Bitters
 - Add bourbon
 - Add coffee liqueur
@@ -15,8 +15,8 @@
 - Strain
 - Squeeze and add orange peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

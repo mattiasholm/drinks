@@ -1,17 +1,17 @@
 # Fireball & 7
 
-## Ingredients:
+## Ingredients
 - 4 cl `Fireball`
 - 12 cl `7 Up`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Fireball
 - Add 7 Up
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

@@ -1,19 +1,19 @@
 # Irish Coffee
 
-## Ingredients:
+## Ingredients
 - 4 cl `Irish whiskey`
 - 20 cl `coffee`
 - 2 tsp `demerara sugar`
 - 5 cl `whipped cream`
 
-## Instructions:
+## Instructions
 - Add demerara sugar
 - Add coffee
 - Add Irish whiskey
 - Add whipped cream
 
-## Glassware:
+## Glassware
 - Irish Coffee glass
 
-## Rating:
+## Rating
 - ★★★★★

@@ -1,6 +1,6 @@
 # Hurricane
 
-## Ingredients:
+## Ingredients
 - 2 cl `white rum`
 - 2 cl `dark rum`
 - 2 cl `lime juice`
@@ -10,7 +10,7 @@
 - 6 cl `passion fruit juice`
 - 24 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add white rum
 - Add dark rum
 - Add lime juice
@@ -22,8 +22,8 @@
 - Double strain
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Hurricane glass
 
-## Rating:
+## Rating
 - ★★★★★

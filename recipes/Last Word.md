@@ -1,6 +1,6 @@
 # Last Word
 
-## Ingredients:
+## Ingredients
 - 2 cl `gin`
 - 2 cl `Chartreuse`
 - 2 cl `maraschino liqueur`
@@ -8,7 +8,7 @@
 - 1 `maraschino cherry`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add Chartreuse
 - Add maraschino liqueur
@@ -17,8 +17,8 @@
 - Double strain
 - Add maraschino cherry
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★★★

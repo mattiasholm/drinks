@@ -1,12 +1,12 @@
 # Spanish Bomb
 
-## Ingredients:
+## Ingredients
 - 4 cl `Licor 43`
 - 8 cl `orange juice` <!-- - 6 cl `orange juice` -->
 - 8 cl `milk` <!-- - 6 cl `milk` -->
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Licor 43
 - Add orange juice
 - Add milk
@@ -14,8 +14,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★★

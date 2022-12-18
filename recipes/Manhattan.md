@@ -1,13 +1,13 @@
 # Manhattan
 
-## Ingredients:
+## Ingredients
 - 4 cl `rye whiskey`
 - 2 cl `sweet vermouth`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `maraschino cherry`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Aromatic Bitters
 - Add rye whiskey
 - Add sweet vermouth
@@ -15,8 +15,8 @@
 - Strain
 - Add maraschino cherry
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

@@ -1,12 +1,12 @@
 # Toasted Almond
 
-## Ingredients:
+## Ingredients
 - 2 cl `coffee liqueur` <!-- - 3 cl `coffee liqueur` -->
 - 2 cl `amaretto`
 - 4 cl `cream` <!-- - 3 cl `cream` -->
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add coffee liqueur
 - Add amaretto
 - Add cream
@@ -15,8 +15,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★★

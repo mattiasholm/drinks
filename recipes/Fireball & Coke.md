@@ -1,17 +1,17 @@
 # Fireball & Coke
 
-## Ingredients:
+## Ingredients
 - 4 cl `Fireball`
 - 12 cl `Coca-Cola`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Fireball
 - Add Coca-Cola
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

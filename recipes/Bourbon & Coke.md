@@ -1,17 +1,17 @@
 # Bourbon & Coke
 
-## Ingredients:
+## Ingredients
 - 4 cl `bourbon`
 - 12 cl `Coca-Cola`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add bourbon
 - Add Coca-Cola
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

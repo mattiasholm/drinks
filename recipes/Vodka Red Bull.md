@@ -1,17 +1,17 @@
 # Vodka Red Bull
 
-## Ingredients:
+## Ingredients
 - 4 cl `vodka`
 - 12 cl `Red Bull`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add vodka
 - Add Red Bull
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

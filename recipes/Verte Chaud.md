@@ -1,17 +1,17 @@
 # Verte Chaud
 
-## Ingredients:
+## Ingredients
 - 4 cl `Chartreuse`
 - 20 cl `hot chocolate`
 - 5 cl `whipped cream`
 
-## Instructions:
+## Instructions
 - Add Chartreuse
 - Add hot chocolate
 - Add whipped cream
 
-## Glassware:
+## Glassware
 - Irish Coffee glass
 
-## Rating:
+## Rating
 - ★★★★☆

@@ -1,13 +1,13 @@
 # Piña Colada
 
-## Ingredients:
+## Ingredients
 - 4 cl `white rum`
 - 2 tbsp `coconut cream`
 - 3 cl `simple syrup`
 - 10 cl `pineapple juice`
 - 24 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add white rum
 - Add coconut cream
 - Add simple syrup
@@ -17,8 +17,8 @@
 - Double strain
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Hurricane glass
 
-## Rating:
+## Rating
 - ★★★★★

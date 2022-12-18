@@ -1,6 +1,6 @@
 # Tequila Old Fashioned
 
-## Ingredients:
+## Ingredients
 - 5 cl `tequila`
 - 1 cl `agave syrup`
 - 2 dashes `Angostura Aromatic Bitters`
@@ -8,7 +8,7 @@
 - 8 `ice cubes`
 - 1 `clear ice cube`
 
-## Instructions:
+## Instructions
 - Add clear ice cube
 - Add Angostura Aromatic Bitters
 - Add tequila
@@ -17,8 +17,8 @@
 - Strain
 - Squeeze and add orange peel
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★☆☆

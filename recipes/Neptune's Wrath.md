@@ -1,6 +1,6 @@
 # Neptune's Wrath
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 1 cl `Chartreuse`
 - 2 cl `lemon juice`
@@ -9,7 +9,7 @@
 - ½ `egg white`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Rinse the glass with absinthe
 - Add gin
 - Add Chartreuse
@@ -20,8 +20,8 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★★☆

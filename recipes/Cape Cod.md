@@ -1,17 +1,17 @@
 # Cape Cod
 
-## Ingredients:
+## Ingredients
 - 4 cl `vodka`
 - 10 cl `cranberry juice`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add vodka
 - Add cranberry juice
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

@@ -1,13 +1,13 @@
 # Gin Basil Smash
 
-## Ingredients:
+## Ingredients
 - 5 cl `gin`
 - ½ `lemon`
 - 2 cl `simple syrup`
 - 15 `basil leaves`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Muddle lemon
 - Add gin
 - Add simple syrup
@@ -16,8 +16,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★☆

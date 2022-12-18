@@ -1,12 +1,12 @@
 # Gin Flip
 
-## Ingredients:
+## Ingredients
 - 5 cl `gin`
 - 2 cl `simple syrup`
 - 1 `egg`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add simple syrup
 - Add egg
@@ -14,8 +14,8 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★★☆

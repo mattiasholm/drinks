@@ -1,17 +1,17 @@
 # Bourbon Hot Chocolate
 
-## Ingredients:
+## Ingredients
 - 4 cl `bourbon`
 - 20 cl `hot chocolate`
 - 5 cl `whipped cream`
 
-## Instructions:
+## Instructions
 - Add bourbon
 - Add hot chocolate
 - Add whipped cream
 
-## Glassware:
+## Glassware
 - Irish Coffee glass
 
-## Rating:
+## Rating
 - ★★★★☆

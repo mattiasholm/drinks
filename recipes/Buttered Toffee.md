@@ -1,13 +1,13 @@
 # Buttered Toffee
 
-## Ingredients:
+## Ingredients
 - 2 cl `Bols Butterscotch`
 - 2 cl `Baileys`
 - 1 cl `amaretto`
 - 3 cl `cream`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Bols Butterscotch
 - Add Baileys
 - Add amaretto
@@ -17,8 +17,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★☆

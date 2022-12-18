@@ -1,6 +1,6 @@
 # Waldorf
 
-## Ingredients:
+## Ingredients
 - 4 cl `rye whiskey`
 - 2 cl `sweet vermouth`
 - 2 dashes `Angostura Aromatic Bitters`
@@ -8,7 +8,7 @@
 - 1 `lemon peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Rinse the glass with absinthe
 - Add Angostura Aromatic Bitters
 - Add rye whiskey
@@ -17,8 +17,8 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★☆☆☆

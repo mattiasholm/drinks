@@ -1,12 +1,12 @@
 # Solero
 
-## Ingredients:
+## Ingredients
 - 4 cl `Licor 43`
 - 8 cl `passion fruit juice` <!-- - 6 cl `passion fruit juice` -->
 - 8 cl `milk` <!-- - 6 cl `milk` -->
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Licor 43
 - Add passion fruit juice
 - Add milk
@@ -14,8 +14,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★★

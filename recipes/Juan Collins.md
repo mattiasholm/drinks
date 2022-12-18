@@ -1,21 +1,21 @@
 # Juan Collins
 
-## Ingredients:
+## Ingredients
 - 5 cl `tequila`
 - 3 cl `lemon juice`
 - 2 cl `agave syrup`
 - 8 cl `soda water`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add tequila
 - Add lemon juice
 - Add agave syrup
 - Add soda water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

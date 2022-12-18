@@ -1,12 +1,12 @@
 # Tommy's Margarita
 
-## Ingredients:
+## Ingredients
 - 5 cl `tequila`
 - 3 cl `lime juice`
 - 2 cl `agave syrup`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add tequila
 - Add lime juice
 - Add agave syrup
@@ -14,8 +14,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★★

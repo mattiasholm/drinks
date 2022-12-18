@@ -1,6 +1,6 @@
 # Enzoni
 
-## Ingredients:
+## Ingredients
 - 3 cl `gin`
 - 3 cl `Campari`
 - 2 cl `lemon juice`
@@ -8,7 +8,7 @@
 - 5 `grapes`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Muddle grapes
 - Add gin
 - Add Campari
@@ -18,8 +18,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★☆

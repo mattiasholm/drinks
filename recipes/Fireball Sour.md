@@ -1,13 +1,13 @@
 # Fireball Sour
 
-## Ingredients:
+## Ingredients
 - 5 cl `Fireball`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - ½ `egg white`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Fireball
 - Add lemon juice
 - Add simple syrup
@@ -16,8 +16,8 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★★☆

@@ -1,6 +1,6 @@
 # Aviation
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 1 cl `maraschino liqueur`
 - 1 cl `violet liqueur`
@@ -9,7 +9,7 @@
 - 1 `maraschino cherry`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add maraschino liqueur
 - Add violet liqueur
@@ -19,8 +19,8 @@
 - Double strain
 - Add maraschino cherry
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★★☆

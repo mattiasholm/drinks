@@ -1,6 +1,6 @@
 # Corpse Reviver
 
-## Ingredients:
+## Ingredients
 - 2 cl `gin`
 - 2 cl `Cointreau`
 - 2 cl `dry vermouth`
@@ -8,7 +8,7 @@
 - 1 bar spoon `absinthe`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Rinse the glass with absinthe
 - Add gin
 - Add Cointreau
@@ -17,8 +17,8 @@
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★☆☆☆

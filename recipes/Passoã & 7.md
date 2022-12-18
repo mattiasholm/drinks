@@ -1,19 +1,19 @@
 # Passoã & 7
 
-## Ingredients:
+## Ingredients
 - 4 cl `Passoã`
 - 2 cl `lime juice`
 - 12 cl `7 Up`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Passoã
 - Add lime juice
 - Add 7 Up
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

@@ -1,19 +1,19 @@
 # Gin Rickey
 
-## Ingredients:
+## Ingredients
 - 5 cl `gin`
 - 2 cl `lime juice`
 - 10 cl `soda water`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add lime juice
 - Add soda water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

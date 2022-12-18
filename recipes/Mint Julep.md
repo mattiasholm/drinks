@@ -1,19 +1,19 @@
 # Mint Julep
 
-## Ingredients:
+## Ingredients
 - 5 cl `bourbon`
 - 1 cl `demerara syrup`
 - 15 `mint leaves`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add demerara syrup
 - Muddle mint leaves
 - Add bourbon
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★☆☆

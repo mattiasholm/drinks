@@ -1,6 +1,6 @@
 # Boulevardier
 
-## Ingredients:
+## Ingredients
 - 2 cl `bourbon`
 - 2 cl `Campari`
 - 2 cl `sweet vermouth`
@@ -8,7 +8,7 @@
 - 8 `ice cubes`
 - 1 `clear ice cube`
 
-## Instructions:
+## Instructions
 - Add clear ice cube
 - Add bourbon
 - Add Campari
@@ -17,8 +17,8 @@
 - Strain
 - Squeeze and add orange peel
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★☆☆

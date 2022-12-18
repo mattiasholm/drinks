@@ -1,17 +1,17 @@
 # Amaretto Milk
 
-## Ingredients:
+## Ingredients
 - 4 cl `amaretto`
 - 15 cl `milk`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add amaretto
 - Add milk
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

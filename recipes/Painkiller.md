@@ -1,6 +1,6 @@
 # Painkiller
 
-## Ingredients:
+## Ingredients
 - 4 cl `dark rum`
 - 2 tbsp `coconut cream`
 - 3 cl `simple syrup`
@@ -8,7 +8,7 @@
 - 8 cl `pineapple juice`
 - 24 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add dark rum
 - Add coconut cream
 - Add simple syrup
@@ -19,8 +19,8 @@
 - Double strain
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Hurricane glass
 
-## Rating:
+## Rating
 - ★★★★★

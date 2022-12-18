@@ -1,17 +1,17 @@
 # Firebull
 
-## Ingredients:
+## Ingredients
 - 4 cl `Fireball`
 - 12 cl `Red Bull`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Fireball
 - Add Red Bull
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

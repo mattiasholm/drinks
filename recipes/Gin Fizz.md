@@ -1,6 +1,6 @@
 # Gin Fizz
 
-## Ingredients:
+## Ingredients
 - 5 cl `gin`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
@@ -8,7 +8,7 @@
 - 5 cl `soda water`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add lemon juice
 - Add simple syrup
@@ -18,8 +18,8 @@
 - Double strain
 - Add soda water
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★☆☆

@@ -1,6 +1,6 @@
 # Long Island Iced Tea
 
-## Ingredients:
+## Ingredients
 - 1 cl `vodka`
 - 1 cl `tequila`
 - 1 cl `white rum`
@@ -11,7 +11,7 @@
 - 8 cl `Coca-Cola`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add vodka
 - Add tequila
 - Add white rum
@@ -22,8 +22,8 @@
 - Add Coca-Cola
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

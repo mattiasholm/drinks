@@ -1,17 +1,17 @@
 # Malibu Soda
 
-## Ingredients:
+## Ingredients
 - 5 cl `Malibu`
 - 10 cl `soda water`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Malibu
 - Add soda water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

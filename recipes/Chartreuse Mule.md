@@ -1,19 +1,19 @@
 # Chartreuse Mule
 
-## Ingredients:
+## Ingredients
 - 3 cl `Chartreuse`
 - 1 cl `lime juice`
 - 10 cl `ginger beer`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Chartreuse
 - Add lime juice
 - Add ginger beer
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

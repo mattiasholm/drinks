@@ -1,6 +1,6 @@
 # Blue Hawaii
 
-## Ingredients:
+## Ingredients
 - 4 cl `white rum`
 - 4 cl `Bols Blue Curaçao`
 - 1 cl `lime juice`
@@ -8,7 +8,7 @@
 - 10 cl `pineapple juice`
 - 24 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add white rum
 - Add Bols Blue Curaçao
 - Add lime juice
@@ -18,8 +18,8 @@
 - Double strain
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Hurricane glass
 
-## Rating:
+## Rating
 - ★★★☆☆

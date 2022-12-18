@@ -1,19 +1,19 @@
 # Pink Panther
 
-## Ingredients:
+## Ingredients
 - 4 cl `Licor 43`
 - 1 cl `grenadine`
 - 15 cl `milk`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Licor 43
 - Add grenadine
 - Add milk
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

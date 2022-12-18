@@ -1,13 +1,13 @@
 # El Presidente
 
-## Ingredients:
+## Ingredients
 - 4 cl `white rum`
 - 2 cl `dry vermouth`
 - 1 cl `Cointreau`
 - 1 `lemon peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add white rum
 - Add dry vermouth
 - Add Cointreau
@@ -15,8 +15,8 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 ★★★☆☆

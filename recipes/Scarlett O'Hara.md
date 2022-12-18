@@ -1,19 +1,19 @@
 # Scarlett O'Hara
 
-## Ingredients:
+## Ingredients
 - 4 cl `Southern Comfort`
 - 1 cl `lime juice`
 - 10 cl `cranberry juice`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Southern Comfort
 - Add lime juice
 - Add cranberry juice
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

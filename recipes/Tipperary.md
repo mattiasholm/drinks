@@ -1,6 +1,6 @@
 # Tipperary
 
-## Ingredients:
+## Ingredients
 - 4 cl `Irish whiskey`
 - 2 cl `sweet vermouth`
 - 1 cl `Chartreuse`
@@ -8,7 +8,7 @@
 - 1 `orange peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Aromatic Bitters
 - Add Irish whiskey
 - Add sweet vermouth
@@ -17,8 +17,8 @@
 - Strain
 - Squeeze and add orange peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

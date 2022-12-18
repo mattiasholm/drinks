@@ -1,17 +1,17 @@
 # Dragon's Kiss
 
-## Ingredients:
+## Ingredients
 - 4 cl `Fireball`
 - 10 cl `cranberry juice`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Fireball
 - Add cranberry juice
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

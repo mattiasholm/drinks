@@ -1,12 +1,12 @@
 # Mudslide
 
-## Ingredients:
+## Ingredients
 - 4 cl `Baileys`
 - 2 cl `coffee liqueur`
 - 2 cl `vodka`
 - 16 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Baileys
 - Add coffee liqueur
 - Add vodka
@@ -14,8 +14,8 @@
 - Double strain
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★★

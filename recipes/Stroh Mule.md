@@ -1,19 +1,19 @@
 # Stroh Mule
 
-## Ingredients:
+## Ingredients
 - 5 cl `Stroh`
 - 1 cl `lime juice`
 - 10 cl `ginger beer`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Stroh
 - Add lime juice
 - Add ginger beer
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★☆☆☆☆

@@ -1,17 +1,17 @@
 # Baileys Milk
 
-## Ingredients:
+## Ingredients
 - 6 cl `Baileys`
 - 15 cl `milk`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Baileys
 - Add milk
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★★

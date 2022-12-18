@@ -1,17 +1,17 @@
 # Candy Cane
 
-## Ingredients:
+## Ingredients
 - 4 cl `Minttu`
 - 15 cl `milk`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Minttu
 - Add milk
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

@@ -1,17 +1,17 @@
 # Irish Energy
 
-## Ingredients:
+## Ingredients
 - 4 cl `Irish whiskey`
 - 12 cl `Red Bull`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Irish whiskey
 - Add Red Bull
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

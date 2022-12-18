@@ -1,6 +1,6 @@
 # Buffy
 
-## Ingredients:
+## Ingredients
 - 4 cl `dark rum`
 - 2 cl `Passoã`
 - 1 cl `lime juice`
@@ -9,7 +9,7 @@
 - 8 cl `orange juice`
 - 24 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add dark rum
 - Add Passoã
 - Add lime juice
@@ -20,8 +20,8 @@
 - Double strain
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Hurricane glass
 
-## Rating:
+## Rating
 - ★★★★☆

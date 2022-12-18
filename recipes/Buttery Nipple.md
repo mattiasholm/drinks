@@ -1,15 +1,15 @@
 # Buttery Nipple
 
-## Ingredients:
+## Ingredients
 - 2 cl `Bols Butterscotch`
 - 1 cl `Baileys`
 
-## Instructions:
+## Instructions
 - Add Bols Butterscotch
 - Add Baileys
 
-## Glassware:
+## Glassware
 - Shot glass
 
-## Rating:
+## Rating
 - ★★★★☆

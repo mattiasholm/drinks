@@ -1,6 +1,6 @@
 # Tuxedo
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 2 cl `dry vermouth`
 - 1 bar spoon `maraschino liqueur`
@@ -9,7 +9,7 @@
 - 1 `lemon peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Rinse the glass with absinthe
 - Add Angostura Orange Bitters
 - Add gin
@@ -19,8 +19,8 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

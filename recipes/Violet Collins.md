@@ -1,6 +1,6 @@
 # Violet Collins
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 2 cl `violet liqueur`
 - 3 cl `lemon juice`
@@ -8,7 +8,7 @@
 - 8 cl `soda water`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add gin
 - Add violet liqueur
 - Add lemon juice
@@ -16,8 +16,8 @@
 - Add soda water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆

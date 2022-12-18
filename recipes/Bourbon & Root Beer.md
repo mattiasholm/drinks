@@ -1,17 +1,17 @@
 # Bourbon & Root Beer
 
-## Ingredients:
+## Ingredients
 - 4 cl `bourbon`
 - 12 cl `root beer`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add bourbon
 - Add root beer
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

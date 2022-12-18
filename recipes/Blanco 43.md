@@ -1,17 +1,17 @@
 # Blanco 43
 
-## Ingredients:
+## Ingredients
 - 4 cl `Licor 43`
 - 15 cl `milk`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Licor 43
 - Add milk
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

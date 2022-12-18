@@ -1,6 +1,6 @@
 # Planter's Punch
 
-## Ingredients:
+## Ingredients
 - 4 cl `dark rum`
 - 2 cl `lime juice`
 - 1 cl `grenadine`
@@ -10,7 +10,7 @@
 - 2 dashes `Angostura Aromatic Bitters`
 - 24 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Aromatic Bitters
 - Add dark rum
 - Add lime juice
@@ -22,8 +22,8 @@
 - Double strain
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Hurricane glass
 
-## Rating:
+## Rating
 - ★★★★☆

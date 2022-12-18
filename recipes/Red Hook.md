@@ -1,13 +1,13 @@
 # Red Hook
 
-## Ingredients:
+## Ingredients
 - 4 cl `rye whiskey`
 - 2 cl `sweet vermouth`
 - 1 bar spoon `maraschino liqueur`
 - 1 `maraschino cherry`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add rye whiskey
 - Add sweet vermouth
 - Add maraschino liqueur
@@ -15,8 +15,8 @@
 - Strain
 - Add maraschino cherry
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★☆☆☆

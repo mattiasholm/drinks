@@ -1,6 +1,6 @@
 # Sangria
 
-## Ingredients:
+## Ingredients
 - 75 cl `red wine`
 - 25 cl `orange juice`
 - 50 cl `7 Up`
@@ -8,7 +8,7 @@
 - 1 `apple`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add orange
 - Add apple
 - Add red wine
@@ -16,8 +16,8 @@
 - Add 7 Up
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Copa glass
 
-## Rating:
+## Rating
 - ★★★★☆

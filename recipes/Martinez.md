@@ -1,6 +1,6 @@
 # Martinez
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 2 cl `sweet vermouth`
 - 1 bar spoon `maraschino liqueur`
@@ -8,7 +8,7 @@
 - 1 `orange peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add Angostura Aromatic Bitters
 - Add gin
 - Add sweet vermouth
@@ -17,8 +17,8 @@
 - Strain
 - Squeeze and add orange peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★☆☆

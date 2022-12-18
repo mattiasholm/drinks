@@ -1,13 +1,13 @@
 # Obituary
 
-## Ingredients:
+## Ingredients
 - 4 cl `gin`
 - 2 cl `dry vermouth`
 - 1 bar spoon `absinthe`
 - 1 `lemon peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Rinse the glass with absinthe
 - Add gin
 - Add dry vermouth
@@ -15,8 +15,8 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Glassware:
+## Glassware
 - Coupe glass
 
-## Rating:
+## Rating
 - ★★★★☆

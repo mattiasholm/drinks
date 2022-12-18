@@ -1,6 +1,6 @@
 # Sazerac
 
-## Ingredients:
+## Ingredients
 - 5 cl `rye whiskey`
 - 1 cl `demerara syrup`
 - 2 dashes `Peychaud's Bitters`
@@ -8,7 +8,7 @@
 - 1 `lemon peel`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Rinse the glass with absinthe
 - Add Peychaud's Bitters
 - Add rye whiskey
@@ -17,8 +17,8 @@
 - Strain
 - Squeeze and add lemon peel
 
-## Glassware:
+## Glassware
 - Old Fashioned glass
 
-## Rating:
+## Rating
 - ★★★★★

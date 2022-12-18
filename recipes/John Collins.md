@@ -1,21 +1,21 @@
 # John Collins
 
-## Ingredients:
+## Ingredients
 - 5 cl `bourbon`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 8 cl `soda water`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add bourbon
 - Add lemon juice
 - Add simple syrup
 - Add soda water
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★★☆

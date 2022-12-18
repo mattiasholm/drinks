@@ -1,13 +1,13 @@
 # Swimming Pool
 
-## Ingredients:
+## Ingredients
 - 4 cl `white rum`
 - 4 cl `Bols Blue Curaçao`
 - 2 tbsp `coconut cream`
 - 10 cl `pineapple juice`
 - 24 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add white rum
 - Add Bols Blue Curaçao
 - Add coconut cream
@@ -18,8 +18,8 @@
 - Double strain
 - Add crushed ice
 
-## Glassware:
+## Glassware
 - Hurricane glass
 
-## Rating:
+## Rating
 - ★★★★☆

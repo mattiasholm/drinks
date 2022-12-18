@@ -1,17 +1,17 @@
 # Screwdriver
 
-## Ingredients:
+## Ingredients
 - 4 cl `vodka`
 - 10 cl `orange juice`
 - 8 `ice cubes`
 
-## Instructions:
+## Instructions
 - Add vodka
 - Add orange juice
 - Add ice cubes
 
-## Glassware:
+## Glassware
 - Highball glass
 
-## Rating:
+## Rating
 - ★★★☆☆
