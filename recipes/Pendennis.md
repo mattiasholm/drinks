@@ -3,7 +3,7 @@
 ## Ingredients
 - 4 cl `gin`
 - 2 cl `apricot brandy`
-- 1 cl `lime juice` <!-- - 2 cl `lime juice` -->
+- 2 cl `lime juice`
 - 1 cl `simple syrup`
 - 2 dashes `Peychaud's Bitters`
 - 8 `ice cubes`
