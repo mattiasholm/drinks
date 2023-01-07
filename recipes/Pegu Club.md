@@ -1,0 +1,24 @@
+# Pegu Club
+
+## Ingredients
+- 4 cl `gin`
+- 2 cl `Cointreau`
+- 2 cl `lime juice`
+- 1 cl `simple syrup`
+- 2 dashes `Angostura Aromatic Bitters`
+- 8 `ice cubes`
+
+## Instructions
+- Add Angostura Aromatic Bitters
+- Add gin
+- Add Cointreau
+- Add lime juice
+- Add simple syrup
+- Add ice cubes and shake for 15 seconds
+- Double strain
+
+## Glassware
+- Coupe glass
+
+## Rating
+- ★★★★☆
