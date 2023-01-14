@@ -1,8 +1,8 @@
 # Baileys Martini
 
 ## Ingredients
-- 4 cl `Baileys`
-- 2 cl `vodka`
+- 6 cl `Baileys`
+- 3 cl `vodka`
 - 8 `ice cubes`
 
 ## Instructions

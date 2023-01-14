@@ -1,13 +1,13 @@
-# Lucky Irishman
+# Baileys Orange Bliss
 
 ## Ingredients
 - 6 cl `Baileys`
-- 3 cl `Irish whiskey`
+- 3 cl `Cointreau`
 - 8 `ice cubes`
 
 ## Instructions
 - Add Baileys
-- Add Irish whiskey
+- Add Cointreau
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
@@ -15,4 +15,4 @@
 - Coupe glass
 
 ## Rating
-- ★★★★☆
+- ★★★★★
