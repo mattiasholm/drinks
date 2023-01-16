@@ -8,7 +8,7 @@
 
 ## Instructions
 - Add Licor 43
-- Squeeze and add lime wedges
+- Add lime wedges
 - Add tonic water
 - Add ice cubes
 

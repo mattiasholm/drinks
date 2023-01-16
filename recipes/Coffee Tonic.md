@@ -8,7 +8,7 @@
 
 ## Instructions
 - Add coffee liqueur
-- Squeeze and add lime wedges
+- Add lime wedges
 - Add tonic water
 - Add ice cubes
 

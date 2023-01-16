@@ -15,7 +15,7 @@
 - Add demerara syrup
 - Add ice cubes and stir for 30 seconds
 - Strain
-- Squeeze and add lemon peel
+- Add lemon peel
 
 ## Glassware
 - Old Fashioned glass

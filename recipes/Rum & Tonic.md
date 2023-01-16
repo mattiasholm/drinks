@@ -8,7 +8,7 @@
 
 ## Instructions
 - Add dark rum
-- Squeeze and add lime wedges
+- Add lime wedges
 - Add tonic water
 - Add ice cubes
 

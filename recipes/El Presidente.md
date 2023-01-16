@@ -13,7 +13,7 @@
 - Add Cointreau
 - Add ice cubes and stir for 30 seconds
 - Strain
-- Squeeze and add lemon peel
+- Add lemon peel
 
 ## Glassware
 - Coupe glass

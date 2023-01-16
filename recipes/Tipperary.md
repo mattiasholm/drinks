@@ -15,7 +15,7 @@
 - Add Chartreuse
 - Add ice cubes and stir for 30 seconds
 - Strain
-- Squeeze and add orange peel
+- Add orange peel
 
 ## Glassware
 - Coupe glass
