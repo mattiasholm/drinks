@@ -7,9 +7,9 @@
 - 5 cl `whipped cream`
 
 ## Instructions
-- Add demerara sugar
-- Add coffee
 - Add Irish whiskey
+- Add coffee
+- Add demerara sugar
 - Add whipped cream
 
 ## Glassware

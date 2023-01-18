@@ -1,14 +1,12 @@
-# Kaffe Karlsson
+# Amaretto Coffee
 
 ## Ingredients
-- 3 cl `Cointreau`
-- 3 cl `Baileys`
+- 4 cl `amaretto`
 - 20 cl `coffee`
 - 5 cl `whipped cream`
 
 ## Instructions
-- Add Cointreau
-- Add Baileys
+- Add amaretto
 - Add coffee
 - Add whipped cream
 
@@ -16,4 +14,4 @@
 - Irish Coffee glass
 
 ## Rating
-- ★★★☆☆
+- ★★☆☆☆
