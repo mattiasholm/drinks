@@ -89,9 +89,9 @@ values = []
 for key, rating in ratings.items():
     stars = rating['stars']
     count = len(rating['drinks'])
-    percentage = round(count / file_count * 100, 2)
+    percentage = round(count / file_count * 100, 1)
     values.append(key * count)
     print(f'{stars:<30} {count:<15} {percentage}%')
 
-average = round(sum(values) / file_count, 2)
+average = round(sum(values) / file_count, 1)
 print(f'\nAverage rating:\n{average}')
