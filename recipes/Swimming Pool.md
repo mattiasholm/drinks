@@ -11,7 +11,6 @@
 - Add white rum
 - Add Bols Blue Curaçao
 - Add coconut cream
-- Add simple syrup
 - Add pineapple juice
 - Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
