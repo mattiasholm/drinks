@@ -1,12 +1,12 @@
-# Greyhound
+# Vodka Greyhound
 
 ## Ingredients
-- 4 cl `gin`
+- 4 cl `vodka`
 - 10 cl `grapefruit juice`
 - 8 `ice cubes`
 
 ## Instructions
-- Add gin
+- Add vodka
 - Add grapefruit juice
 - Add ice cubes
 
@@ -14,4 +14,4 @@
 - Highball glass
 
 ## Rating
-- ★★★★☆
+- ★★★☆☆
