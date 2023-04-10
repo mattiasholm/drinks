@@ -4,17 +4,20 @@
 - 4 cl `tequila`
 - 2 cl `Cointreau`
 - 2 cl `lime juice`
-- 8 `ice cubes`
+- 1 pinch `salt`
+- 16 `ice cubes`
 
 ## Instructions
+- Rim the glass with salt
 - Add tequila
 - Add Cointreau
 - Add lime juice
 - Add ice cubes and shake for 15 seconds
 - Double strain
+- Add ice cubes
 
 ## Glassware
-- Coupe glass
+- Old Fashioned glass
 
 ## Rating
 - ★★★★☆
