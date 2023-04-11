@@ -10,7 +10,6 @@
 - Add bourbon
 - Add Bols Cacao White
 - Add cream
-- Dry shake for 15 seconds
 - Add ice cubes and shake for 15 seconds
 - Double strain
 
