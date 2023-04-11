@@ -4,7 +4,7 @@
 - 4 cl `mezcal`
 - 2 cl `Cointreau`
 - 2 cl `lime juice`
-- 1 pinch `salt`
+- 1 ml `salt`
 - 16 `ice cubes`
 
 ## Instructions
