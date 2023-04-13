@@ -1,7 +1,7 @@
 # Garibaldi
 
 ## Ingredients
-- 4 cl `Campari`
+- 3 cl `Campari`
 - 10 cl `orange juice`
 - 8 `ice cubes`
 
