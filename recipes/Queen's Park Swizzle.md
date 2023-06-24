@@ -5,7 +5,7 @@
 - 2 cl `lime juice`
 - 2 cl `demerara syrup`
 - 2 dashes `Angostura Aromatic Bitters`
-- 15 `mint leaves`
+- 10 `mint leaves`
 - 16 `ice cubes`
 
 ## Instructions

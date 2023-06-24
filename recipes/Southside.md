@@ -4,7 +4,7 @@
 - 5 cl `gin`
 - 3 cl `lime juice`
 - 2 cl `simple syrup`
-- 15 `mint leaves`
+- 10 `mint leaves`
 - 8 `ice cubes`
 
 ## Instructions

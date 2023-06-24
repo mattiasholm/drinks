@@ -5,7 +5,7 @@
 - 3 cl `lime juice`
 - 3 cl `demerara syrup`
 - 8 cl `soda water`
-- 15 `mint leaves`
+- 10 `mint leaves`
 - 8 `ice cubes`
 
 ## Instructions

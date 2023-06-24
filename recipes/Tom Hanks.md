@@ -4,7 +4,7 @@
 - 4 cl `Peachtree`
 - 2 cl `lime juice`
 - 10 cl `tonic water`
-- 15 `cilantro leaves`
+- 10 `cilantro leaves`
 - 8 `ice cubes`
 
 ## Instructions

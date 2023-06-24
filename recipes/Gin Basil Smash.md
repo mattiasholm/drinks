@@ -4,7 +4,7 @@
 - 5 cl `gin`
 - ½ `lemon`
 - 2 cl `simple syrup`
-- 15 `basil leaves`
+- 10 `basil leaves`
 - 16 `ice cubes`
 
 ## Instructions

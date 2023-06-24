@@ -5,7 +5,7 @@
 - 2 cl `lime juice`
 - 2 cl `simple syrup`
 - 2 dashes `Angostura Aromatic Bitters`
-- 15 `mint leaves`
+- 10 `mint leaves`
 - 5 cl `sparkling wine`
 - 8 `ice cubes`
 

@@ -4,7 +4,7 @@
 - 5 cl `bourbon`
 - ½ `lemon`
 - 2 cl `simple syrup`
-- 15 `mint leaves`
+- 10 `mint leaves`
 - 16 `ice cubes`
 
 ## Instructions

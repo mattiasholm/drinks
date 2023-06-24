@@ -3,7 +3,7 @@
 ## Ingredients
 - 5 cl `bourbon`
 - 1 cl `demerara syrup`
-- 15 `mint leaves`
+- 10 `mint leaves`
 - 16 `ice cubes`
 
 ## Instructions
