@@ -14,4 +14,4 @@
 - Highball glass
 
 ## Rating
-- ★★★☆☆
+- ★★☆☆☆
