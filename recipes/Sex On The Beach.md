@@ -1,7 +1,7 @@
 # Sex On The Beach
 
 ## Ingredients
-- 2 cl `vodka` <!-- - 4 cl `vodka` -->
+- 2 cl `vodka`
 - 2 cl `Peachtree`
 - 5 cl `orange juice`
 - 5 cl `cranberry juice`
