@@ -1,9 +1,9 @@
 # Angel Face
 
 ## Ingredients
-- 3 cl `gin`
-- 3 cl `calvados`
-- 3 cl `apricot brandy`
+- 2 cl `gin`
+- 2 cl `calvados`
+- 2 cl `apricot brandy`
 - 8 `ice cubes`
 
 ## Instructions
