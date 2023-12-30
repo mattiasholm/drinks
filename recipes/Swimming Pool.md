@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 4 cl `white rum`
-- 4 cl `Bols Blue Curaçao`
+- 3 cl `Bols Blue Curaçao`
 - 10 cl `pineapple juice`
 - 2 tbsp `coconut cream`
 - 24 `ice cubes`
