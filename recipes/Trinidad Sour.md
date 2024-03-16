@@ -3,7 +3,7 @@
 ## Ingredients
 - 3 cl `Angostura Aromatic Bitters`
 - 2 cl `rye whiskey`
-- 3 cl `orgeat syrup`
+- 3 cl `orgeat`
 - 2 cl `lemon juice`
 - 8 `ice cubes`
 

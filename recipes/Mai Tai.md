@@ -4,7 +4,7 @@
 - 4 cl `dark rum`
 - 2 cl `Cointreau`
 - 3 cl `lime juice`
-- 2 cl `orgeat syrup`
+- 2 cl `orgeat`
 - 24 `ice cubes`
 
 ## Instructions
