@@ -1,14 +1,16 @@
 # Clover Club
 
 ## Ingredients
-- 5 cl `gin`
-- 3 cl `lemon juice`
+- 4 cl `gin`
+- 2 cl `dry vermouth`
+- 2 cl `lemon juice`
 - 2 cl `raspberry syrup`
 - ½ `egg white`
 - 8 `ice cubes`
 
 ## Instructions
 - Add gin
+- Add dry vermouth
 - Add lemon juice
 - Add raspberry syrup
 - Add egg white
