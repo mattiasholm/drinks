@@ -4,7 +4,7 @@
 - 4 cl `gin`
 - 2 cl `dry vermouth`
 - 1 bar spoon `olive brine`
-- 3 `olives`
+- 1 `olive`
 - 8 `ice cubes`
 
 ## Instructions
