@@ -1,7 +1,7 @@
 # Old Cuban
 
 ## Ingredients
-- 4 cl `dark rum`
+- 3 cl `dark rum`
 - 2 cl `lime juice`
 - 2 cl `simple syrup`
 - 2 dashes `Angostura Aromatic Bitters`
@@ -23,4 +23,4 @@
 - Coupe glass
 
 ## Rating
-- ★★★☆☆
+- ★★★★☆
