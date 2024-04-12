@@ -1,14 +1,14 @@
 # Pineapple Chipotle Sour
 
 ## Ingredients
-- 5 cl `Bols Pineapple Chipotle`
+- 5 cl `pineapple chipotle liqueur`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 1 `egg white`
 - 8 `ice cubes`
 
 ## Instructions
-- Add Bols Pineapple Chipotle
+- Add pineapple chipotle liqueur
 - Add lemon juice
 - Add simple syrup
 - Add egg white
