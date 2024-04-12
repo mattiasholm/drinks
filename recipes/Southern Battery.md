@@ -3,14 +3,14 @@
 ## Ingredients
 - 2 cl `gin`
 - 2 cl `Southern Comfort`
-- 2 cl `Bols Blue Curaçao`
+- 2 cl `blue curaçao`
 - 12 cl `Red Bull`
 - 8 `ice cubes`
 
 ## Instructions
 - Add gin
 - Add Southern Comfort
-- Add Bols Blue Curaçao
+- Add blue curaçao
 - Add Red Bull
 - Add ice cubes
 

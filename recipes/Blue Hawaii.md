@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 4 cl `white rum`
-- 3 cl `Bols Blue Curaçao`
+- 3 cl `blue curaçao`
 - 1 cl `lime juice`
 - 1 cl `simple syrup`
 - 10 cl `pineapple juice`
@@ -10,7 +10,7 @@
 
 ## Instructions
 - Add white rum
-- Add Bols Blue Curaçao
+- Add blue curaçao
 - Add lime juice
 - Add simple syrup
 - Add pineapple juice
