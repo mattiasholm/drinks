@@ -10,7 +10,7 @@
 ## Instructions
 - Add Angostura Aromatic Bitters
 - Add rye whiskey
-- Add orgeat syrup
+- Add orgeat
 - Add lemon juice
 - Add ice cubes and shake for 15 seconds
 - Double strain

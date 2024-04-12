@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 4 cl `cognac`
-- 1 cl `Cointreau`
+- 1 cl `triple sec`
 - 1 cl `maraschino liqueur`
 - 2 cl `lemon juice`
 - 1 cl `simple syrup`
@@ -12,7 +12,7 @@
 ## Instructions
 - Add Angostura Aromatic Bitters
 - Add cognac
-- Add Cointreau
+- Add triple sec
 - Add maraschino liqueur
 - Add lemon juice
 - Add simple syrup

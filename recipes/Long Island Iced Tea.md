@@ -5,7 +5,7 @@
 - 1 cl `tequila`
 - 1 cl `white rum`
 - 1 cl `gin`
-- 1 cl `Cointreau`
+- 1 cl `triple sec`
 - 2 cl `lemon juice`
 - 2 cl `simple syrup`
 - 8 cl `Coca-Cola`
@@ -16,7 +16,7 @@
 - Add tequila
 - Add white rum
 - Add gin
-- Add Cointreau
+- Add triple sec
 - Add lemon juice
 - Add simple syrup
 - Add Coca-Cola

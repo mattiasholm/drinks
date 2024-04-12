@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 4 cl `gin`
-- 2 cl `Cointreau`
+- 2 cl `triple sec`
 - 2 cl `lemon juice`
 - 1 cl `grenadine`
 - 1 `egg white`
@@ -10,7 +10,7 @@
 
 ## Instructions
 - Add gin
-- Add Cointreau
+- Add triple sec
 - Add lemon juice
 - Add grenadine
 - Add egg white
