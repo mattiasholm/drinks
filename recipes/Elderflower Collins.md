@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 4 cl `gin`
-- 2 cl `Bols Elderflower`
+- 2 cl `elderflower liqueur`
 - 3 cl `lemon juice`
 - 1 cl `simple syrup`
 - 8 cl `soda water`
@@ -10,7 +10,7 @@
 
 ## Instructions
 - Add gin
-- Add Bols Elderflower
+- Add elderflower liqueur
 - Add lemon juice
 - Add simple syrup
 - Add soda water

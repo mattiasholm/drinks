@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 5 cl `Irish whiskey`
-- 1 cl `Bols Elderflower`
+- 1 cl `elderflower liqueur`
 - 3 cl `lemon juice`
 - 1 cl `simple syrup`
 - 5 `cucumber slices`
@@ -12,7 +12,7 @@
 ## Instructions
 - Muddle cucumber slices
 - Add Irish whiskey
-- Add Bols Elderflower
+- Add elderflower liqueur
 - Add lemon juice
 - Add simple syrup
 - Add mint leaves
