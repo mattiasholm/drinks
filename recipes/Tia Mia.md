@@ -5,7 +5,7 @@
 - 2 cl `dark rum`
 - 1 cl `triple sec`
 - 2 cl `lime juice`
--  cl `orgeat`
+- 2 cl `orgeat`
 - 24 `ice cubes`
 
 ## Instructions
