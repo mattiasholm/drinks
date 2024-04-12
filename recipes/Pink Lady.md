@@ -5,7 +5,7 @@
 - 2 cl `Cointreau`
 - 2 cl `lemon juice`
 - 1 cl `grenadine`
-- ½ `egg white`
+- 1 `egg white`
 - 8 `ice cubes`
 
 ## Instructions

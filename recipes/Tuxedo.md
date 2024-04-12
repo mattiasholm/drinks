@@ -3,9 +3,9 @@
 ## Ingredients
 - 4 cl `gin`
 - 2 cl `dry vermouth`
-- 1 bar spoon `maraschino liqueur`
+- 0.5 cl `maraschino liqueur`
 - 2 dashes `Angostura Orange Bitters`
-- 1 bar spoon `absinthe`
+- 0.5 cl `absinthe`
 - 1 `lemon peel`
 - 8 `ice cubes`
 

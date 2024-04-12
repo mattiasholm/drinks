@@ -4,7 +4,7 @@
 - 5 cl `bourbon`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
-- ½ `egg white`
+- 1 `egg white`
 - 3 cl `red wine`
 - 16 `ice cubes`
 

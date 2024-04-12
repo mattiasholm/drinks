@@ -5,8 +5,8 @@
 - 1 cl `Chartreuse`
 - 2 cl `lemon juice`
 - 2 cl `simple syrup`
-- 1 bar spoon `absinthe`
-- ½ `egg white`
+- 0.5 cl `absinthe`
+- 1 `egg white`
 - 8 `ice cubes`
 
 ## Instructions

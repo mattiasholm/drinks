@@ -5,7 +5,7 @@
 - 2 cl `dry vermouth`
 - 2 cl `lemon juice`
 - 2 cl `raspberry syrup`
-- ½ `egg white`
+- 1 `egg white`
 - 8 `ice cubes`
 
 ## Instructions

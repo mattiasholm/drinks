@@ -4,7 +4,7 @@
 - 5 cl `gin`
 - 1 cl `grenadine`
 - 5 cl `orange juice`
-- 1 bar spoon `absinthe`
+- 0.5 cl `absinthe`
 - 8 `ice cubes`
 
 ## Instructions

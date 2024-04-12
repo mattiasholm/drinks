@@ -3,7 +3,7 @@
 ## Ingredients
 - 4 cl `gin`
 - 2 cl `sweet vermouth`
-- 1 bar spoon `maraschino liqueur`
+- 0.5 cl `maraschino liqueur`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`

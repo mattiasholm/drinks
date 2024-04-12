@@ -4,7 +4,7 @@
 - 4 cl `tequila`
 - 1 cl `lime juice`
 - 12 cl `Coca-Cola`
-- 1 ml `salt`
+- 1 pinch `salt`
 - 8 `ice cubes`
 
 ## Instructions

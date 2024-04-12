@@ -4,7 +4,7 @@
 - 5 cl `gin`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
-- ½ `egg white`
+- 1 `egg white`
 - 5 cl `soda water`
 - 8 `ice cubes`
 

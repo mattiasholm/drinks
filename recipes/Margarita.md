@@ -4,7 +4,7 @@
 - 4 cl `tequila`
 - 2 cl `Cointreau`
 - 2 cl `lime juice`
-- 1 ml `salt`
+- 1 pinch `salt`
 - 16 `ice cubes`
 
 ## Instructions

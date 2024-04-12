@@ -5,7 +5,7 @@
 - 2 cl `Cointreau`
 - 2 cl `dry vermouth`
 - 2 cl `lemon juice`
-- 1 bar spoon `absinthe`
+- 0.5 cl `absinthe`
 - 8 `ice cubes`
 
 ## Instructions

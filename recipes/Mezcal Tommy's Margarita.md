@@ -4,7 +4,7 @@
 - 5 cl `mezcal`
 - 3 cl `lime juice`
 - 2 cl `agave syrup`
-- 1 ml `salt`
+- 1 pinch `salt`
 - 16 `ice cubes`
 
 ## Instructions

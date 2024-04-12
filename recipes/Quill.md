@@ -4,7 +4,7 @@
 - 2 cl `gin`
 - 2 cl `Campari`
 - 2 cl `sweet vermouth`
-- 1 bar spoon `absinthe`
+- 0.5 cl `absinthe`
 - 1 `orange peel`
 - 8 `ice cubes`
 - 1 `clear ice cube`

@@ -3,7 +3,7 @@
 ## Ingredients
 - 4 cl `rye whiskey`
 - 2 cl `dry vermouth`
-- 1 bar spoon `maraschino liqueur`
+- 0.5 cl `maraschino liqueur`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `maraschino cherry`
 - 8 `ice cubes`

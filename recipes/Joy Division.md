@@ -4,7 +4,7 @@
 - 4 cl `gin`
 - 2 cl `dry vermouth`
 - 1 cl `Cointreau`
-- 1 bar spoon `absinthe`
+- 0.5 cl `absinthe`
 - 1 `lemon peel`
 - 8 `ice cubes`
 

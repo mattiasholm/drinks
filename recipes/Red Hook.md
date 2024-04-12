@@ -3,7 +3,7 @@
 ## Ingredients
 - 4 cl `rye whiskey`
 - 2 cl `sweet vermouth`
-- 1 bar spoon `maraschino liqueur`
+- 0.5 cl `maraschino liqueur`
 - 1 `maraschino cherry`
 - 8 `ice cubes`
 

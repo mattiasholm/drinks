@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 5 cl `bourbon`
-- ½ `lemon`
+- 0.5 `lemon`
 - 2 cl `simple syrup`
 - 10 `mint leaves`
 - 16 `ice cubes`

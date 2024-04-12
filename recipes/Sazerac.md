@@ -4,7 +4,7 @@
 - 5 cl `rye whiskey`
 - 1 cl `demerara syrup`
 - 2 dashes `Peychaud's Bitters`
-- 1 bar spoon `absinthe`
+- 0.5 cl `absinthe`
 - 1 `lemon peel`
 - 8 `ice cubes`
 
