@@ -1,14 +1,14 @@
 # Oaxacanite
 
 ## Ingredients
-- 3 cl `tequila`
+- 3 cl `tequila blanco`
 - 2 cl `mezcal`
 - 3 cl `lime juice`
 - 2 cl `honey syrup`
 - 8 `ice cubes`
 
 ## Instructions
-- Add tequila
+- Add tequila blanco
 - Add mezcal
 - Add lime juice
 - Add honey syrup

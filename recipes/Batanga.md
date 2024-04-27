@@ -1,7 +1,7 @@
 # Batanga
 
 ## Ingredients
-- 4 cl `tequila`
+- 4 cl `tequila blanco`
 - 1 cl `lime juice`
 - 12 cl `Coca-Cola`
 - 1 pinch `salt`
@@ -9,7 +9,7 @@
 
 ## Instructions
 - Rim the glass with salt
-- Add tequila
+- Add tequila blanco
 - Add lime juice
 - Add Coca-Cola
 - Add ice cubes

@@ -1,7 +1,7 @@
 # Tommy's Margarita
 
 ## Ingredients
-- 5 cl `tequila`
+- 5 cl `tequila blanco`
 - 3 cl `lime juice`
 - 2 cl `agave syrup`
 - 1 pinch `salt`
@@ -9,7 +9,7 @@
 
 ## Instructions
 - Rim the glass with salt
-- Add tequila
+- Add tequila blanco
 - Add lime juice
 - Add agave syrup
 - Add ice cubes and shake for 15 seconds

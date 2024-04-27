@@ -1,7 +1,7 @@
 # Mexican Maid
 
 ## Ingredients
-- 5 cl `tequila`
+- 5 cl `tequila blanco`
 - 3 cl `lime juice`
 - 2 cl `simple syrup`
 - 5 `cucumber slices`
@@ -10,7 +10,7 @@
 
 ## Instructions
 - Muddle cucumber slices
-- Add tequila
+- Add tequila blanco
 - Add lime juice
 - Add simple syrup
 - Add mint leaves

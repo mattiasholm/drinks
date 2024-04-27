@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 1 cl `vodka`
-- 1 cl `tequila`
+- 1 cl `tequila blanco`
 - 1 cl `white rum`
 - 1 cl `gin`
 - 1 cl `triple sec`
@@ -13,7 +13,7 @@
 
 ## Instructions
 - Add vodka
-- Add tequila
+- Add tequila blanco
 - Add white rum
 - Add gin
 - Add triple sec

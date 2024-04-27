@@ -1,14 +1,14 @@
 # Tequila Sour
 
 ## Ingredients
-- 5 cl `tequila`
+- 5 cl `tequila blanco`
 - 3 cl `lemon juice`
 - 2 cl `simple syrup`
 - 1 `egg white`
 - 8 `ice cubes`
 
 ## Instructions
-- Add tequila
+- Add tequila blanco
 - Add lemon juice
 - Add simple syrup
 - Add egg white

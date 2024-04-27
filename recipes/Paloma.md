@@ -1,7 +1,7 @@
 # Paloma
 
 ## Ingredients
-- 4 cl `tequila`
+- 4 cl `tequila blanco`
 - 1 cl `lime juice`
 - 2 cl `agave syrup`
 - 5 cl `grapefruit juice`
@@ -11,7 +11,7 @@
 
 ## Instructions
 - Rim the glass with salt
-- Add tequila
+- Add tequila blanco
 - Add lime juice
 - Add agave syrup
 - Add grapefruit juice
