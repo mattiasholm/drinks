@@ -1,8 +1,8 @@
 # Hanky Panky
 
 ## Ingredients
-- 3 cl `gin`
-- 3 cl `sweet vermouth`
+- 4 cl `gin`
+- 2 cl `sweet vermouth`
 - 0.5 cl `Fernet-Branca`
 - 1 `orange peel`
 - 8 `ice cubes`
@@ -19,4 +19,4 @@
 - Coupe glass
 
 ## Rating
-- ★★★☆☆
+- ★★★★☆
