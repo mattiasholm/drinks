@@ -4,12 +4,12 @@
 - 4 cl `gin`
 - 2 cl `sweet vermouth`
 - 0.5 cl `maraschino liqueur`
-- 2 dashes `Angostura Aromatic Bitters`
+- 2 dashes `Angostura Orange Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`
 
 ## Instructions
-- Add Angostura Aromatic Bitters
+- Add Angostura Orange Bitters
 - Add gin
 - Add sweet vermouth
 - Add maraschino liqueur
