@@ -1,8 +1,8 @@
 # Oaxaca Old Fashioned
 
 ## Ingredients
-- 4 cl `tequila añejo`
-- 1 cl `mezcal`
+- 3 cl `tequila añejo`
+- 2 cl `mezcal`
 - 1 cl `agave syrup`
 - 2 dashes `Angostura Aromatic Bitters`
 - 1 `orange peel`
