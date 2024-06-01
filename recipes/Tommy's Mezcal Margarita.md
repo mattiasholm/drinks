@@ -1,4 +1,4 @@
-# Mezcal Tommy's Margarita
+# Tommy's Mezcal Margarita
 
 ## Ingredients
 - 5 cl `mezcal`
