@@ -1,4 +1,4 @@
-# Mezcal Maid
+# Oaxacan Maid
 
 ## Ingredients
 - 5 cl `mezcal`
