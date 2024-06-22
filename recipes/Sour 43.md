@@ -1,4 +1,4 @@
-# 43 Sour
+# Sour 43
 
 ## Ingredients
 - 5 cl `Licor 43`

@@ -1,4 +1,4 @@
-# Baileys Milk
+# Baileys & Milk
 
 ## Ingredients
 - 6 cl `Baileys`

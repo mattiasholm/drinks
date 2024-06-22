@@ -1,4 +1,4 @@
-# 7 & 7
+# Bourbon & 7
 
 ## Ingredients
 - 4 cl `bourbon`

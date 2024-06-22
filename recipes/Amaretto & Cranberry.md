@@ -1,17 +1,17 @@
-# Amaretto Milk
+# Amaretto & Cranberry
 
 ## Ingredients
 - 4 cl `amaretto`
-- 15 cl `milk`
+- 10 cl `cranberry juice`
 - 8 `ice cubes`
 
 ## Instructions
 - Add amaretto
-- Add milk
+- Add cranberry juice
 - Add ice cubes
 
 ## Glassware
 - Highball glass
 
 ## Rating
-- ★★★☆☆
+- ★★★★☆

@@ -1,15 +1,13 @@
-# Banana Coke
+# Banana & Milk
 
 ## Ingredients
-- 2 cl `vodka`
-- 2 cl `banana liqueur`
-- 12 cl `Coca-Cola`
+- 4 cl `banana liqueur`
+- 15 cl `milk`
 - 8 `ice cubes`
 
 ## Instructions
-- Add vodka
 - Add banana liqueur
-- Add Coca-Cola
+- Add milk
 - Add ice cubes
 
 ## Glassware
