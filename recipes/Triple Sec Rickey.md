@@ -1,4 +1,4 @@
-# Orange Rickey
+# Triple Sec Rickey
 
 ## Ingredients
 - 5 cl `triple sec`

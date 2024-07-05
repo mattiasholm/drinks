@@ -1,4 +1,4 @@
-# Orange Tonic
+# Triple Sec Tonic
 
 ## Ingredients
 - 5 cl `triple sec`
