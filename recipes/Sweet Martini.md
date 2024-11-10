@@ -1,4 +1,4 @@
-# Gin & It
+# Sweet Martini
 
 ## Ingredients
 - 4 cl `gin`
