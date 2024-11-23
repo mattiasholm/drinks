@@ -1,4 +1,4 @@
-# Last Of The Oaxacans
+# Closing Argument
 
 ## Ingredients
 - 2 cl `mezcal`
