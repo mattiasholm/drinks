@@ -1,9 +1,14 @@
-name: Deploy to GitHub Pages
+name: Deploy Docusaurus
+# name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - main
+
+defaults:
+  run:
+    working-directory: docusaurus
 
 jobs:
   build:
