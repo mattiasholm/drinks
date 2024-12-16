@@ -24,9 +24,8 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 23
           # cache: npm
-          # working-directory: ${{ env.path }}
 
       - name: Install dependencies
         run: npm install
@@ -37,7 +36,7 @@ jobs:
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          path: ${{ env.path }}/build
 
   deploy:
     name: Deploy to GitHub Pages
