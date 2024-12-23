@@ -27,13 +27,17 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Validate drinks
+        run: validate.py
+        working-directory: scripts
+
       - name: Setup node
         uses: actions/setup-node@v4
         # with:
         # node-version: latest # Implicit?
         # cache: npm # TEST!
 
-      - name: CHECK VERSION # TMP
+      - name: TMP CHECK VERSION # TMP
         run: node --version
 
       - name: Install dependencies

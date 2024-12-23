@@ -2,6 +2,7 @@
 
 import os
 import re
+import sys
 
 path = '../drinks'
 files = os.listdir(path)
@@ -30,6 +31,8 @@ ratings = {
     }
 }
 
+warning = False
+
 for file in files:
     extension = os.path.splitext(file)[-1]
     name = os.path.splitext(file)[0]
@@ -42,41 +45,49 @@ for file in files:
         level = 'WARNING'
         message = 'Incorrect file extension'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
     if header != f'# {name}\n':
         level = 'WARNING'
         message = 'Incorrect name header'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
-    if not '## Ingredients\n' in content:
+    if '## Ingredients\n' not in content:
         level = 'WARNING'
         message = 'Incorrect ingredients header'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
-    if not '## Instructions\n' in content:
+    if '## Instructions\n' not in content:
         level = 'WARNING'
         message = 'Incorrect instructions header'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
-    if not '## Glassware\n' in content:
+    if '## Glassware\n' not in content:
         level = 'WARNING'
         message = 'Incorrect glassware header'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
-    if not '## Rating\n' in content:
+    if '## Rating\n' not in content:
         level = 'WARNING'
         message = 'Incorrect rating header'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
     if not re.match('^- ★[★☆]{4}$', rating):
         level = 'WARNING'
         message = 'Incorrect rating'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
     if re.search('<!--', str(content)):
-        level = 'INFO'
+        level = 'WARNING'
         message = 'Contains comments'
         print(f'{name:<30} {level:<15} {message}')
+        warning = True
 
     ratings[rating.count('★')]['drinks'].append(name)
 
@@ -95,3 +106,6 @@ for key, rating in ratings.items():
 
 average = round(sum(values) / file_count, 1)
 print(f'\nAverage rating:\n{average}')
+
+if warning:
+    sys.exit(2)
