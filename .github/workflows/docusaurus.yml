@@ -1,10 +1,16 @@
-name: Deploy Docusaurus
-# name: Deploy to GitHub Pages
+name: Docusaurus
 
 on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/docusaurus.yml
+      - docusaurus/**
+      - drinks/**
+      - "!**.gitignore"
+
+  workflow_dispatch:
 
 defaults:
   run:
@@ -15,43 +21,49 @@ env:
 
 jobs:
   build:
-    name: Build Docusaurus
+    name: Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 23
-          # cache: npm
+      - name: Setup node
+        uses: actions/setup-node@v4
+        # with:
+        # node-version: latest # Implicit?
+        # cache: npm # TEST!
+
+      - name: CHECK VERSION # TMP
+        run: node --version
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build website
+      - name: Run build
         run: npm run build
 
-      - name: Upload Build Artifact
+      - name: Upload artifact
+        if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ env.path }}/build
 
-  deploy:
-    name: Deploy to GitHub Pages
+  release:
+    name: Release
+    if: github.ref == 'refs/heads/main'
     needs: build
+    runs-on: ubuntu-latest
 
-    permissions:
-      pages: write
-      id-token: write
+    # permissions:
+    #   pages: write
+    #   id-token: write
 
     environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      # name: github-pages
+      name: prod
+      url: ${{ steps.deploy.outputs.page_url }}
 
-    runs-on: ubuntu-latest
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name: Deploy app
+        id: deploy
         uses: actions/deploy-pages@v4

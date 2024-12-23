@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className='button button--secondary button--lg'
-            to='/Airmail'> {/* Temporarily hardcoded, grab first filename dynamically instead! */}
+            to='/Airmail'> {/* Temporarily hardcoded, grab first or RANDOM filename dynamically instead VS built in API to link to docSidebar! */}
             Discover
           </Link>
         </div>

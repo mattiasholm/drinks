@@ -3,7 +3,7 @@
 import os
 import re
 
-path = 'recipes'
+path = '../drinks'
 files = os.listdir(path)
 file_count = len(files)
 

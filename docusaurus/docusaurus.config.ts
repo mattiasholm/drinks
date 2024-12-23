@@ -11,9 +11,6 @@ const config: Config = {
   baseUrl: '/drinks/',
   trailingSlash: false,
 
-  // organizationName: 'mattiasholm', // Needed?
-  // projectName: 'drinks', // Needed?
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -27,7 +24,7 @@ const config: Config = {
       'classic',
       {
         docs: {
-          path: '../recipes',
+          path: '../drinks',
           routeBasePath: '/',
         },
         theme: {
