@@ -76,6 +76,6 @@ jobs:
       pages: write
 
     steps:
-      - name: Deploy app
+      - name: Deploy site
         id: deploy
         uses: actions/deploy-pages@v4
