@@ -31,12 +31,16 @@ jobs:
         run: ./validate.py
         working-directory: scripts
 
+      - name: Cache node modules
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.path }}/node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles(format('{0}/package-lock.json', env.path)) }}
+
       - name: Setup node
         uses: actions/setup-node@v4
         with:
           node-version: latest
-          cache: npm # TEST
-          cache-dependency-path: ${{ env.path }}/package-lock.json # TEST
 
       - name: Install dependencies
         run: npm install
@@ -56,7 +60,6 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     environment:
-      # name: github-pages
       name: prod
       url: ${{ steps.deploy.outputs.page_url }}
     permissions:
