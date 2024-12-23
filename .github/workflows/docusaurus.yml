@@ -31,8 +31,7 @@ env:
 jobs:
   build:
     name: Build
-    # runs-on: ubuntu-latest
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -68,8 +67,7 @@ jobs:
     name: Release
     if: github.ref == 'refs/heads/main'
     needs: build
-    # runs-on: ubuntu-latest
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     environment:
       name: prod
       url: ${{ steps.deploy.outputs.page_url }}
