@@ -9,10 +9,9 @@ const config: Config = {
 
   url: 'https://mattiasholm.github.io',
   baseUrl: '/drinks/',
-  trailingSlash: false, // TEST IF ANY DIFFERENCE!
 
-  organizationName: 'mattiasholm',
-  projectName: 'drinks',
+  // organizationName: 'mattiasholm', // Needed?
+  // projectName: 'drinks', // Needed?
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
