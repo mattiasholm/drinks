@@ -1,0 +1,33 @@
+name: Validate
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/validate.yml
+      - drinks/**
+
+  pull_request:
+    branches:
+      - main
+    paths:
+      - .github/workflows/validate.yml
+      - drinks/**
+
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: scripts
+
+jobs:
+  validate:
+    name: Validate drinks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate drinks
+        run: ./validate.py
