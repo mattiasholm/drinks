@@ -91,7 +91,10 @@ for file in files:
 
     ratings[rating.count('★')]['drinks'].append(name)
 
-print(f'\nNumber of drinks in total:\n{file_count}')
+if warning:
+    print('')
+
+print(f'Number of drinks in total:\n{file_count}')
 
 print('\nNumber of drinks per rating:')
 
