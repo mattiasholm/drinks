@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - .github/workflows/validate.yml
+      - scripts/validate.py
       - drinks/**
 
   pull_request:
@@ -13,6 +14,7 @@ on:
       - main
     paths:
       - .github/workflows/validate.yml
+      - scripts/validate.py
       - drinks/**
 
   workflow_dispatch:
