@@ -2,12 +2,12 @@
 
 ## Ingredients
 - 4 cl `gin`
-- 10 cl `Big Tom Spiced Tomato Juice`
+- 10 cl `tomato juice`
 - 8 `ice cubes`
 
 ## Instructions
 - Add gin
-- Add Big Tom Spiced Tomato Juice
+- Add tomato juice
 - Add ice cubes
 
 ## Glassware

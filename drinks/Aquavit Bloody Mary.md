@@ -1,12 +1,12 @@
-# Bloody Mary
+# Aquavit Bloody Mary
 
 ## Ingredients
-- 4 cl `vodka`
+- 4 cl `aquavit`
 - 10 cl `tomato juice`
 - 8 `ice cubes`
 
 ## Instructions
-- Add vodka
+- Add aquavit
 - Add tomato juice
 - Add ice cubes
 
@@ -14,4 +14,4 @@
 - Highball glass
 
 ## Rating
-- ★★★☆☆
+- ★☆☆☆☆
