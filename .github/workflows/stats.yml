@@ -1,12 +1,12 @@
-name: Validate drinks
+name: Drink stats
 
 on:
   push:
     branches:
       - main
     paths:
-      - .github/workflows/validate.yml
-      - scripts/validate.py
+      - .github/workflows/stats.yml
+      - scripts/stats.py
       - drinks/**
 
   workflow_dispatch:
@@ -17,11 +17,11 @@ defaults:
 
 jobs:
   validate:
-    name: Validate drinks
+    name: Drink stats
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Validate drinks
-        run: ./validate.py
+      - name: Drink stats
+        run: ./stats.py
