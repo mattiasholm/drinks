@@ -6,7 +6,7 @@
 - 1.5 cl `lime juice`
 - 2 cl `simple syrup`
 - 3 cl `cream`
-- 1 ml `orange blossom water`
+- 2 dashes `orange blossom water`
 - 1 `egg white`
 - 5 cl `soda water`
 - 8 `ice cubes`
