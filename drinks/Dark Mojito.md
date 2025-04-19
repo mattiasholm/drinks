@@ -1,4 +1,4 @@
-# Dirty Mojito
+# Dark Mojito
 
 ## Ingredients
 - 4 cl `dark rum`
