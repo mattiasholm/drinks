@@ -18,7 +18,7 @@
 - Add maraschino cherry
 
 ## Glassware
-- Coupe glass
+- Nick & Nora glass
 
 ## Rating
 - ★★☆☆☆

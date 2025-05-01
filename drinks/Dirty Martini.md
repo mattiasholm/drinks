@@ -16,7 +16,7 @@
 - Add olives
 
 ## Glassware
-- Coupe glass
+- Nick & Nora glass
 
 ## Rating
 - ★☆☆☆☆

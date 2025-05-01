@@ -20,7 +20,7 @@
 - Add lemon peel
 
 ## Glassware
-- Coupe glass
+- Nick & Nora glass
 
 ## Rating
 - ★★☆☆☆

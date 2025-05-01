@@ -16,7 +16,7 @@
 - Add orange peel
 
 ## Glassware
-- Coupe glass
+- Nick & Nora glass
 
 ## Rating
 - ★★★★☆
