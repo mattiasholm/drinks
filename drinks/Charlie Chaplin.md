@@ -10,7 +10,7 @@
 - Add sloe gin
 - Add apricot brandy
 - Add lime juice
-- Add ice cubes and stir for 30 seconds
+- Add ice cubes and shake for 15 seconds
 - Strain
 
 ## Glassware
