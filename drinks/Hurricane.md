@@ -1,8 +1,7 @@
 # Hurricane
 
 ## Ingredients
-- 2 cl `dark rum`
-- 2 cl `white rum`
+- 4 cl `dark rum`
 - 2 cl `lime juice`
 - 1 cl `grenadine`
 - 1 cl `simple syrup`
@@ -12,7 +11,6 @@
 
 ## Instructions
 - Add dark rum
-- Add white rum
 - Add lime juice
 - Add grenadine
 - Add simple syrup
