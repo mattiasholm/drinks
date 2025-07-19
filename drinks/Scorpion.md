@@ -1,11 +1,11 @@
 # Scorpion
 
 ## Ingredients
-- 3 cl `white rum`
+- 2 cl `white rum`
 - 2 cl `cognac`
-- 3 cl `lemon juice`
+- 2 cl `lemon juice`
 - 2 cl `orgeat`
-- 5 cl `orange juice`
+- 10 cl `orange juice`
 - 24 `ice cubes`
 
 ## Instructions
@@ -19,7 +19,7 @@
 - Add crushed ice
 
 ## Glassware
-- Highball glass
+- Hurricane glass
 
 ## Rating
-- ★★★☆☆
+- ★★★★☆
