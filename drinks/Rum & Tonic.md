@@ -16,4 +16,4 @@
 - Copa glass
 
 ## Rating
-- ★★☆☆☆
+- ★★★☆☆
