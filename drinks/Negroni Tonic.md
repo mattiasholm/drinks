@@ -1,21 +1,23 @@
-# Negroni Sbagliato
+# Negroni Tonic
 
 ## Ingredients
-- 3 cl `Campari`
-- 3 cl `sweet vermouth`
-- 6 cl `sparkling wine`
+- 2 cl `gin`
+- 2 cl `Campari`
+- 2 cl `sweet vermouth`
+- 10 cl `tonic water`
 - 1 `orange peel`
 - 8 `ice cubes`
 
 ## Instructions
+- Add gin
 - Add Campari
 - Add sweet vermouth
-- Add sparkling wine
+- Add tonic water
 - Add ice cubes
 - Add orange peel
 
 ## Glassware
-- Old Fashioned glass
+- Copa glass
 
 ## Rating
-- ★★★☆☆
+- ★★★★☆
