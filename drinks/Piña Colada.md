@@ -2,16 +2,14 @@
 
 ## Ingredients
 - 4 cl `white rum`
-- 3 cl `simple syrup`
+- 6 cl `cream of coconut`
 - 10 cl `pineapple juice`
-- 2 tbsp `coconut cream`
 - 24 `ice cubes`
 
 ## Instructions
 - Add white rum
-- Add simple syrup
+- Add cream of coconut
 - Add pineapple juice
-- Add coconut cream
 - Add ice cubes and shake for 15 seconds
 - Double strain
 - Add crushed ice
