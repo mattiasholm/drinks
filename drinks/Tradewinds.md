@@ -4,7 +4,7 @@
 - 4 cl `dark rum`
 - 2 cl `apricot brandy`
 - 2 cl `lemon juice`
-- 4 cl `cream of coconut`
+- 6 cl `cream of coconut`
 - 24 `ice cubes`
 
 ## Instructions
