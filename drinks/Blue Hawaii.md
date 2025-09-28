@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 4 cl `white rum`
-- 3 cl `blue curaçao`
+- 2 cl `blue curaçao`
 - 1 cl `lime juice`
 - 1 cl `simple syrup`
 - 10 cl `pineapple juice`
