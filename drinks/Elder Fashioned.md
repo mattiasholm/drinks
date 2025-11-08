@@ -1,7 +1,7 @@
 # Elder Fashioned
 
 ## Ingredients
-- 5 cl `gin`
+- 5 cl `bourbon`
 - 1 cl `elderflower liqueur`
 - 2 dashes `Angostura Orange Bitters`
 - 1 `orange peel`
@@ -11,7 +11,7 @@
 ## Instructions
 - Add clear ice cube
 - Add Angostura Orange Bitters
-- Add gin
+- Add bourbon
 - Add elderflower liqueur
 - Add ice cubes and stir for 30 seconds
 - Strain
@@ -21,4 +21,4 @@
 - Old Fashioned glass
 
 ## Rating
-- ★★☆☆☆
+- ★★★☆☆
