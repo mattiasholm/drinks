@@ -1,4 +1,4 @@
-# Café Caribbean
+# Caribbean Coffee
 
 ## Ingredients
 - 4 cl `dark rum`
