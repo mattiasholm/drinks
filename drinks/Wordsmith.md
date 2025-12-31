@@ -1,7 +1,7 @@
 # Wordsmith
 
 ## Ingredients
-- 2 cl `white rum`
+- 2 cl `dark rum`
 - 2 cl `Chartreuse`
 - 2 cl `maraschino liqueur`
 - 2 cl `lime juice`
@@ -9,7 +9,7 @@
 - 8 `ice cubes`
 
 ## Instructions
-- Add white rum
+- Add dark rum
 - Add Chartreuse
 - Add maraschino liqueur
 - Add lime juice
@@ -21,4 +21,4 @@
 - Nick & Nora glass
 
 ## Rating
-- ★★★☆☆
+- ★★★★☆
