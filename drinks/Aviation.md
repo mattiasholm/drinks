@@ -4,7 +4,7 @@
 - 4 cl `gin`
 - 1 cl `maraschino liqueur`
 - 1 cl `violet liqueur`
-- 1 cl `lemon juice`
+- 2 cl `lemon juice`
 - 1 cl `simple syrup`
 - 1 `maraschino cherry`
 - 8 `ice cubes`
