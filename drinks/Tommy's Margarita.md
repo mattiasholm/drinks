@@ -20,4 +20,4 @@
 - Old Fashioned glass
 
 ## Rating
-- ★★★★★
+- ★★★★☆
