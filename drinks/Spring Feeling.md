@@ -19,4 +19,4 @@
 - Nick & Nora glass
 
 ## Rating
-- ★★★★★
+- ★★★★☆
