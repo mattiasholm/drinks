@@ -1,4 +1,4 @@
-# Dragon's Kiss
+# Fireball & Cranberry
 
 ## Ingredients
 - 4 cl `Fireball`
