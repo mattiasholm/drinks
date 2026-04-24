@@ -1,10 +1,9 @@
-# Planter's Punch
+# Rum Punch
 
 ## Ingredients
 - 4 cl `dark rum`
 - 2 cl `lime juice`
-- 1 cl `grenadine`
-- 1 cl `simple syrup`
+- 2 cl `grenadine`
 - 5 cl `orange juice`
 - 5 cl `pineapple juice`
 - 2 dashes `Angostura Aromatic Bitters`
@@ -15,7 +14,6 @@
 - Add dark rum
 - Add lime juice
 - Add grenadine
-- Add simple syrup
 - Add orange juice
 - Add pineapple juice
 - Add ice cubes and shake for 15 seconds
