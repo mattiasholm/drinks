@@ -14,4 +14,4 @@
 - Irish Coffee glass
 
 ## Rating
-- ★★★☆☆
+- ★★☆☆☆
