@@ -1,4 +1,4 @@
-# Elderflower 75
+# French 77
 
 ## Ingredients
 - 3 cl `gin`
