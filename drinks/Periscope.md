@@ -1,0 +1,27 @@
+# Periscope
+
+## Ingredients
+- 4 cl `gin`
+- 2 cl `elderflower liqueur`
+- 1 cl `lemon juice`
+- 1 cl `lime juice`
+- 1 cl `simple syrup`
+- 1 `egg white`
+- 8 `ice cubes`
+
+## Instructions
+- Add gin
+- Add elderflower liqueur
+- Add lemon juice
+- Add lime juice
+- Add simple syrup
+- Add egg white
+- Dry shake for 15 seconds
+- Add ice cubes and shake for 15 seconds
+- Double strain
+
+## Glassware
+- Coupe glass
+
+## Rating
+- ★★★☆☆
