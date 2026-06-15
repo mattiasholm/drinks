@@ -54,5 +54,5 @@ print('\nDrinks per rating:')
 for rating in ratings.values():
     stars = rating['stars']
     count = len(rating['drinks'])
-    percentage = round(count / file_count * 100, 1)
+    percentage = round(count / file_count * 100)
     print(f'{stars:<30} {count:<15} {percentage}%')
