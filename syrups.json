@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Simple syrup",
+        "ingredients": [
+            "1 part white sugar",
+            "1 part water"
+        ]
+    },
+    {
+        "title": "Demerara syrup",
+        "ingredients": [
+            "1 part demerara sugar",
+            "1 part water"
+        ]
+    },
+    {
+        "title": "Agave syrup",
+        "ingredients": [
+            "1 part agave syrup",
+            "1 part water"
+        ]
+    },
+    {
+        "title": "Honey syrup",
+        "ingredients": [
+            "1 part honey",
+            "1 part water"
+        ]
+    },
+    {
+        "title": "Maple syrup",
+        "ingredients": [
+            "2 parts maple syrup",
+            "1 part water"
+        ]
+    },
+    {
+        "title": "Raspberry syrup",
+        "ingredients": [
+            "2 parts white sugar",
+            "2 parts water",
+            "1 part raspberries"
+        ]
+    },
+    {
+        "title": "Grenadine",
+        "ingredients": [
+            "100 parts white sugar",
+            "100 parts pomegranate juice",
+            "1 part orange blossom water"
+        ]
+    },
+    {
+        "title": "Orgeat",
+        "ingredients": [
+            "100 parts white sugar",
+            "100 parts almond milk",
+            "1 part orange blossom water"
+        ]
+    },
+    {
+        "title": "Cream of coconut",
+        "ingredients": [
+            "1 part white sugar",
+            "1 part water",
+            "2 parts coconut cream"
+        ]
+    },
+    {
+        "title": "Saline solution",
+        "ingredients": [
+            "1 part salt",
+            "4 parts water"
+        ]
+    }
+]
