@@ -13,7 +13,7 @@
 - Add olive brine
 - Add ice cubes and stir for 30 seconds
 - Strain
-- Add olives
+- Add olive
 
 ## Glassware
 - Nick & Nora glass
