@@ -1,8 +1,8 @@
 # Death In The Afternoon
 
 ## Ingredients
-- 3 cl `absinthe`
-- 9 cl `sparkling wine`
+- 2 cl `absinthe`
+- 10 cl `sparkling wine`
 
 ## Instructions
 - Add absinthe
@@ -12,4 +12,4 @@
 - Coupe glass
 
 ## Rating
-- ★☆☆☆☆
+- ★★☆☆☆
