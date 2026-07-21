@@ -1,4 +1,4 @@
-# Sloe Gin Negroni
+# Sloegroni
 
 ## Ingredients
 - 2 cl `sloe gin`
