@@ -4,14 +4,14 @@
 - 3 cl `mezcal`
 - 2 cl `bourbon`
 - 1 cl `orgeat`
-- 2 dashes `Angostura Cocoa Bitters`
+- 2 dashes `The Bitter Truth Chocolate Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`
 - 1 `clear ice cube`
 
 ## Instructions
 - Add clear ice cube
-- Add Angostura Cocoa Bitters
+- Add The Bitter Truth Chocolate Bitters
 - Add mezcal
 - Add bourbon
 - Add orgeat

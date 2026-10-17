@@ -4,12 +4,12 @@
 - 4 cl `mezcal`
 - 2 cl `sweet vermouth`
 - 1 cl `Chartreuse`
-- 2 dashes `Angostura Cocoa Bitters`
+- 2 dashes `The Bitter Truth Chocolate Bitters`
 - 1 `orange peel`
 - 8 `ice cubes`
 
 ## Instructions
-- Add Angostura Cocoa Bitters
+- Add The Bitter Truth Chocolate Bitters
 - Add mezcal
 - Add sweet vermouth
 - Add Chartreuse
